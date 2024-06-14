@@ -1,0 +1,13 @@
+"blog.netwrix.com-Active Directory Delegation Overview.pdf" https://blog.netwrix.com/2022/11/14/active_directory_delegation/
+"blog.netwrix.com-Active Directory Security Groups vs Distribution Groups.pdf" https://blog.netwrix.com/2023/04/28/active-directory-security-groups-vs-distribution-groups/
+"blog.netwrix.com-Resource-Based Constrained Delegation Abuse.pdf" https://blog.netwrix.com/2022/09/29/resource-based-constrained-delegation-abuse/
+"blog.netwrix.com-RID Hijacking How Guests Become Admins.pdf" https://blog.netwrix.com/2023/05/20/rid-hijacking/
+"blog.netwrix.com-Running LAPS in the Race to Security.pdf" https://blog.netwrix.com/2021/08/25/running-laps-in-the-race-to-security/
+"blog.netwrix.com-Stealing User Passwords with Mimikatz DCSync.pdf" https://blog.netwrix.com/2022/09/30/extracting-user-password-data-with-mimikatz-dcsync/
+"blog.netwrix.com-Understanding LSA Protection.pdf" https://blog.netwrix.com/2022/01/11/understanding-lsa-protection/
+"blog.netwrix.com-Using Active Directorys AdminCount Attribute to Find Privileged Accounts.pdf" https://blog.netwrix.com/2022/09/30/admincount_attribute/
+"blog.netwrix.com-WDigest Clear-Text Passwords Stealing More than a Hash.pdf" https://blog.netwrix.com/2022/10/11/wdigest-clear-text-passwords-stealing-more-than-a-hash/
+"blog.netwrix.com-What Is a Global Catalog Server.pdf" https://blog.netwrix.com/2021/11/30/what-is-a-global-catalog-server/
+"blog.netwrix.com-What Is DCSync Attack.pdf" https://blog.netwrix.com/2021/11/30/what-is-dcsync-an-introduction/
+"blog.netwrix.com-What Is Kerberos Delegation An Overview of Kerberos Delegation.pdf" https://blog.netwrix.com/2021/11/30/what-is-kerberos-delegation-an-overview-of-kerberos-delegation/
+"blog.netwrix.com-What Is Zerologon and How Do You Mitigate It.pdf" https://blog.netwrix.com/2023/04/14/zerologon/
