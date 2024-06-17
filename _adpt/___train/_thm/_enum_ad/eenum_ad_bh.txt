@@ -1,0 +1,20 @@
+https://bloodhound.readthedocs.io/en/latest/data-analysis/edges.html
+https://bloodhound.readthedocs.io/en/latest/data-collection/sharphound-all-flags.html
+
+>bloodhound --no-sandbox
+>SharpHound.exe --CollectionMethodds All --Domain za.tryhackme.com --ExcludeDC
+
+https://book.hacktricks.xyz/network-services-pentesting/pentesting-ldap
+https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1
+https://0xinfection.github.io/posts/wmi-ad-enum/
+
+https://bloodhound.readthedocs.io/en/latest/data-collection/sharphound-all-flags.html
+
+
+
+
+
+
+ 
+
+

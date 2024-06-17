@@ -1,0 +1,8 @@
+"02-ardent101.github.io-Kerberos дл€ специалиста по тестированию на проникновение „асть 2  лассические атаки.pdf" https://ardent101.github.io/posts/kerberos_general_attacks/
+"03-ardent101.github.io-Kerberos дл€ специалиста по тестированию на проникновение „асть 3 Ќеограниченное делегирование.pdf" https://ardent101.github.io/posts/kerberos_delegation/
+"04-ardent101.github.io-Kerberos дл€ специалиста по тестированию на проникновение „асть 4 ќграниченное делегирование.pdf" https://ardent101.github.io/posts/kerberos_constrained/
+"05-ardent101.github.io-Kerberos дл€ специалиста по тестированию на проникновение „асть 5 ƒелегирование ограниченное на основ.pdf" https://ardent101.github.io/posts/kerberos_rbcd/
+"06-ardent101.github.io-Kerberos дл€ специалиста по тестированию на проникновение „асть 6 PKINIT.pdf" https://ardent101.github.io/posts/shadow_creds/
+"07-ardent101.github.io-Ќеприметные токены „асть 1 “еори€.pdf" https://ardent101.github.io/posts/tokens_theory/
+"08-ardent101.github.io-Ќемного про построение векторов атак.pdf" https://ardent101.github.io/posts/bh_improvement/
+"09-ardent101.github.io-ќ цел€х и задачах при тестировании на проникновение.pdf" https://ardent101.github.io/posts/manifest/

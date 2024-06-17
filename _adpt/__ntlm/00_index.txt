@@ -1,0 +1,10 @@
+"calcomsoftware.com-How to mitigate PetitPotam NTLM Relay Attack.pdf" https://www.calcomsoftware.com/how-to-mitigate-petitpotam-ntlm-relay-attack/
+"calcomsoftware.com-NTLM v1 and NTLM v2 vs Kerberos.pdf" https://www.calcomsoftware.com/ntlm-v1-and-v2-vs-kerberos
+"calcomsoftware.com-NTLMv1 or NTLMv2 Does it even matter.pdf" https://www.calcomsoftware.com/ntlmv1-or-ntlmv2-does-it-even-matter/
+"calcomsoftware.com-Restrict NTLM Incoming traffic.pdf" https://www.calcomsoftware.com/restrict-ntlm-incoming-traffic/
+"calcomsoftware.com-Windows NT Lan Manager Hardening Best Practices.pdf" https://www.calcomsoftware.com/lan-manager-authentication-level-hardening-best-practices/
+"en.hackndo.com-NTLM Relay - hackndo.pdf" https://en.hackndo.com/ntlm-relay/
+"secureauth.com-Playing with Relayed Credentials.pdf" https://www.secureauth.com/blog/playing-with-relayed-credentials/
+"xakep.ru-BloodHound Натаскиваем ищейку на поиск NTLM Relay.pdf" https://xakep.ru/2023/09/26/bloodhound-ntlm-relay/
+"xakep.ru-Гид по NTLM Relay Захватываем NTLM-аутентификацию для Relay-атаки.pdf" https://xakep.ru/2023/04/07/ntlm-relay-guide/
+"xakep.ru-Гид по NTLM Relay часть 2 Проводим Relay-атаки.pdf" https://xakep.ru/2023/04/11/ntlm-relay-guide-2/

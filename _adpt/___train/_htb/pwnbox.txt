@@ -1,0 +1,9 @@
+https://github.com/theGuildHall/pwnbox
+https://github.com/danieljpinto/Pwnbox
+https://github.com/ret2basic/Hack-The-Box-Pwnbox-Setup
+https://github.com/BlackSnufkin/PwnBox-Kali
+https://gist.github.com/dvdtoth/0c4102aee173c397f22454bc025cfebf
+https://github.com/Cyb3rR3ap3r/thm_attackbox_script/blob/main/main.sh
+
+https://github.com/nssteinbrenner/htb-pwnbox
+https://github.com/nssteinbrenner/htb-pwnbox-ansible

@@ -1,0 +1,11 @@
+"01-en.hackndo.com-Kerberos in Active Directory.pdf" https://en.hackndo.com/kerberos/
+"02-en.hackndo.com-BloodHound - hackndo.pdf" https://en.hackndo.com/bloodhound/
+"03-en.hackndo.com-Extract credentials from lsass remotely.pdf" https://en.hackndo.com/remote-lsass-dump-passwords/
+"04-en.hackndo.com-Pass the Hash - hackndo.pdf" https://en.hackndo.com/pass-the-hash/
+"05-en.hackndo.com-Silver amp Golden Tickets.pdf" https://en.hackndo.com/kerberos-silver-golden-tickets/
+"06-en.hackndo.com-Service Principal Name SPN.pdf" https://en.hackndo.com/service-principal-name-spn/
+"07-en.hackndo.com-AS_REP Roasting - hackndo.pdf" https://en.hackndo.com/kerberos-asrep-roasting/
+"08-en.hackndo.com-Kerberoasting - hackndo.pdf" https://en.hackndo.com/kerberoasting/
+"09-en.hackndo.com-NTLM Relay - hackndo.pdf" https://en.hackndo.com/ntlm-relay/
+"10-en.hackndo.com-Kerberos Delegation.pdf" https://en.hackndo.com/constrained-unconstrained-delegation/
+"11-en.hackndo.com-Spray passwords avoid lockouts.pdf" https://en.hackndo.com/password-spraying-lockout/

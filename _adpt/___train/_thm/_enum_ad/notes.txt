@@ -1,0 +1,3 @@
+http://distributor.za.tryhackme.com/creds
+
+elliott.allen Password: Changeme123

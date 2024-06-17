@@ -1,0 +1,5 @@
+impacket_exec_commands_cheat_sheet.pdf https://training.13cubed.com/downloads
+impacket_exec_commands_cheat_sheet_poster.pdf https://training.13cubed.com/downloads
+LOGON-types-compressed_compressed.pdf https://cybersafe.co.il/wp-content/uploads/2021/11/LOGON-types-compressed_compressed.pdf
+rdp_flowchart.pdf https://training.13cubed.com/downloads
+windows_event_log_cheat_sheet.pdf https://training.13cubed.com/downloads

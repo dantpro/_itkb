@@ -1,0 +1,32 @@
+Get-ADUser -Identity gordon.stevens -Server za.tryhackme.com -Properties *
+Get-ADUser -Filter 'Name -like "*stevens"' -Server za.tryhackme.com | Format-Table Name,SamAccountName -A
+
+Get-ADGroup -Identity Administrators -Server za.tryhackme.com
+Get-ADGroupMember -Identity Administrators -Server za.tryhackme.com
+
+$ChangeDate = New-Object DateTime(2022,02,28,12,00,00)
+Get-ADObject -Filter 'whenChanged -gt $ChangeDate' -includeDeletedObjects -Server za.tryhackme.com
+
+
+Get-ADObject -Filter 'badPwdCount -gt 0' -Server za.tryhackme.com
+
+Set-AdAccountPassword -Identity elliott.allen -Server za.tryhackme.com -OldPassword (ConvertTo-SecureString -AsPlaintext "Changeme123" -force) -NewPassword (ConvertTo-SecureString -AsPlaintext "Changeme456" -force)
+
+
+Get-ADUser -Identity beth.nolan -Server za.tryhackme.com -Properties * |Format-Table name,title
+Get-ADUser -Identity annette.manning -Server za.tryhackme.com -Properties * |Format-List DistinguishedName
+
+
+Get-ADGroup -Identity "Tier 2 Admins" -Properties * -Server za.tryhackme.com |Format-Table name,whenCreated
+Get-ADGroup -Identity "Enterprise Admins" -Properties * -Server za.tryhackme.com |Format-List name,objectSid
+
+
+Get-ADDomain -Server za.tryhackme.com |Format-List name,DeletedObjectsContainer
+
+
+
+
+
+ 
+
+

@@ -1,3 +1,5 @@
 "medium.com-BloodHound Tips and Tricks.pdf" https://medium.com/@riccardo.ancarani94/bloodhound-tips-and-tricks-e1853c4b81ad
 "medium.com-Exploiting Unconstrained Delegation.pdf" https://medium.com/@riccardo.ancarani94/exploiting-unconstrained-delegation-a81eabbd6976
 "medium.com-Review of Attacking and Defending Active Directory.pdf" https://medium.com/@riccardo.ancarani94/review-of-attacking-and-defending-active-directory-9ebcc26ae4d3
+"happycamper84.medium.com-THM Credential Harvesting Walkthrough.pdf" https://happycamper84.medium.com/thm-credential-harvesting-walkthrough-5d6849168c47
+"happycamper84.medium.com-THM Walkthrough list amp AD stuff.pdf" https://happycamper84.medium.com/thm-walkthrough-list-ad-stuff-95280f400bec

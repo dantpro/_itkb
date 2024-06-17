@@ -1,0 +1,4 @@
+"hackingarticles.in-A Detailed Guide on Evil-Winrm.pdf" https://www.hackingarticles.in/a-detailed-guide-on-evil-winrm/
+"hackingarticles.in-A Detailed Guide on Kerbrute.pdf" https://www.hackingarticles.in/a-detailed-guide-on-kerbrute/
+"hackingarticles.in-Credential Dumping  Active Directory Reversible Encryption.pdf" https://www.hackingarticles.in/credential-dumping-active-directory-reversible-encryption/
+"hackingarticles.in-Red TeamBlue Team Practice on Wdigest.pdf" https://www.hackingarticles.in/red-team-blue-team-practice-on-wdigest/

@@ -1,0 +1,2 @@
+hash_crack_en.pdf https://github.com/imrk51/hacking-books/
+rtfm__red_team_field_manual_v3.pdf https://github.com/imrk51/hacking-books/

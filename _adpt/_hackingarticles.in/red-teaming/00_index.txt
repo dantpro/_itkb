@@ -1,0 +1,147 @@
+"140-hackingarticles.in-A Detailed Guide on Pwncat.pdf" https://www.hackingarticles.in/a-detailed-guide-on-pwncat/
+"139-hackingarticles.in-Credential Dumping  Active Directory Reversible Encryption.pdf" https://www.hackingarticles.in/credential-dumping-active-directory-reversible-encryption/
+"138-hackingarticles.in-A Detailed Guide on Chisel.pdf" https://www.hackingarticles.in/a-detailed-guide-on-chisel/
+"137-hackingarticles.in-A Detailed Guide on Evil-Winrm.pdf" https://www.hackingarticles.in/a-detailed-guide-on-evil-winrm/
+"136-hackingarticles.in-A Detailed Guide on Kerbrute.pdf" https://www.hackingarticles.in/a-detailed-guide-on-kerbrute/
+"135-hackingarticles.in-Windows Privilege Escalation Server Operator Group.pdf" https://www.hackingarticles.in/windows-privilege-escalation-server-operator-group/
+"134-hackingarticles.in-MimiKatz for Pentester Kerberos.pdf" https://www.hackingarticles.in/mimikatz-for-pentester-kerberos/
+"133-hackingarticles.in-Caldera Red Team Emulation Part 1.pdf" https://www.hackingarticles.in/caldera-red-team-emulation-part-1/
+"132-hackingarticles.in-Domain Escalation Unconstrained Delegation.pdf" https://www.hackingarticles.in/domain-escalation-unconstrained-delegation/
+"131-hackingarticles.in-Domain Persistence Silver Ticket Attack.pdf" https://www.hackingarticles.in/domain-persistence-silver-ticket-attack/
+"130-hackingarticles.in-A Detailed Guide on Rubeus.pdf" https://www.hackingarticles.in/a-detailed-guide-on-rubeus/
+"129-hackingarticles.in-Process Herpaderping MitreT1055.pdf" https://www.hackingarticles.in/process-herpaderping-mitret1055/
+"128-hackingarticles.in-A Detailed Guide on HTML Smuggling.pdf" https://www.hackingarticles.in/a-detailed-guide-on-html-smuggling/
+"127-hackingarticles.in-Process Doppelganging MitreT1055013.pdf" https://www.hackingarticles.in/process-doppelganging-mitret1055-013/
+"126-hackingarticles.in-Process Hollowing MitreT1055012.pdf" https://www.hackingarticles.in/process-hollowing-mitret1055-012/
+"125-hackingarticles.in-A Detailed Guide on AMSI Bypass.pdf" https://www.hackingarticles.in/a-detailed-guide-on-amsi-bypass/
+"124-hackingarticles.in-Windows Persistence COM Hijacking MITRE T1546015.pdf" https://www.hackingarticles.in/windows-persistence-com-hijacking-mitre-t1546-015/
+"123-hackingarticles.in-Lateral Movement Remote Services MitreT1021.pdf" https://www.hackingarticles.in/lateral-movement-remote-services-mitret1021/
+"122-hackingarticles.in-Lateral Movement WebClient Workstation Takeover.pdf" https://www.hackingarticles.in/lateral-movement-webclient-workstation-takeover/
+"121-hackingarticles.in-Parent PID Spoofing MitreT1134.pdf" https://www.hackingarticles.in/parent-pid-spoofing-mitret1134/
+"120-hackingarticles.in-Indirect Command Execution Defense Evasion T1202.pdf" https://www.hackingarticles.in/indirect-command-execution-defense-evasion-t1202/
+"119-hackingarticles.in-Domain Escalation Resource Based Constrained Delegation.pdf" https://www.hackingarticles.in/domain-escalation-resource-based-constrained-delegation/
+"118-hackingarticles.in-Windows Persistence Shortcut Modification T1547.pdf" https://www.hackingarticles.in/windows-persistence-shortcut-modification-t1547/
+"117-hackingarticles.in-Domain Escalation PetitPotam NTLM Relay to ADCS Endpoints.pdf" https://www.hackingarticles.in/domain-escalation-petitpotam-ntlm-relay-to-adcs-endpoints/
+"116-hackingarticles.in-Domain Persistence Computer Accounts.pdf" https://www.hackingarticles.in/domain-persistence-computer-accounts/
+"115-hackingarticles.in-Domain Persistence Golden Certificate Attack.pdf" https://www.hackingarticles.in/domain-persistence-golden-certificate-attack/
+"114-hackingarticles.in-Process Ghosting Attack.pdf" https://www.hackingarticles.in/process-ghosting-attack/
+"113-hackingarticles.in-Socat for Pentester.pdf" https://www.hackingarticles.in/socat-for-pentester/
+"112-hackingarticles.in-Covenant for Pentester Basics.pdf" https://www.hackingarticles.in/covenant-for-pentester-basics/
+"111-hackingarticles.in-NTLM Downgrade Attack Internal Monologue.pdf" https://www.hackingarticles.in/ntlm-downgrade-attack-internal-monologue/
+"110-hackingarticles.in-Active Directory Enumeration RPCClient.pdf" https://www.hackingarticles.in/active-directory-enumeration-rpcclient/
+"109-hackingarticles.in-Active Directory Enumeration BloodHound.pdf" https://www.hackingarticles.in/active-directory-enumeration-bloodhound/
+"108-hackingarticles.in-Active Directory Enumeration PowerView.pdf" https://www.hackingarticles.in/active-directory-enumeration-powerview/
+"107-hackingarticles.in-Empire for Pentester Active Directory Enumeration.pdf" https://www.hackingarticles.in/empire-for-pentester-active-directory-enumeration/
+"106-hackingarticles.in-Defense Evasion Windows Event Logging T1562002.pdf" https://www.hackingarticles.in/defense-evasion-windows-event-logging-t1562-002/
+"105-hackingarticles.in-Active Directory Pentesting Lab Setup.pdf" https://www.hackingarticles.in/active-directory-pentesting-lab-setup/
+"104-hackingarticles.in-Domain Persistence DSRM.pdf" https://www.hackingarticles.in/domain-persistence-dsrm/
+"103-hackingarticles.in-PowerShell Empire for Pentester Mimikatz.pdf" https://www.hackingarticles.in/powershell-empire-for-pentester-mimikatz-module/
+"102-hackingarticles.in-Port Forwarding amp Tunnelling Cheatsheet.pdf" https://www.hackingarticles.in/port-forwarding-tunnelling-cheatsheet/
+"110-hackingarticles.in-DNScat2 Application Layer CampC.pdf" https://www.hackingarticles.in/dnscat2-application-layer-cc/
+"109-hackingarticles.in-AlienVault Threat HuntingNetwork Analysis.pdf" https://www.hackingarticles.in/alienvault-threat-hunting-network-analysis/
+"108-hackingarticles.in-AlienVault OSSEC IDS Deployment.pdf" https://www.hackingarticles.in/alienvault-ossec-ids-deployment/
+"107-hackingarticles.in-AlienVault End user Devices Integration-Lab Setup Part 2.pdf" https://www.hackingarticles.in/alienvault-end-user-devices-integration-lab-setup-part-2/
+"106-hackingarticles.in-SIEM Lab Setup AlienVault.pdf" https://www.hackingarticles.in/siem-lab-setup-alienvault/
+"105-hackingarticles.in-Defense Evasion with obfuscated Empire.pdf" https://www.hackingarticles.in/defense-evasion-with-obfuscated-empire/
+"104-hackingarticles.in-Threat Hunting Velociraptor for Endpoint Monitoring Part 2.pdf" https://www.hackingarticles.in/threat-hunting-velociraptor-for-endpoint-monitoring-part-2/
+"103-hackingarticles.in-SIEM Windows Client Monitoring with Splunk.pdf" https://www.hackingarticles.in/siem-windows-client-monitoring-with-splunk/
+"102-hackingarticles.in-Data Exfiltration using Linux Binaries.pdf" https://www.hackingarticles.in/data-exfiltration-using-linux-binaries/
+"101-hackingarticles.in-Threat Hunting Velociraptor for Endpoint Monitoring.pdf" https://www.hackingarticles.in/threat-hunting-velociraptor-for-endpoint-monitoring/
+"100-hackingarticles.in-Incident Response Windows Account Logon and logon Events.pdf" https://www.hackingarticles.in/incident-response-windows-account-logon-and-logon-events/
+"099-hackingarticles.in-Incident Response Windows Account Management Event Part 2.pdf" https://www.hackingarticles.in/incident-response-windows-account-management-event-part-2/
+"098-hackingarticles.in-Incident Response Windows Account Management Event Part 1.pdf" https://www.hackingarticles.in/incident-response-windows-account-management-event-part-1/
+"097-hackingarticles.in-Incident Response- Linux Cheatsheet.pdf" https://www.hackingarticles.in/incident-response-linux-cheatsheet/
+"096-hackingarticles.in-Incident Response Windows Cheatsheet.pdf" https://www.hackingarticles.in/incident-response-windows-cheatsheet/
+"095-hackingarticles.in-Defense Evasion Alternate Data Streams.pdf" https://www.hackingarticles.in/defense-evasion-alternate-data-streams/
+"094-hackingarticles.in-SIEM Log Monitoring Lab Setup with Splunk.pdf" https://www.hackingarticles.in/siem-log-monitoring-lab-setup-with-splunk/
+"093-hackingarticles.in-Threat Intelligence MISP Lab Setup.pdf" https://www.hackingarticles.in/threat-intelligence-misp-lab-setup/
+"092-hackingarticles.in-Threat Hunting Log Monitoring Lab Setup with ELK.pdf" https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/
+"091-hackingarticles.in-Defense Evasion Hide Artifacts.pdf" https://www.hackingarticles.in/defense-evasion-hide-artifacts/
+"090-hackingarticles.in-Remote Code Execution Using Impacket.pdf" https://www.hackingarticles.in/remote-code-execution-using-impacket/
+"089-hackingarticles.in-Abusing Kerberos Using Impacket.pdf" https://www.hackingarticles.in/abusing-kerberos-using-impacket/
+"088-hackingarticles.in-Kerberoasting and Pass the Ticket Attack Using Linux.pdf" https://www.hackingarticles.in/kerberoasting-and-pass-the-ticket-attack-using-linux/
+"087-hackingarticles.in-WinRM Penetration Testing.pdf" https://www.hackingarticles.in/winrm-penetration-testing/
+"086-hackingarticles.in-A Detailed Guide on Evil-Winrm.pdf" https://www.hackingarticles.in/a-detailed-guide-on-evil-winrm/
+"085-hackingarticles.in-Domain Persistence DC Shadow Attack.pdf" https://www.hackingarticles.in/domain-persistence-dc-shadow-attack/
+"084-hackingarticles.in-Domain Persistence AdminSDHolder.pdf" https://www.hackingarticles.in/domain-persistence-adminsdholder/
+"083-hackingarticles.in-Abusing Microsoft Outlook 365 to Capture NTLM.pdf" https://www.hackingarticles.in/abusing-microsoft-outlook-365-to-capture-ntlm/
+"082-hackingarticles.in-Comprehensive Guide on Password Spraying Attack.pdf" https://www.hackingarticles.in/comprehensive-guide-on-password-spraying-attack/
+"081-hackingarticles.in-Lateral Movement Pass the Ticket Attack.pdf" https://www.hackingarticles.in/lateral-movement-pass-the-ticket-attack/
+"080-hackingarticles.in-Lateral Movement Pass the Cache.pdf" https://www.hackingarticles.in/lateral-movement-pass-the-ccache/
+"079-hackingarticles.in-Lateral Movement Over Pass the Hash.pdf" https://www.hackingarticles.in/lateral-movement-over-pass-the-hash/
+"078-hackingarticles.in-Lateral Movement Pass the Hash Attack.pdf" https://www.hackingarticles.in/lateral-movement-pass-the-hash-attack/
+"077-hackingarticles.in-Lateral Movement on Active Directory CrackMapExec.pdf" https://www.hackingarticles.in/lateral-moment-on-active-directory-crackmapexec/
+"076-hackingarticles.in-Lateral Movement WMI.pdf" https://www.hackingarticles.in/lateral-movement-wmi/
+"075-hackingarticles.in-AS-REP Roasting.pdf" https://www.hackingarticles.in/as-rep-roasting/
+"074-hackingarticles.in-Deep Dive into Kerberoasting Attack.pdf" https://www.hackingarticles.in/deep-dive-into-kerberoasting-attack/
+"073-hackingarticles.in-Domain Controller Backdoor Skeleton Key.pdf" https://www.hackingarticles.in/domain-controller-backdoor-skeleton-key/
+"072-hackingarticles.in-Kerberos Brute Force Attack.pdf" https://www.hackingarticles.in/kerberos-brute-force-attack/
+"071-hackingarticles.in-Domain Persistence Golden Ticket Attack.pdf" https://www.hackingarticles.in/domain-persistence-golden-ticket-attack/
+"070-hackingarticles.in-Impacket Guide SMBMSRPC.pdf" https://www.hackingarticles.in/impacket-guide-smb-msrpc/
+"069-hackingarticles.in-Data Exfiltration using DNSSteal.pdf" https://www.hackingarticles.in/data-exfiltration-using-dnssteal/
+"068-hackingarticles.in-RDP Session Hijacking with tscon.pdf" https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
+"067-hackingarticles.in-Credential Dumping Windows Autologon Password.pdf" https://www.hackingarticles.in/credential-dumping-windows-autologon-password/
+"066-hackingarticles.in-Credential Dumping Fake Services.pdf" https://www.hackingarticles.in/credential-dumping-fake-services/
+"065-hackingarticles.in-Credential Dumping Domain Cache Credential.pdf" https://www.hackingarticles.in/credential-dumping-domain-cache-credential/
+"064-hackingarticles.in-Credential Dumping LAPS.pdf" https://www.hackingarticles.in/credential-dumpinglaps/
+"063-hackingarticles.in-Credential Dumping DCSync Attack.pdf" https://www.hackingarticles.in/credential-dumping-dcsync-attack/
+"062-hackingarticles.in-Credential Dumping Clipboard.pdf" https://www.hackingarticles.in/credential-dumping-clipboard/
+"061-hackingarticles.in-Credential Dumping Local Security Authority LSALSASSEXE.pdf" https://www.hackingarticles.in/credential-dumping-local-security-authority-lsalsass-exe/
+"060-hackingarticles.in-Credential Dumping Phishing Windows Credentials.pdf" https://www.hackingarticles.in/credential-dumping-phishing-windows-credentials/
+"059-hackingarticles.in-Credential Dumping NTDSdit.pdf" https://www.hackingarticles.in/credential-dumping-ntds-dit/
+"058-hackingarticles.in-Credential Dumping Applications.pdf" https://www.hackingarticles.in/credential-dumping-applications/
+"057-hackingarticles.in-Credential Dumping SAM.pdf" https://www.hackingarticles.in/credential-dumping-sam/
+"056-hackingarticles.in-Credential Dumping Security Support Provider SSP.pdf" https://www.hackingarticles.in/credential-dumping-security-support-provider-ssp/
+"055-hackingarticles.in-Credential Dumping WDigest.pdf" https://www.hackingarticles.in/credential-dumping-wdigest/
+"054-hackingarticles.in-Credential Dumping Windows Credential Manager.pdf" https://www.hackingarticles.in/credential-dumping-windows-credential-manager/
+"053-hackingarticles.in-Credential Dumping Group Policy Preferences GPP.pdf" https://www.hackingarticles.in/credential-dumping-group-policy-preferences-gpp/
+"052-hackingarticles.in-Credential Dumping Wireless.pdf" https://www.hackingarticles.in/credential-dumping-wireless/
+"051-hackingarticles.in-Windows Persistence Port Monitors.pdf" https://www.hackingarticles.in/windows-persistence-port-monitors/
+"050-hackingarticles.in-Windows Persistence using Netsh.pdf" https://www.hackingarticles.in/windows-persistence-using-netsh/
+"049-hackingarticles.in-Windows Persistence using Bits Job.pdf" https://www.hackingarticles.in/windows-persistence-using-bits-job/
+"048-hackingarticles.in-Windows Persistence using WinLogon.pdf" https://www.hackingarticles.in/windows-persistence-using-winlogon/
+"047-hackingarticles.in-Windows Persistence Accessibility Features.pdf" https://www.hackingarticles.in/windows-persistence-accessibility-features/
+"046-hackingarticles.in-Windows Persistence RID Hijacking.pdf" https://www.hackingarticles.in/windows-persistence-rid-hijacking/
+"045-hackingarticles.in-Windows Persistence using Application Shimming.pdf" https://www.hackingarticles.in/windows-persistence-using-application-shimming/
+"044-hackingarticles.in-Bypass Detection for Meterpreter Shell Impersonate_SSL.pdf" https://www.hackingarticles.in/bypass-detection-for-meterpreter-shell-impersonate_ssl/
+"043-hackingarticles.in-Command amp Control PoshC2.pdf" https://www.hackingarticles.in/command-control-poshc2/
+"042-hackingarticles.in-A Deep Drive on Proactive Threat Hunting.pdf" https://www.hackingarticles.in/a-deep-drive-on-proactive-threat-hunting/
+"041-hackingarticles.in-Threat Hunting  A proactive Method to Identify Hidden Threat.pdf" https://www.hackingarticles.in/threat-hunting-a-proactive-method-to-identify-hidden-threat/
+"039-hackingarticles.in-Multiple Ways to Exploit Windows Systems using Macros.pdf" https://www.hackingarticles.in/multiple-ways-to-exploit-windows-systems-using-macros/
+"037-hackingarticles.in-Windows for Pentester Certutil.pdf" https://www.hackingarticles.in/windows-for-pentester-certutil/
+"036-hackingarticles.in-Guide to Red Team Operations.pdf" https://www.hackingarticles.in/guide-to-red-team-operations/
+"035-hackingarticles.in-Command and Control amp Tunnelling via ICMP.pdf" https://www.hackingarticles.in/command-and-control-tunnelling-via-icmp/
+"034-hackingarticles.in-Cloakify-Factory A Data Exfiltration Tool Uses Text-Based Steganography.pdf" https://www.hackingarticles.in/cloakify-factory-a-data-exfiltration-tool-uses-text-based-steganography/
+"033-hackingarticles.in-Data Exfiltration using PowerShell Empire.pdf" https://www.hackingarticles.in/data-exfiltration-using-powershell-empire/
+"032-hackingarticles.in-Get Meterpreter Session Alert over slack.pdf" https://www.hackingarticles.in/get-meterpreter-session-alert-over-slack/
+"031-hackingarticles.in-Covert Channel The Hidden Network.pdf" https://www.hackingarticles.in/covert-channel-the-hidden-network/
+"030-hackingarticles.in-Command amp Control Ares.pdf" https://www.hackingarticles.in/command-control-ares/
+"029-hackingarticles.in-Command amp Control WebDav C2.pdf" https://www.hackingarticles.in/command-control-webdav-c2/
+"028-hackingarticles.in-Command amp Control WebSocket C2.pdf" https://www.hackingarticles.in/command-control-websocketc2/
+"027-hackingarticles.in-Command and Control with DropboxC2.pdf" https://www.hackingarticles.in/command-and-control-with-dropboxc2/
+"026-hackingarticles.in-Command amp Control Silenttrinity Post-Exploitation Agent.pdf" https://www.hackingarticles.in/command-control-silenttrinity-post-exploitation-agent/
+"025-hackingarticles.in-Command amp Control Tool Pupy.pdf" https://www.hackingarticles.in/command-control-tool-pupy/
+"024-hackingarticles.in-Command and Control Guide to Merlin.pdf" https://www.hackingarticles.in/command-and-control-guide-to-merlin/
+"023-hackingarticles.in-nps_payload An Application Whitelisting Bypass Tool.pdf" https://www.hackingarticles.in/nps_payload-an-application-whitelisting-bypass-tool/
+"022-hackingarticles.in-GreatSct  An Application Whitelist Bypass Tool.pdf" https://www.hackingarticles.in/greatsct-an-application-whitelist-bypass-tool/
+"021-hackingarticles.in-Command and Control with HTTP Shell using JSRat.pdf" https://www.hackingarticles.in/command-and-control-with-http-shell-using-jsrat/
+"020-hackingarticles.in-Koadic  COM Command amp Control Framework.pdf" https://www.hackingarticles.in/koadic-com-command-control-framework/
+"019-hackingarticles.in-TrevorC2  Command and Control.pdf" https://www.hackingarticles.in/trevorc2-command-and-control/
+"018-hackingarticles.in-Generate Metasploit Payload with Ps1encode.pdf" https://www.hackingarticles.in/generate-metasploit-payload-with-ps1encode/
+"017-hackingarticles.in-Bypass Application Whitelisting using Weak Path Rule.pdf" https://www.hackingarticles.in/bypass-application-whitelisting-using-weak-path-rule/
+"016-hackingarticles.in-Windows Exploitation cmstp.pdf" https://www.hackingarticles.in/windows-exploitation-cmstp/
+"015-hackingarticles.in-Windows Exploitation rundll32exe.pdf" https://www.hackingarticles.in/windows-exploitation-rundll32-exe/
+"014-hackingarticles.in-Windows Exploitation regsvr32.pdf" https://www.hackingarticles.in/windows-exploitation-regsvr32/
+"013-hackingarticles.in-Windows Exploitation wmic.pdf" https://www.hackingarticles.in/windows-exploitation-wmic/
+"012-hackingarticles.in-Windows Exploitation msbuild.pdf" https://www.hackingarticles.in/windows-exploitation-msbuild/
+"011-hackingarticles.in-Windows Exploitation mshta.pdf" https://www.hackingarticles.in/windows-exploitation-mshta/
+"010-hackingarticles.in-Windows Exploitation msiexecexe.pdf" https://www.hackingarticles.in/windows-exploitationmsiexec-exe/
+"009-hackingarticles.in-Windows Applocker Policy  A Beginners Guide.pdf" https://www.hackingarticles.in/windows-applocker-policy-a-beginners-guide/
+"008-hackingarticles.in-Comprehensive Guide on MSFPC.pdf" https://www.hackingarticles.in/comprehensive-guide-on-msfpc/
+"007-hackingarticles.in-Multiple Ways to Exploiting Windows PC using PowerShell Empire.pdf" https://www.hackingarticles.in/multiple-ways-to-exploiting-windows-pc-using-powershell-empire/
+"006-hackingarticles.in-Empire GUI Graphical Interface to the Empire Post-Exploitation Framework.pdf" https://www.hackingarticles.in/empire-gui-graphical-interface-to-the-empire-post-exploitation-framework/
+"005-hackingarticles.in-OSX Exploitation with Powershell Empire.pdf" https://www.hackingarticles.in/osx-exploitation-with-powershell-empire/
+"004-hackingarticles.in-Windows Persistence with PowerShell Empire.pdf" https://www.hackingarticles.in/windows-persistence-with-powershell-empire/
+"003-hackingarticles.in-Multiple Ways to Exploiting OSX using PowerShell Empire.pdf" https://www.hackingarticles.in/multiple-ways-to-exploiting-osx-using-powershell-empire/
+"002-hackingarticles.in-Hiding IP During Pentest using PowerShell Empire http_hop.pdf" https://www.hackingarticles.in/hiding-ip-during-pentest-using-powershell-empire-http_hop/
+"001-hackingarticles.in-Hacking with Empire  PowerShell Post-Exploitation Agent.pdf" https://www.hackingarticles.in/hacking-with-empire-powershell-post-exploitation-agent/
