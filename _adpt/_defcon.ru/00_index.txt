@@ -1,0 +1,8 @@
+"defcon.ru-јтаки на Active Directory часть 1.pdf" https://defcon.ru/penetration-testing/19041/
+"defcon.ru-јтаки на Active Directory часть 2.pdf" https://defcon.ru/penetration-testing/18901/
+"defcon.ru-јтаки на Active Directory часть 3.pdf" https://defcon.ru/penetration-testing/18931/
+"defcon.ru-јтаки на Active Directory часть 4.pdf" https://defcon.ru/penetration-testing/18955/
+"defcon.ru-јтаки на Active Directory часть 5.pdf" https://defcon.ru/penetration-testing/18990/
+"defcon.ru-јтаки на Active Directory часть 6.pdf" https://defcon.ru/penetration-testing/19011/
+"defcon.ru-јтаки на Active Directory часть 7.pdf" https://defcon.ru/penetration-testing/19041/
+"zer1t0.gitlab.io-gt Attacking Active Directory 0 to 09.pdf" https://zer1t0.gitlab.io/posts/attacking_ad/
