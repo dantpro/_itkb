@@ -1,2 +1,1 @@
-"heartburn.dev-Active Directory Penetration Testing - The Fundamentals of Kerberos.pdf" https://heartburn.dev/kerberos-fundamentals/
 "zer1t0.gitlab.io-gt Attacking Active Directory 0 to 09.pdf" https://zer1t0.gitlab.io/posts/attacking_ad/

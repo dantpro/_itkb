@@ -1,0 +1,1 @@
+"heartburn.dev-Active Directory Penetration Testing - The Fundamentals of Kerberos.pdf" https://heartburn.dev/kerberos-fundamentals/
