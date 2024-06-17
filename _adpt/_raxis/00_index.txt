@@ -1,0 +1,5 @@
+"01-raxis.com-How to Create an AD Test Environment.pdf" https://raxis.com/blog/create-ad-environment/
+"02-raxis.com-AD Series How to Perform Broadcast Attacks Using NTLMRelayx MiTM6 and Responder.pdf" https://raxis.com/blog/ad-series-how-to-perform-broadcast-attacks/
+"03-raxis.com-AD Series Active Directory Certificate Services ADCS Misconfiguration Exploits.pdf" https://raxis.com/blog/ad-series-active-directory-certificate-services-adcs-misconfiguration-exploits/
+"04-raxis.com-AD Series Active Directory Certificate Services ADCS Exploits Using NTLMRelayxpy.pdf" https://raxis.com/blog/ad-series-active-directory-certificate-services-adcs-exploits-using-ntlmrelayx-py/
+"05-raxis.com-AD Series Resource Based Constrained Delegation RBCD.pdf" https://raxis.com/blog/ad-series-resource-based-constrained-delegation-rbcd/
