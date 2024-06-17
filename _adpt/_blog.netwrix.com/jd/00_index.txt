@@ -1,0 +1,5 @@
+"blog.netwrix.com-jd-05-How To Secure Default IIS Site amp Enable Windows Authentication.pdf" https://blog.netwrix.com/2022/10/21/enable-windows-authentication-iis/
+"blog.netwrix.com-jd-04-Group Scope in Active Directory.pdf" https://blog.netwrix.com/2022/10/19/group-scope-in-active-directory/
+"blog.netwrix.com-jd-03-How to Back Up and Restore Group Policy Objects GPOs.pdf" https://blog.netwrix.com/2022/10/18/how-to-backup-and-restore-group-policy-objects/
+"blog.netwrix.com-jd-02-PACRequestorEnforcement and Kerberos Authentication.pdf" https://blog.netwrix.com/2022/01/10/pacrequestorenforcement-and-kerberos-authentication/
+"blog.netwrix.com-jd-01-Active Directory Certificate Services Risky Settings and How to Remediate Them.pdf" https://blog.netwrix.com/2021/08/24/active-directory-certificate-services-risky-settings-and-how-to-remediate-them/
