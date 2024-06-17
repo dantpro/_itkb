@@ -1,0 +1,2 @@
+Mitigating-Pass-the-Hash-Attacks-and-Other-Credential-Theft-Version-2.pdf https://aka.ms/pthv2 https://www.microsoft.com/en-us/download/details.aspx?id=36036
+"WE-SCRTY-CNTNT-FY17-03Mar-13-Advanced Threat Analytics-310193_content.pdf" http://aka.ms/ataplaybook https://info.microsoft.com/rs/157-GQE-382/images/WE-SCRTY-CNTNT-FY17-03Mar-13-Advanced%20Threat%20Analytics-310193_content.pdf
