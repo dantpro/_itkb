@@ -1,2 +1,4 @@
 "habr.com-Брутфорс хэшей в Active Directory  Хабр.pdf" https://habr.com/ru/companies/deiteriylab/articles/584160/
 "habr.com-OSINT или разведка по открытым источникам  Хабр.pdf" https://habr.com/ru/companies/deiteriylab/articles/595801/
+"habr.com-Дампы LSASS для всех даром и пусть никто не уйдет обиженный  Хабр.pdf" https://habr.com/ru/companies/angarasecurity/articles/661341/
+"habr.com-Делегируй меня полностью или Новый взгляд на RBCD-атаки в AD  Хабр.pdf" https://habr.com/ru/companies/angarasecurity/articles/680138/
