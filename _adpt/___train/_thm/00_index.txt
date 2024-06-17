@@ -1,1 +1,0 @@
-"tryhackme.com-Active Directory Basics.pdf" https://tryhackme.com/r/room/winadbasics
