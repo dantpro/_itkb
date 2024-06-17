@@ -1,1 +1,2 @@
 "habr.com-Брутфорс хэшей в Active Directory  Хабр.pdf" https://habr.com/ru/companies/deiteriylab/articles/584160/
+"habr.com-OSINT или разведка по открытым источникам  Хабр.pdf" https://habr.com/ru/companies/deiteriylab/articles/595801/
