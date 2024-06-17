@@ -1,1 +1,2 @@
 "heartburn.dev-Active Directory Penetration Testing - The Fundamentals of Kerberos.pdf" https://heartburn.dev/kerberos-fundamentals/
+"roguelynn.com-Explain like Im 5 Kerberos.pdf" https://www.roguelynn.com/words/explain-like-im-5-kerberos/
