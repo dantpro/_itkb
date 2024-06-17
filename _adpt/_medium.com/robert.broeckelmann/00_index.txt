@@ -1,1 +1,9 @@
 "medium.com-00-Kerberos and Windows Security Series.pdf" https://medium.com/@robert.broeckelmann/kerberos-and-windows-security-series-59282e0f9465
+"medium.com-01-Kerberos and Windows Security History.pdf" https://medium.com/@robert.broeckelmann/kerberos-and-windows-security-history-252ccb510137
+"medium.com-02-Kerberos v5 Related Specs and RFCs.pdf" https://medium.com/@robert.broeckelmann/kerberos-v5-related-specs-and-rfcs-281c7b088025
+"medium.com-03-Kerberos and Windows Security Kerberos v5 Protocol.pdf" https://medium.com/@robert.broeckelmann/kerberos-and-windows-security-kerberos-v5-protocol-b9c804e06479
+"medium.com-04-Kerberos Wireshark Captures A Windows Login Example.pdf" https://medium.com/@robert.broeckelmann/kerberos-wireshark-captures-a-windows-login-example-151fabf3375a
+"medium.com-05-Kerberos Wireshark Captures A SPNEGO Example.pdf" https://medium.com/@robert.broeckelmann/kerberos-wireshark-captures-a-spnego-example-e22e6b1d662a
+"medium.com-06-Active Directory Federation Services ADFS and Kerberos.pdf" https://medium.com/@robert.broeckelmann/active-directory-federation-services-adfs-and-kerberos-f36c71e13be5
+"medium.com-07-Kerberos and Windows Security Kerberos on Windows.pdf" https://medium.com/@robert.broeckelmann/kerberos-and-windows-security-kerberos-on-windows-3bc021bc9630
+"medium.com-08-Kerberos and Windows Security Delegation.pdf" https://medium.com/@robert.broeckelmann/kerberos-and-windows-security-delegation-7b5a3f31d779
