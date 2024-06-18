@@ -1,0 +1,3 @@
+"heartburn.dev-Exploiting Active Directory Certificate Services - ESC11 Walkthrough.pdf" https://heartburn.dev/exploiting-active-directory-certificate-services-esc11-walkthrough/
+"heartburn.dev-Active Directory Penetration Testing - The Fundamentals of Kerberos.pdf" https://heartburn.dev/kerberos-fundamentals/
+"heartburn.dev-Automating the Creation of TCM Securitys PEH Home Active Directory Labs - Its Terra-fying.pdf" https://heartburn.dev/automating-the-creation-of-vulnerable-active-directory-labs-with-terraform-how-terra-fying/
