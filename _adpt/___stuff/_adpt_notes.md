@@ -1,4 +1,6 @@
 ---
+[DA](https://1drv.ms/o/s!Ak2TwarF4UzxglawRgkGep2uD4Q_)  
+
 [InfoSec Notes - AD](https://notes.qazeer.io/active-directory)    
 
 [0xBEN Notes - AD](https://notes.benheater.com/books/active-directory)  
@@ -14,6 +16,7 @@
 [netwrix - joe-dibley](https://blog.netwrix.com/author/joe-dibley/)  
 
 [netwrix - ad attack](https://www.netwrix.com/attack.html)
+
 
 ---
 
