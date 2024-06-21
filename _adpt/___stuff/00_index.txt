@@ -1,2 +1,3 @@
 "habr.com-Commando VM  альтернатива Kali Linux для Windows.pdf" https://habr.com/ru/articles/446152/
 "innostage-group.ru-Commando VM  атакующий дистрибутив Windows.pdf" https://innostage-group.ru/press/blog/technical/commandovm/
+"cloud.google.com-Commando VM The First of Its Kind Windows Offensive Distribution.pdf" https://cloud.google.com/blog/topics/threat-intelligence/commando-vm-windows-offensive-distribution

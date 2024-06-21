@@ -1,0 +1,3 @@
+"labs.lares.com-Kerberos I - Overview.pdf" https://labs.lares.com/fear-kerberos-pt1/
+"labs.lares.com-Kerberos III - User Impersonation.pdf" https://labs.lares.com/fear-kerberos-pt3/
+"labs.lares.com-Kerberos II - Credential Access.pdf" https://labs.lares.com/fear-kerberos-pt2/
