@@ -1,0 +1,1 @@
+"techcommunity.microsoft.com-Understanding Read Only Domain Controller authentication.pdf" https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/understanding-8220-read-only-domain-controller-8221/ba-p/395031
