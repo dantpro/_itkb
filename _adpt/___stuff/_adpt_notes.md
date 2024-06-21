@@ -17,6 +17,8 @@
 
 [netwrix - ad attack](https://www.netwrix.com/attack.html)
 
+[pentestlab](https://pentestlab.blog/category/red-team/)
+
 
 ---
 
