@@ -1,3 +1,10 @@
 "labs.lares.com-Kerberos I - Overview.pdf" https://labs.lares.com/fear-kerberos-pt1/
 "labs.lares.com-Kerberos III - User Impersonation.pdf" https://labs.lares.com/fear-kerberos-pt3/
 "labs.lares.com-Kerberos II - Credential Access.pdf" https://labs.lares.com/fear-kerberos-pt2/
+"labs.lares.com-Introducing Slinky Cat - Living off the AD Land.pdf" https://labs.lares.com/introducing-slinkycat/
+"labs.lares.com-Common ADCS Vulnerabilities Logging Exploitation and Investigation - Part 1.pdf" https://labs.lares.com/adcs-exploits-investigations-pt1/
+"labs.lares.com-Common ADCS Vulnerabilities Logging Exploitation and Investigation - Part 2.pdf" https://labs.lares.com/adcs-exploits-investigations-pt2/
+"labs.lares.com-Pentesting 101 Part 1 So you need or want a Pentest.pdf" https://labs.lares.com/pentesting-101-pt1/
+"labs.lares.com-Pentesting 101 Part 2 The Pre-Reqs of Scoping a Penetration Test Engagement.pdf" https://labs.lares.com/pentesting-101-pt2/
+"labs.lares.com-Pentesting 101 Part 3 Executing the Scope-of-Work amp Penetration Testing.pdf" https://labs.lares.com/pentesting-101-pt3/
+"labs.lares.com-Pentesting 101 Part 4 Penetration Test Report amp Debrief - The Deliverables.pdf" https://labs.lares.com/pentesting-101-pt4/
