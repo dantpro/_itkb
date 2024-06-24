@@ -1,0 +1,7 @@
+"07-offsec.almond.consulting-LDAP authentication in Active Directory environments.pdf" https://offsec.almond.consulting/ldap-authentication-in-active-directory-environments.html
+"06-offsec.almond.consulting-Authenticating with certificates when PKINIT is not supported.pdf" https://offsec.almond.consulting/authenticating-with-certificates-when-pkinit-is-not-supported.html
+"05-offsec.almond.consulting-Bypassing LDAP Channel Binding with StartTLS.pdf" https://offsec.almond.consulting/bypassing-ldap-channel-binding-with-starttls.html
+"04-offsec.almond.consulting-LDAP relays for initial foothold in dire situations.pdf" https://offsec.almond.consulting/ldap-relays-for-initial-foothold-in-dire-situations.html
+"03-offsec.almond.consulting-Super Magic Hashes.pdf" https://offsec.almond.consulting/super-magic-hash.html
+"02-offsec.almond.consulting-An introduction to privileged file operation abuse on Windows.pdf" https://offsec.almond.consulting/intro-to-file-operation-abuse-on-Windows.html
+"01-offsec.almond.consulting-UAC bypass via elevated NET applications.pdf" https://offsec.almond.consulting/UAC-bypass-dotnet.html
