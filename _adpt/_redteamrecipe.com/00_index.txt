@@ -1,1 +1,5 @@
 "redteamrecipe.com-50 Methods For Lsass Dump.pdf" https://redteamrecipe.com/50-methods-for-lsass-dumprtc0002
+"redteamrecipe.com-Important Active Directory Attribute for RedBlue Teamer.pdf" https://redteamrecipe.com/important-active-directory-attribute-for-redblue-teamer
+"redteamrecipe.com-NTLM Abuse Methods.pdf" https://redteamrecipe.com/ntlm-abuse-methodsrtc0028
+"redteamrecipe.com-64 Methods For Execute Mimikatz.pdf" https://redteamrecipe.com/64-methods-for-execute-mimikatzrtc0003
+"redteamrecipe.com-40 Methods For Privilege Escalation.pdf" https://redteamrecipe.com/40-method-for-privilege-escalation
