@@ -1,0 +1,3 @@
+"lsecqt.github.io-Visualizing ACLs with Adalanche.pdf" https://lsecqt.github.io/Red-Teaming-Army/active-directory/visualizing-acls-with-adalanche/
+"lsecqt.github.io-Unleashing the Power of Unconstrained Delegation.pdf" https://lsecqt.github.io/Red-Teaming-Army/active-directory/unleashing-the-power-of-unconstrained-delegation/
+"lsecqt.github.io- Compromising MSSQL Databases by Relaying.pdf" https://lsecqt.github.io/Red-Teaming-Army/active-directory/compromising-mssql-databases-by-relaying/
