@@ -1,0 +1,3 @@
+"cravaterouge.github.io-bloodyAD and Kerberos.pdf" https://cravaterouge.github.io/ad/privesc/2022/05/05/bloodyad-and-kerberos.html
+"cravaterouge.github.io-bloodyAD and Certificate Authentication.pdf" https://cravaterouge.github.io/ad/privesc/2022/05/09/bloodyad-and-certificate-authentication.html
+"cravaterouge.github.io-bloodyAD and Certifried CVE-2022-26923.pdf" https://cravaterouge.github.io/ad/privesc/2022/05/11/bloodyad-and-CVE-2022-26923.html
