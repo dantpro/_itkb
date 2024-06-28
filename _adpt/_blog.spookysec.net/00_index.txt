@@ -1,0 +1,6 @@
+"blog.spookysec.net-Programming with Impacket - Working with SMB.pdf" https://blog.spookysec.net/Programming-with-Impacket.md/
+"blog.spookysec.net-Enriching BloodHound Data.pdf" https://blog.spookysec.net/Enriching-BloodHound-Data/
+"blog.spookysec.net-Deploying BloodHound Community Edition for Pentesters.pdf" https://blog.spookysec.net/Deploying-BHCE/
+"blog.spookysec.net-Backdooring KeePass for Fun and Profit.pdf" https://blog.spookysec.net/Backdooring-KeePass/
+"blog.spookysec.net-Deception in Depth - Overview of Kerberos Service Accounts amp Attacks - Part 15.pdf" https://blog.spookysec.net/DnD-Kerberos-Service-Accounts-&-Attacks-pt-1.5/
+"blog.spookysec.net-Deception in Depth - Hiding AD Users and Groups - Part 1.pdf" https://blog.spookysec.net/DnD-Hiding-Users-and-Groups/
