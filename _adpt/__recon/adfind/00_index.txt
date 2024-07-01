@@ -1,0 +1,2 @@
+AdFind.zip https://www.joeware.net/freetools/tools/adfind/
+adfind-recon.cmd https://thedfirreport.com/2020/05/08/adfind-recon/
