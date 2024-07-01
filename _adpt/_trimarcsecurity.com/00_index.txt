@@ -1,0 +1,8 @@
+"hub.trimarcsecurity.com-Securing Active Directory Performing an Active Directory Security Review.pdf" https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review
+"hub.trimarcsecurity.com-LDAP Channel Binding and Signing.pdf" https://www.hub.trimarcsecurity.com/post/ldap-channel-binding-and-signing
+"hub.trimarcsecurity.com-Implementing Controls in Active Directory Protecting Against Privileged Credential Sprawl.pdf" https://www.hub.trimarcsecurity.com/post/implementing-controls-in-active-directory-protecting-against-privileged-credential-sprawl
+Invoke-TrimarcADChecks-main.zip https://github.com/Trimarc/Invoke-TrimarcADChecks
+"hub.trimarcsecurity.com-Primary Group Behavior Reporting and Exploitation.pdf" https://www.hub.trimarcsecurity.com/post/primary-group-behavior-reporting-and-exploitation
+"hub.trimarcsecurity.com-Trimarc Research Detecting Kerberoasting Activity.pdf" https://www.hub.trimarcsecurity.com/post/trimarc-research-detecting-kerberoasting-activity
+"hub.trimarcsecurity.com-Theres Something About Service Accounts.pdf" https://www.hub.trimarcsecurity.com/post/there-s-something-about-service-accounts
+"hub.trimarcsecurity.com-Trimarc Research Detecting Password Spraying with Security Event Auditing.pdf" https://www.hub.trimarcsecurity.com/post/trimarc-research-detecting-password-spraying-with-security-event-auditing
