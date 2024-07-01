@@ -1,0 +1,11 @@
+adauditplus-db-migrations.pdf https://download.manageengine.com/products/active-directory-audit/ad-audit-plus-db-migrations.pdf
+adauditplus-port-guide.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-port-guide.pdf
+adauditplus-ssl-configuration.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-ssl-configuration.pdf
+adauditplus-security-specifications.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-security-specifications.pdf
+adauditplus-security-hardening.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-security-hardening.pdf
+adauditplus-hard-disk-space-management.pdf https://download.manageengine.com/products/active-directory-audit/images/adaudit-plus-hard-disk-space-management.pdf
+adauditplus-windows-servers-security-log-settings.pdf https://download.manageengine.com/products/active-directory-audit/windows-servers-security-log-settings.pdf
+adauditplus-quick-start-guide.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-quick-start-guide.pdf
+adauditplus-active-directory-auditing-solution.pptx https://www.manageengine.com/products/active-directory-audit/active-directory-auditing-solution.pptx
+adauditplus-service-account-configuration.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-service-account-configuration.pdf
+adauditplus-active-directory-auditing-configuration-guide.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-service-account-configuration.pdf
