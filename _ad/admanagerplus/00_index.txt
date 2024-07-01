@@ -1,0 +1,10 @@
+admanagerplus-solving-the-top-active-directory-challenges-of-educational-institutions.pdf https://download.manageengine.com/products/ad-manager/solving-the-top-active-directory-challenges-of-educational-institutions.pdf
+admanagerplus-5-Active-Directory-management-concerns-ADManager-Plus-can-solve.pdf https://download.manageengine.com/products/ad-manager/5-Active-Directory-management-concerns-ADManager-Plus-can-solve.pdf
+admanagerplus-5-it-security-red-flags-to-watch-out-for.pdf https://download.manageengine.com/products/ad-manager/5-it-security-red-flags-to-watch-out-for.pdf
+admanagerplus-five-reasons-to-automate-iam-process.pdf https://download.manageengine.com/products/ad-manager/five-reasons-to-automate-iam-process.pdf
+admanagerplus-access-certification-use-cases-guide.pdf https://download.manageengine.com/products/ad-manager/access-certification-use-cases-guide.pdf
+admanagerplus-securing-admanager-plus-installation.pdf https://download.manageengine.com/products/ad-manager/resources/securing-admanager-plus-installation.pdf
+admanagerplus-permissions-required-for-the-ad-account-configured-in-admanager-plus.pdf https://download.manageengine.com/products/ad-manager/permissions-required-for-the-ad-account-configured-in-admanager-plus.pdf
+admanagerplus-automated-user-account-provisioning-in-ad-and-cloud-environments.pdf https://download.manageengine.com/products/ad-manager/automated-user-account-provisioning-in-ad-and-cloud-environments.pdf
+admanagerplus-solution-document.pdf https://download.manageengine.com/products/ad-manager/admanager-plus-solution-document.pdf
+admanagerplus-solution-architecture.pdf https://download.manageengine.com/products/ad-manager/solution-architecture.pdf
