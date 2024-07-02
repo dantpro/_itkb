@@ -63,10 +63,12 @@ HDD
 > mount /dev/sda1 /mnt/boot/efi  
 
 
-#pacstrap /mnt base base-devel linux linux-firmware
-#pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware intel-ucode amd-ucode nano
-#pacstrap /mnt base base-devel sudo vim
->pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware vim 
+`# pacstrap /mnt base base-devel linux linux-firmware`  
+`# pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware intel-ucode amd-ucode nano`
+`# pacstrap /mnt base base-devel sudo vim`  
+
+> pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware vim   
+
 
 >genfstab -U /mnt >> /mnt/etc/fstab
 
