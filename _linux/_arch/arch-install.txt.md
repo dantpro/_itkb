@@ -23,11 +23,11 @@ NET
 > rfkill unblock wifi  
 
 > iwctl  
-`[iwd]# device list`
-`[iwd]# station wlan0 scan`
-`[iwd]# station wlan0 get-networks`
-`[iwd]# station wlan0 connect AP`
-`[iwd]# station wlan0 show`
+`[iwd]# device list`  
+`[iwd]# station wlan0 scan`  
+`[iwd]# station wlan0 get-networks`  
+`[iwd]# station wlan0 connect AP`  
+`[iwd]# station wlan0 show`  
 
 > ip link ( ip l)  
 > ip address (ip a)  
