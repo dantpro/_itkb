@@ -1,10 +1,9 @@
-https://habr.com/ru/articles/819729/
-https://itsfoss.com/install-arch-linux/
-https://itsfoss.com/things-to-do-after-installing-arch-linux/
-https://r0ttenbeef.github.io/Custom-Secure-Penetration-Testing-Arch-Linux-Installtion/
+https://habr.com/ru/articles/819729/  
+https://itsfoss.com/install-arch-linux/  
+https://itsfoss.com/things-to-do-after-installing-arch-linux/  
+https://r0ttenbeef.github.io/Custom-Secure-Penetration-Testing-Arch-Linux-Installtion/  
 
-root@archiso ~ #
-===
+>root@archiso ~ #
 
 KB
 ---
