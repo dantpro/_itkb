@@ -19,20 +19,19 @@ List all available layout:
 
 NET
 ---
-rfkill
-rfkill unblock wifi
+> rfkill  
+> rfkill unblock wifi  
 
-iwctl
+> iwctl  
 [iwd]# device list
 [iwd]# station wlan0 scan
 [iwd]# station wlan0 get-networks
 [iwd]# station wlan0 connect AP
 [iwd]# station wlan0 show
 
-ip link ( ip l)
-ip address (ip a)
+> ip link ( ip l)  
+> ip address (ip a)  
 
----
 
 HDD
 ---
