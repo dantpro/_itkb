@@ -62,35 +62,43 @@ HDD
 > mkdir -p /mnt/boot/efi  
 > mount /dev/sda1 /mnt/boot/efi  
 
+Install
+---
 
 `# pacstrap /mnt base base-devel linux linux-firmware`  
-`# pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware intel-ucode amd-ucode nano`
+`# pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware intel-ucode amd-ucode nano`  
 `# pacstrap /mnt base base-devel sudo vim`  
 
 > pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware vim   
 
 
->genfstab -U /mnt >> /mnt/etc/fstab
+> genfstab -U /mnt >> /mnt/etc/fstab  
 
->arch-chroot /mnt
+> arch-chroot /mnt  
 
->ln -sf /usr/share/zoneinfo/Asia/Novosibirsk /etc/localtime
+> ln -sf /usr/share/zoneinfo/Asia/Novosibirsk /etc/localtime  
 
->echo "en_US.UTF-8 UTF-8" >> /etc/locale.gen
->echo "ru_RU.UTF-8 UTF-8" >> /etc/locale.gen
->locale-gen
+Locale
+---
 
->echo "LANG=en_US.UTF-8" >> /etc/locale.conf
->echo "#LANG=ru_RU.UTF-8" >> /etc/locale.conf
+> echo "en_US.UTF-8 UTF-8" >> /etc/locale.gen  
+> echo "ru_RU.UTF-8 UTF-8" >> /etc/locale.gen  
+> locale-gen  
 
->echo "KEYMAP=ru" >> /etc/vconsole.conf
->echo "FONT=cyr-sun16" >> /etc/vconsole.conf
+> echo "LANG=en_US.UTF-8" >> /etc/locale.conf  
+> echo "#LANG=ru_RU.UTF-8" >> /etc/locale.conf  
 
->echo "olm-srv-pt-2" > /etc/hostname
+> echo "KEYMAP=ru" >> /etc/vconsole.conf  
+> echo "FONT=cyr-sun16" >> /etc/vconsole.conf  
 
->mkinitcpio -p linux-lts
->mkinitcpio -P 
+> echo "xxx-wks-pt-1" > /etc/hostname
 
+> mkinitcpio -p linux-lts  
+> mkinitcpio -P  
+
+
+---
+---
 
 >#pacman -S grub efibootmgr os-prober
 >pacman -S grub efibootmgr
