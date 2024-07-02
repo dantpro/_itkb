@@ -36,28 +36,32 @@ NET
 HDD
 ---
 
->fdisk -l
->lsblk --scsi
->lsblk --nvme
->lsblk
+>fdisk -l  
+>lsblk --scsi  
+>lsblk --nvme  
+>lsblk  
 
->dd if=/dev/zero of=/dev/sda status=progress
+>dd if=/dev/zero of=/dev/sda status=progress  
 
->fdisk /dev/sda
 
-n 1; t 1 +512M - EFI /dev/sda1
-n 2; t 19 +8G - SWAP /dev/sda2
-n 3; t 20 ALL - ROOT /dev/sda3
+>fdisk /dev/sda  
 
-mkfs.fat -F32 /dev/sda1
-mkswap /dev/sda2
-swapon /dev/sda2
+`n 1; t 1 +512M - EFI /dev/sda1`  
+`n 2; t 19 +8G - SWAP /dev/sda2`  
+`n 3; t 20 ALL - ROOT /dev/sda3` 
 
-mkfs.ext4 /dev/sda3
 
->mount /dev/sda3 /mnt
->mkdir -p /mnt/boot/efi
->mount /dev/sda1 /mnt/boot/efi
+> mkfs.fat -F32 /dev/sda1  
+> mkswap /dev/sda2  
+> swapon /dev/sda2  
+
+> mkfs.ext4 /dev/sda3  
+
+
+> mount /dev/sda3 /mnt  
+> mkdir -p /mnt/boot/efi  
+> mount /dev/sda1 /mnt/boot/efi  
+
 
 #pacstrap /mnt base base-devel linux linux-firmware
 #pacstrap /mnt base base-devel linux-lts linux-lts-headers linux-firmware intel-ucode amd-ucode nano
