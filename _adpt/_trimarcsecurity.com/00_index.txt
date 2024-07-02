@@ -6,3 +6,4 @@ Invoke-TrimarcADChecks-main.zip https://github.com/Trimarc/Invoke-TrimarcADCheck
 "hub.trimarcsecurity.com-Trimarc Research Detecting Kerberoasting Activity.pdf" https://www.hub.trimarcsecurity.com/post/trimarc-research-detecting-kerberoasting-activity
 "hub.trimarcsecurity.com-Theres Something About Service Accounts.pdf" https://www.hub.trimarcsecurity.com/post/there-s-something-about-service-accounts
 "hub.trimarcsecurity.com-Trimarc Research Detecting Password Spraying with Security Event Auditing.pdf" https://www.hub.trimarcsecurity.com/post/trimarc-research-detecting-password-spraying-with-security-event-auditing
+"Kerberos Delegation Slides.pdf" https://www.hub.trimarcsecurity.com/post/it-s-just-kerberos-delegation-trust-me
