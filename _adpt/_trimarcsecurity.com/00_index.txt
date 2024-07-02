@@ -8,3 +8,4 @@ Invoke-TrimarcADChecks-main.zip https://github.com/Trimarc/Invoke-TrimarcADCheck
 "hub.trimarcsecurity.com-Trimarc Research Detecting Password Spraying with Security Event Auditing.pdf" https://www.hub.trimarcsecurity.com/post/trimarc-research-detecting-password-spraying-with-security-event-auditing
 "Kerberos Delegation Slides.pdf" https://www.hub.trimarcsecurity.com/post/it-s-just-kerberos-delegation-trust-me
 "hub.trimarcsecurity.com-Active Directory Security Risk 101 Kerberos Unconstrained Delegation or How Compromise of a Single Se.pdf" https://www.hub.trimarcsecurity.com/post/active-directory-security-risk-101-kerberos-unconstrained-delegation-or-how-compromise-of-a-singl
+"hub.trimarcsecurity.com-Return of The LDAP Channel Binding and LDAP Signing.pdf" https://www.hub.trimarcsecurity.com/post/return-of-the-ldap-channel-binding-and-ldap-signing
