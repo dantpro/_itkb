@@ -29,8 +29,8 @@ NET
 `[iwd]# station wlan0 connect AP`  
 `[iwd]# station wlan0 show`  
 
-> ip link ( ip l)  
-> ip address (ip a)  
+> ip link / ip l  
+> ip address / ip a    
 
 
 HDD
