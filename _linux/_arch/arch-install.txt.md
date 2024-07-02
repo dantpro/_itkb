@@ -13,7 +13,8 @@ List all available layout:
 >ls /usr/share/kbd/keymaps/**/*.map.gz 
 
 
->ls /usr/share/kbd/keymaps/**/*.map.gz | grep "ru"
+>ls /usr/share/kbd/keymaps/**/*.map.gz | grep "ru"  
+
 >loadkeys ru
 
 NET
