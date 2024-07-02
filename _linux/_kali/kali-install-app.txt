@@ -65,7 +65,3 @@
 >>sudo apt install john
 
 >sudo apt install chisel
-
-
-
-
