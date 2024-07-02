@@ -91,6 +91,8 @@ Locale
 > echo "KEYMAP=ru" >> /etc/vconsole.conf  
 > echo "FONT=cyr-sun16" >> /etc/vconsole.conf  
 
+---
+
 > echo "xxx-wks-pt-1" > /etc/hostname
 
 > mkinitcpio -p linux-lts  
