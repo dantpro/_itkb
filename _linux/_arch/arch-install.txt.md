@@ -99,57 +99,76 @@ Locale
 > mkinitcpio -P  
 
 
+
+
+Boot
 ---
+
+`#pacman -S grub efibootmgr os-prober`  
+
+> pacman -S grub efibootmgr  
+> grub-install --target=x86_64-efi --bootloader-id=GRUB --efi-directory=/boot/efi  
+> grub-mkconfig -o /boot/grub/grub.cfg  
+
+Net
 ---
 
->#pacman -S grub efibootmgr os-prober
->pacman -S grub efibootmgr
->grub-install --target=x86_64-efi --bootloader-id=GRUB --efi-directory=/boot/efi 
->grub-mkconfig -o /boot/grub/grub.cfg
+> pacman -S networkmanager  
+> systemctl enable NetworkManager.service  
 
->pacman -S networkmanager
->systemctl enable NetworkManager.service
+Root
+---
 
->passwd root
+> passwd root  
 
->exit
->umount -R /mnt
->reboot
+Reboot
+---
 
->pacman -Syu
+> exit  
+> umount -R /mnt  
+> reboot  
 
->pacman -S openssh sudo bash-completion mc htop
 
->systemctl status sshd.service
->systemctl enable sshd.service
->systemctl start sshd.service
+Packages
+---
 
->#useradd -m -U -c "R0ttenbeef Master!" dh4ze-2
->useradd -mg users -G wheel pt
->echo "%wheel ALL=(ALL:ALL) NOPASSWD: ALL" >/etc/sudoers.d/sudoers
->chmod 440 /etc/sudoers.d/sudoers
 
->pacman -S xorg xfce4 xfce4-goodies ightdm lightdm-gtk-greeter-settings gnome-keyring xdg-user-dirs
->systemctl enable lightdm 
-?>systemctl enable xdg-user-dirs
+> pacman -Syu  
 
->sudo pacman -S ttf-liberation ttf-dejavu ttf-droid 
->sudo pacman -S ttf-anonymous-pro ttf-bitstream-vera adobe-source-sans-pro-fonts
+> pacman -S openssh sudo bash-completion mc htop
 
->sudo pacman -S tldr man man-pages
+`ssh`  
+> systemctl status sshd.service  
+> systemctl enable sshd.service  
+> systemctl start sshd.service  
 
->sudo pacman -S wget openssh openvpn openssl networkmanager network-manager-applet curl git bash-completion tmux htop inetutils netcat nmap mtr 
 
->sudo pacman -S firefox zip unzip unrar ntfs-3g viewnior evince mpv
+> useradd -mg users -G wheel pt  
+> echo "%wheel ALL=(ALL:ALL) NOPASSWD: ALL" >/etc/sudoers.d/sudoers  
+> chmod 440 /etc/sudoers.d/sudoers  
 
->sudo pacman -S
- 
-# pacman -S wget openssh openvpn openssl wpa_supplicant iw wireless_tools networkmanager network-manager-applet curl git bash-completion tmux htop 
-# pkgstats gst-plugins-good ttf-liberation ttf-bitstream-vera adobe-source-sans-pro-fonts ttf-droid ttf-dejavu ttf-anonymous-pro 
-# inetutils netcat nmap
+> pacman -S xorg xfce4 xfce4-goodies ightdm lightdm-gtk-greeter-settings gnome-keyring xdg-user-dirs  
+> systemctl enable lightdm   
+> #systemctl enable xdg-user-dirs  
 
-#pacman -S xorg xfce4 xfce4-goodies gvfs gvfs-mtp lightdm lightdm-gtk-greeter-settings light-locker gnome-keyring thunar-archive-plugin thunar-media-tags-plugin thunar-volman ffmpegthumbnailer pavucontrol firefox zip unzip unrar ntfs-3g pulseaudio viewnior evince mpv xdg-user-dirs
-#systemctl enable lightdm NetworkManager xdg-user-dirs
+> sudo pacman -S ttf-liberation ttf-dejavu ttf-droid   
+> sudo pacman -S ttf-anonymous-pro ttf-bitstream-vera adobe-source-sans-pro-fonts  
 
-#pacman -S lxdm xfce4 xfce4-goodies ttf-liberation ttf-dejavu network-manager-applet ppp pulseaudio-alsa gvfs thunar-volman
-#systemctl enable lxdm
+> sudo pacman -S tldr man man-pages  
+
+> sudo pacman -S wget openssh openvpn openssl networkmanager network-manager-applet curl git bash-completion tmux htop inetutils netcat nmap mtr  
+
+> sudo pacman -S firefox zip unzip unrar ntfs-3g viewnior evince mpv  
+
+
+`# >sudo pacman -S wget openssh openvpn openssl wpa_supplicant iw wireless_tools networkmanager network-manager-applet curl git bash-completion tmux htop `
+`# pkgstats gst-plugins-good ttf-liberation ttf-bitstream-vera adobe-source-sans-pro-fonts ttf-droid ttf-dejavu ttf-anonymous-pro `  
+`# inetutils netcat nmap `  
+
+`# >sudo pacman -S  xorg xfce4 xfce4-goodies gvfs gvfs-mtp lightdm lightdm-gtk-greeter-settings light-locker gnome-keyring thunar-archive-plugin thunar-media-tags-plugin thunar-volman ffmpegthumbnailer pavucontrol firefox zip unzip unrar ntfs-3g pulseaudio viewnior evince mpv xdg-user-dirs `  
+`# systemctl enable lightdm NetworkManager xdg-user-dirs`  
+
+`# pacman -S lxdm xfce4 xfce4-goodies ttf-liberation ttf-dejavu network-manager-applet ppp pulseaudio-alsa gvfs thunar-volman `  
+`# systemctl enable lxdm `  
+
+
