@@ -1,15 +1,17 @@
-# https://www.kali.org/docs/troubleshooting/common-minimum-setup/
-# https://www.kali.org/docs/installation/mini-iso/
-# https://www.kali.org/docs/introduction/what-image-to-download/
+# https://www.kali.org/docs/troubleshooting/common-minimum-setup/  
+# https://www.kali.org/docs/installation/mini-iso/  
+# https://www.kali.org/docs/introduction/what-image-to-download/  
 
->kali-tweaks
 
->touch ~/.hushlogin
+> kali-tweaks  
 
->sudo apt install -y kali-grant-root && sudo dpkg-reconfigure kali-grant-root
+>touch ~/.hushlogin  
 
->sudo apt install -y kali-root-login
->sudo passwd root
+>sudo apt install -y kali-grant-root && sudo dpkg-reconfigure kali-grant-root  
+
+>sudo apt install -y kali-root-login  
+>sudo passwd root  
+
 
 >sudo systemctl status ssh
 >sudo systemctl start ssh
