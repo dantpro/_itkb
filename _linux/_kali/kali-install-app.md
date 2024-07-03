@@ -82,7 +82,7 @@ win/ad
 > #sudo neo4j console  
 
 > sudo apt install nbtscan  
-> #sudo apt unstall smbmap  
+> #sudo apt install smbmap  
 
 proxy
 ---
