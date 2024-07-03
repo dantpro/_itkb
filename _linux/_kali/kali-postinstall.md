@@ -39,18 +39,22 @@ export LANG=en_US.UTF-8
 #export LANG=ru_RU.UTF-8
 ```
 
->sudo localectl set-locale LANG=en_US.UTF-8
->sudo localectl set-locale LANG=ru_RU.UTF-8
+> sudo localectl set-locale LANG=en_US.UTF-8  
+> sudo localectl set-locale LANG=ru_RU.UTF-8  
 
->echo 'en_US' > ~/.config/user-dirs.locale
->xdg-user-dirs-gtk-update
+> echo 'en_US' > ~/.config/user-dirs.locale  
+> xdg-user-dirs-gtk-update  
 
+time
+---
 
->sudo apt remove ntp
->timedatectl
->timedatectl list-timezones |grep Novosibirsk
->sudo timedatectl set-timezone Asia/Novosibirsk
->sudo timedatectl set-ntp on
->timedatectl
+> sudo apt remove ntp  
+> timedatectl  
+
+> timedatectl list-timezones |grep Novosibirsk  
+> sudo timedatectl set-timezone Asia/Novosibirsk  
+> sudo timedatectl set-ntp on  
+> timedatectl  
+
 
 
