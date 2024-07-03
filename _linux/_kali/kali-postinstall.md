@@ -2,7 +2,6 @@ https://www.kali.org/docs/troubleshooting/common-minimum-setup/
 https://www.kali.org/docs/installation/mini-iso/  
 https://www.kali.org/docs/introduction/what-image-to-download/  
 
-
 > kali-tweaks  
 
 >touch ~/.hushlogin  
@@ -18,19 +17,27 @@ https://www.kali.org/docs/introduction/what-image-to-download/
 >sudo systemctl enable ssh
 >sudo systemctl disable ssh
 
-# https://miloserdov.org/?p=5878
->locale
->locale -a
->vi /etc/locale.gen
->sudo locale-gen
 
---- ~/.bashrc file
+locale
+---
+
+https://miloserdov.org/?p=5878  
+
+> locale  
+> locale -a  
+
+> vi /etc/locale.gen  
+> sudo locale-gen  
+
+```
+# ~/.bashrc file
+#
 # Set English locale
 export LANG=en_US.UTF-8
 # 
 # Set the Russian locale
 #export LANG=ru_RU.UTF-8
----
+```
 
 >sudo localectl set-locale LANG=en_US.UTF-8
 >sudo localectl set-locale LANG=ru_RU.UTF-8
