@@ -34,6 +34,7 @@ https://sobanmalikk.medium.com/how-to-configure-firewall-with-ufw-in-kali-linux-
 > sudo systemctl status ufw.service  
 > sudo systemctl status ufw  
 
+---
 
 > sudo apt install -y kali-grant-root && sudo dpkg-reconfigure kali-grant-root  
 
