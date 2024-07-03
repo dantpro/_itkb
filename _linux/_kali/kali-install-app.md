@@ -61,6 +61,7 @@ pwd
 > #sudo apt install hydra-gtk hydra  
 > #sudo apt install john  
 
+win/ad
 ---
 
 > sudo apt install powershell  
