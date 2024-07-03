@@ -2,18 +2,18 @@ https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-netinst-amd64.i
 
 > kali-tweaks  
 
->touch ~/.hushlogin  
+> touch ~/.hushlogin  
 
->sudo apt install -y kali-grant-root && sudo dpkg-reconfigure kali-grant-root  
+> sudo apt install -y kali-grant-root && sudo dpkg-reconfigure kali-grant-root  
 
->sudo apt install -y kali-root-login  
->sudo passwd root  
+> sudo apt install -y kali-root-login  
+> sudo passwd root  
 
 
->sudo systemctl status ssh
->sudo systemctl start ssh
->sudo systemctl enable ssh
->sudo systemctl disable ssh
+> sudo systemctl status ssh  
+> sudo systemctl start ssh  
+> sudo systemctl enable ssh  
+> sudo systemctl disable ssh  
 
 
 locale
