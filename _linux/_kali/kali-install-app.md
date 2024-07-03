@@ -1,3 +1,5 @@
+https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-netinst-amd64.iso  
+
 > sudo apt update  
 > sudo apt full-upgrade -y  
 
