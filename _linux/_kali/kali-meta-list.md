@@ -3,7 +3,7 @@ https://www.kali.org/docs/general-use/metapackages/
 System
 ---
 
-> kali-linux-core: Base Kali Linux System – core items that are always included  
+> *kali-linux-core:* Base Kali Linux System – core items that are always included  
 > kali-linux-headless: Default install that doesn’t require GUI  
 > kali-linux-default: “Default” desktop images include these tools  
 > kali-linux-arm: All tools suitable for ARM devices  
