@@ -52,7 +52,7 @@ https://sobanmalikk.medium.com/how-to-configure-firewall-with-ufw-in-kali-linux-
 c2
 ---
 
-> sudo apt install -y metasploit-framework   
+> sudo apt install metasploit-framework   
 > sudo apt install havoc  
 
 
