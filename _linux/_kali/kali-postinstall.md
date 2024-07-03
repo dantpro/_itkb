@@ -1,6 +1,6 @@
-# https://www.kali.org/docs/troubleshooting/common-minimum-setup/  
-# https://www.kali.org/docs/installation/mini-iso/  
-# https://www.kali.org/docs/introduction/what-image-to-download/  
+https://www.kali.org/docs/troubleshooting/common-minimum-setup/  
+https://www.kali.org/docs/installation/mini-iso/  
+https://www.kali.org/docs/introduction/what-image-to-download/  
 
 
 > kali-tweaks  
