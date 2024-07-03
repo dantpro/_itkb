@@ -3,7 +3,7 @@ https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-netinst-amd64.i
 https://www.kali.org/tools/  
 
 > sudo apt update  
-> sudo apt full-upgrade -y  
+> sudo apt full-upgrade    
 
 > sudo apt install kali-desktop-xfce  
 > sudo apt install xrdp pipewire-module-xrdp  
@@ -16,7 +16,7 @@ https://www.kali.org/tools/
 > sudo updatedb  
 
 
-> sudo apt install -y mc htop  vim
+> sudo apt install mc htop  vim
 
 > #sudo apt install openssh-server  
 
@@ -41,8 +41,8 @@ https://sobanmalikk.medium.com/how-to-configure-firewall-with-ufw-in-kali-linux-
 root
 ---
 
-> sudo apt install -y kali-grant-root && sudo dpkg-reconfigure kali-grant-root  
-> sudo apt install -y kali-root-login  
+> sudo apt install kali-grant-root && sudo dpkg-reconfigure kali-grant-root  
+> sudo apt install kali-root-login  
 
 net
 ---
