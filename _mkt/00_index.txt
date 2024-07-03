@@ -1,0 +1,13 @@
+"mikrotiklab.ru-l2tp-01-Настройка L2TP Сервера на Mikrotik.pdf" https://mikrotiklab.ru/nastrojka/artga-l2tp-server.html
+"mikrotiklab.ru-l2tp-02-Настройка L2TP Клиента на MikroTik.pdf" https://mikrotiklab.ru/nastrojka/artga-l2tp-client.html
+"mikrotiklab.ru-l2tp-03-Настройка L2TP IPSEC на Mikrotik.pdf" https://mikrotiklab.ru/nastrojka/artga-l2tp-ipsec.html
+"mikrotiklab.ru-wifi-01-Настройка WiFi клиента и репитера на Mikrotik.pdf" https://mikrotiklab.ru/nastrojka/artga-wifi-klient-i-repiter.html
+"mikrotiklab.ru-wifi-02-Настройка точки доступа MikroTik cAP AC.pdf" https://mikrotiklab.ru/nastrojka/artga-cap-ac.html
+"mikrotiklab.ru-wifi-03-Настройка на Микротик контроллера CAPsMAN v2.pdf" https://mikrotiklab.ru/nastrojka/artga-capsman-v2.html
+"mikrotiklab.ru-vpn-01-Настройка GRE over IPSEC на Микротик.pdf" https://mikrotiklab.ru/nastrojka/artga-gre-ipsec.html
+"mikrotiklab.ru-vpn-02-Настройка OpenVPN Сервера и Клиента на MikroTik.pdf" https://mikrotiklab.ru/nastrojka/artga-openvpn.html
+"mikrotiklab.ru-vpn-03-Настройка WireGuard на MikroTik.pdf" https://mikrotiklab.ru/nastrojka/artga-wireguard.html
+"mikrotiklab.ru-base-01-Настройка роутера Микротик.pdf" https://mikrotiklab.ru/nastrojka/routera-mikrotik-s-nulya.html
+"mikrotiklab.ru-base-03-MikroTik Cброс настроек на заводские.pdf" https://mikrotiklab.ru/pomoshh/artga-reset.html
+"mikrotiklab.ru-base-02-Настройка роутера Микротик hAP Lite RB941-2ND.pdf" https://mikrotiklab.ru/nastrojka/artga-hap-lite-rb941-2nd.html
+"mikrotiklab.ru-base-03-Базовая настройка Firewall на Микротик.pdf" https://mikrotiklab.ru/nastrojka/artga-firewall.html
