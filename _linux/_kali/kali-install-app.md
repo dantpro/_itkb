@@ -14,7 +14,7 @@
 
 > sudo apt install -y mc htop  vim
 
->>sudo apt install openssh-server
+> #sudo apt install openssh-server  
 
 ufw
 ---
