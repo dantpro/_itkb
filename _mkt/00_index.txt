@@ -11,3 +11,4 @@
 "mikrotiklab.ru-base-03-MikroTik Cброс настроек на заводские.pdf" https://mikrotiklab.ru/pomoshh/artga-reset.html
 "mikrotiklab.ru-base-02-Настройка роутера Микротик hAP Lite RB941-2ND.pdf" https://mikrotiklab.ru/nastrojka/artga-hap-lite-rb941-2nd.html
 "mikrotiklab.ru-base-03-Базовая настройка Firewall на Микротик.pdf" https://mikrotiklab.ru/nastrojka/artga-firewall.html
+"mikrotiklab.ru-base-04-Настройка VLAN на Микротик.pdf" https://mikrotiklab.ru/nastrojka/artga-vlan.html
