@@ -6,4 +6,10 @@ https://www.geeksforgeeks.org/how-to-change-root-password-in-kali-linux/?ref=ml_
 
 https://linuxconfig.org/how-to-set-time-on-kali-linux  
 
+https://www.kali.org/docs/troubleshooting/common-minimum-setup/  
+https://www.kali.org/docs/installation/mini-iso/  
+https://www.kali.org/docs/introduction/what-image-to-download/  
+
+
+
 

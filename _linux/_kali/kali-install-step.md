@@ -1,7 +1,3 @@
-https://www.kali.org/docs/troubleshooting/common-minimum-setup/  
-https://www.kali.org/docs/installation/mini-iso/  
-https://www.kali.org/docs/introduction/what-image-to-download/  
-
 https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-netinst-amd64.iso  
 
 > kali-tweaks  
