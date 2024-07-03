@@ -6,10 +6,10 @@ https://www.kali.org/tools/
 > sudo apt full-upgrade -y  
 
 > sudo apt install kali-desktop-xfce  
-> sudo apt install -y xrdp pipewire-module-xrdp  
+> sudo apt install xrdp pipewire-module-xrdp  
 
-> #kali-linux-top10  
-> #kali-linux-default  
+> #sudo apt install kali-linux-top10  
+> #sudo apt install kali-linux-default  
 
 
 > #sudo apt install locate  
