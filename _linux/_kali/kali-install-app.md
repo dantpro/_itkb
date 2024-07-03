@@ -1,14 +1,17 @@
->sudo apt update
->sudo apt full-upgrade -y
+> sudo apt update  
+> sudo apt full-upgrade -y  
 
->sudo apt install kali-desktop-xfce
->sudo apt install -y xrdp pipewire-module-xrdp
+> sudo apt install kali-desktop-xfce  
+> sudo apt install -y xrdp pipewire-module-xrdp  
 
->>kali-linux-top10
->>kali-linux-default
+> #kali-linux-top10  
+> #kali-linux-default  
 
->-sudo apt install locate
->sudo updatedb
+
+> #sudo apt install locate  
+> sudo updatedb  
+
+
 
 >sudo apt install -y mc htop  vim
 
