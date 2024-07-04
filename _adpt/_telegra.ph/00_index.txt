@@ -1,0 +1,7 @@
+"telegra.ph-pt-09-NMAP 3 часть  Telegraph.pdf" https://telegra.ph/NMAP-3-chast-05-07
+"telegra.ph-pt-09-NMAP 2 часть  Telegraph.pdf" https://telegra.ph/NMAP-2-chast-05-07
+"telegra.ph-pt-07-Подбор паролей  Telegraph.pdf" https://telegra.ph/Podbor-parolej-06-28
+"telegra.ph-pt-06-Обнаружение уязвимостей  Telegraph.pdf" https://telegra.ph/Obnaruzhenie-uyazvimostej-06-27
+"telegra.ph-pt-04-Сбор информации 2 Часть  Telegraph.pdf" https://telegra.ph/Sbor-informacii-2-CHast-06-23
+"telegra.ph-pt-02-Основные этапы тестирования  Telegraph.pdf" https://telegra.ph/Osnovnye-ehtapy-testirovaniya-06-21
+"telegra.ph-pt-01-Моделирование атаки - тестрирование на проникновение  Telegraph.pdf" https://telegra.ph/Modelirovanie-ataki---testrirovanie-na-proniknovenie-06-20
