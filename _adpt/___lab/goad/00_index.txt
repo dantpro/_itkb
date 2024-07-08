@@ -1,0 +1,2 @@
+deploy-goad-main.zip https://github.com/lkarlslund/deploy-goad
+"lca.xlog.app-Setting up a domain environment for the game of active directory GOAD.pdf" https://lca.xlog.app/game-of-active-directoryGOAD-yu-huan-jing-da-jian
