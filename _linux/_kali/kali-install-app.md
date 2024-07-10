@@ -100,5 +100,5 @@ proxy
 > pipx ensurepath
 > sudo pipx ensurepath --global # optional to allow pipx actions with --global argument
 
-
-
+># https://github.com/login-securite/DonPAPI
+>pipx install git+https://github.com/login-securite/DonPAPI.git
