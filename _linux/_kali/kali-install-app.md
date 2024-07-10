@@ -94,3 +94,11 @@ win/ad
 proxy
 ---
 > sudo apt install chisel
+
+# https://pipx.pypa.io/stable/
+> sudo apt install pipx
+> pipx ensurepath
+> sudo pipx ensurepath --global # optional to allow pipx actions with --global argument
+
+
+
