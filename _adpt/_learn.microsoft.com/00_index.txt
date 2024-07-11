@@ -1,0 +1,3 @@
+"learn.microsoft.com-Quickly find potential Kerberoast victims.pdf" https://learn.microsoft.com/en-us/archive/blogs/389thoughts/quickly-find-potential-kerberoast-victims
+"learn.microsoft.com-Find missing SPN registrations.pdf" https://learn.microsoft.com/en-us/archive/blogs/389thoughts/find-missing-spn-registrations
+"learn.microsoft.com-Get rid of accounts that use Kerberos Unconstrained Delegation.pdf" https://learn.microsoft.com/en-us/archive/blogs/389thoughts/get-rid-of-accounts-that-use-kerberos-unconstrained-delegation
