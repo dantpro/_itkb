@@ -98,9 +98,9 @@ proxy
 ---
 
 https://pipx.pypa.io/stable/  
-> sudo apt install pipx git
-> pipx ensurepath
-> sudo pipx ensurepath --global # optional to allow pipx actions with --global argument
+> sudo apt install pipx git  
+> pipx ensurepath  
+> sudo pipx ensurepath --global # optional to allow pipx actions with --global argument  
 
 https://github.com/login-securite/DonPAPI  
 > `pipx install git+https://github.com/login-securite/DonPAPI.git`
