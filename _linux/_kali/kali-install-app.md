@@ -95,13 +95,15 @@ proxy
 ---
 > sudo apt install chisel
 
-# https://pipx.pypa.io/stable/
+---
+
+(https://pipx.pypa.io/stable/)  
 > sudo apt install pipx git
 > pipx ensurepath
 > sudo pipx ensurepath --global # optional to allow pipx actions with --global argument
 
-># https://github.com/login-securite/DonPAPI
+(https://github.com/login-securite/DonPAPI)  
 >pipx install git+https://github.com/login-securite/DonPAPI.git
 
->#https://github.com/Pennyw0rth/NetExec
->pipx install git+https://github.com/Pennyw0rth/NetExec
+(https://github.com/Pennyw0rth/NetExec)  
+>  pipx install git+https://github.com/Pennyw0rth/NetExec
