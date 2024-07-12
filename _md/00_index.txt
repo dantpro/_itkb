@@ -1,0 +1,4 @@
+"mayadevbe.me-Markdown Basics - MayADevBe Blog.pdf" https://mayadevbe.me/posts/blog/markdown_basics/
+"markdownguide.org-Markdown Cheat Sheet (1).pdf" https://www.markdownguide.org/cheat-sheet/
+"markdownguide.org-Basic Syntax  Markdown Guide.pdf" https://www.markdownguide.org/basic-syntax/
+markdown-cheat-sheet.md https://www.markdownguide.org/assets/markdown-cheat-sheet.md
