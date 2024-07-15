@@ -1,3 +1,8 @@
 "medium.com-AMSI Bypass Memory Patch Technique in 2024.pdf" https://medium.com/@sam.rothlisberger/amsi-bypass-memory-patch-technique-in-2024-f5560022752b
 "medium.com-Havoc C2 with AVEDR Bypass Methods in 2024 Part 2.pdf" https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-2-d3ac83589e3a
 "medium.com-Havoc C2 with AVEDR Bypass Methods in 2024 Part 1.pdf" https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-1-733d423fc67b
+"medium.com-Embed A Malicious Executable in a Normal PDF or EXE.pdf" https://medium.com/@sam.rothlisberger/embed-a-malicious-executable-in-a-normal-pdf-or-exe-81ee5339707e
+"medium.com-Creating Undetectable Windows Malware Villain C2 Framework PowerShell Obfuscation  Undetectable Deliv.pdf" https://medium.com/@sam.rothlisberger/creating-undetectable-windows-malware-villain-c2-framework-powershell-obfuscation-undetectable-3652998e4152
+"medium.com-Quickly Creating a Custom Virtual Private Network VPN.pdf" https://medium.com/@sam.rothlisberger/quickly-creating-a-custom-virtual-private-network-vpn-af43bbf3fa53
+"medium.com-ICMP Ping Data Exfiltration.pdf" https://medium.com/@sam.rothlisberger/icmp-echo-request-data-exfiltration-f41f59fcf87a
+"medium.com-PDF Shortcut File with SSH Executed Dynamic Reverse SOCKS Proxy and Password File Stealer.pdf" https://medium.com/@sam.rothlisberger/pdf-shortcut-file-with-ssh-executed-dynamic-reverse-socks-proxy-and-password-file-stealer-e747ffbbe387
