@@ -52,9 +52,20 @@ net
 > sudo apt install nmap ncat ndiff   
 > sudo apt install mtr-tiny  
 > sudo apt hping3  
+> sudo apt install dnsutils
 > sudo apt install masscan  
 > #sudo apt install netcat-traditional  
 > sudo apt install wireshark tshark   
+> sudo apt install kerbrute  
+> sudo apt install responder  
+
+> sudo apt install pipx  
+
+> sudo apt install tmux  
+> sudo apt install ufw  
+> sudo apt install ncdu  
+
+> sudo apt install neofetch screenfetch  
 
 c2
 ---
