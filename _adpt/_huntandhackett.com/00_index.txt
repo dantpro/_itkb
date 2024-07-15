@@ -1,0 +1,3 @@
+"huntandhackett.com-How to Achieve Eternal Persistence Part 3 How to access and recover replicated secrets.pdf" https://www.huntandhackett.com/blog/how-to-achieve-eternal-persistence-part-3
+"huntandhackett.com-How to Achieve Eternal Persistence Part 2 Outliving the Krbtgt Password Reset.pdf" https://www.huntandhackett.com/blog/how-to-achieve-eternal-persistence-part-2
+"huntandhackett.com-How to achieve eternal persistence in an Active Directory environment - Part 1.pdf" https://www.huntandhackett.com/blog/how-to-achieve-eternal-persistence
