@@ -1,0 +1,3 @@
+"immersivelabs.com-Havoc C2 Framework  A Defensive Operators Guide.pdf" https://www.immersivelabs.com/blog/havoc-c2-framework-a-defensive-operators-guide/
+"medium.com-Havoc C2 with AVEDR Bypass Methods in 2024 Part 1.pdf" https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-1-733d423fc67b
+"medium.com-Havoc C2 with AVEDR Bypass Methods in 2024 Part 2.pdf" https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-2-d3ac83589e3a
