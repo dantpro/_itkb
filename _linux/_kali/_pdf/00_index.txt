@@ -1,0 +1,1 @@
+"sobanmalikk.medium.com-How to Configure Firewall With UFW In Kali Linux.pdf" https://sobanmalikk.medium.com/how-to-configure-firewall-with-ufw-in-kali-linux-14ebbf498de2
