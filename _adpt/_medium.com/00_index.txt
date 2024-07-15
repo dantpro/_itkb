@@ -3,3 +3,4 @@
 "medium.com-Review of Attacking and Defending Active Directory.pdf" https://medium.com/@riccardo.ancarani94/review-of-attacking-and-defending-active-directory-9ebcc26ae4d3
 "happycamper84.medium.com-THM Credential Harvesting Walkthrough.pdf" https://happycamper84.medium.com/thm-credential-harvesting-walkthrough-5d6849168c47
 "happycamper84.medium.com-THM Walkthrough list amp AD stuff.pdf" https://happycamper84.medium.com/thm-walkthrough-list-ad-stuff-95280f400bec
+"sobanmalikk.medium.com-How to Configure Firewall With UFW In Kali Linux.pdf" https://sobanmalikk.medium.com/how-to-configure-firewall-with-ufw-in-kali-linux-14ebbf498de2
