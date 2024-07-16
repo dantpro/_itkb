@@ -1,0 +1,53 @@
+How to Create SQL Server Login and SQL DB User
+
+Mustafa Altunok
+
+·
+Follow
+
+2 min read
+·
+Dec 19, 2023
+
+
+In this article I will try to outline the login and user principals and how to create them.
+
+
+In the context of Microsoft SQL Server, a login is a security principal that allows a user or a process to connect to a SQL Server instance. Logins are used to authenticate and authorize access to the SQL Server.
+
+There are two main types of logins in SQL Server:
+
+Windows Authentication Login (Windows Login): This type of login is based on Windows user accounts. When a user connects to SQL Server using Windows Authentication, SQL Server validates the user’s credentials against the Windows operating system.
+SQL Server Authentication Login (SQL Login): This type of login is specific to SQL Server and is not tied to a Windows user account. With SQL Server Authentication, the login credentials (username and password) are stored within SQL Server.
+When you create a login, you define the authentication method, either Windows Authentication or SQL Server Authentication, and specify the necessary credentials.
+
+Here’s a simple example of creating a SQL Server login using SQL Server Management Studio (SSMS) with SQL Server Authentication:
+
+-- Create a SQL Server login
+CREATE LOGIN YourLoginName WITH PASSWORD = 'YourPassword';
+In the context of Microsoft SQL Server, a database user is a principal in a database that is associated with a SQL Server login. A SQL Server login allows a user to connect to the SQL Server instance, and a database user allows that login to interact with a specific database.
+
+Here are the key points:
+
+SQL Server Login: A login is a security principal at the server level. It allows access to the entire SQL Server instance. Logins can be Windows logins (based on Windows user accounts) or SQL Server logins (credentials stored within SQL Server).
+Database User: Once a login is created at the server level, you need to create a corresponding database user in each database that the login should access. A database user is associated with a specific database and is mapped to a login. The database user is granted permissions within that particular database.
+
+-- Create a database user in a specific database
+USE YourDatabaseName;
+CREATE USER YourUserName FOR LOGIN YourLoginName;
+To give basic permissions to the newly created user;
+
+GRANT SELECT, INSERT, UPDATE, DELETE TO YourUserName
+To add the newly created user to a group;
+
+ALTER ROLE db_owner ADD MEMBER YourUserName;
+
+ALTER ROLE db_admin ADD MEMBER YourUserName;
+To add read permission to a spesific table;
+
+GRANT SELECT ON YourSpesificTable TO YourUserName;
+For other permissions;
+
+GRANT INSERT, UPDATE, DELETE ON YourSpesificTable TO YourUserName;
+Thank you for reading…
+
