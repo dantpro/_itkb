@@ -1,0 +1,41 @@
+"blog.netwrix.com-jd-01-Active Directory Certificate Services Risky Settings and How to Remediate Them.pdf" https://blog.netwrix.com/2021/08/24/active-directory-certificate-services-risky-settings-and-how-to-remediate-them/
+"blog.netwrix.com-jd-02-PACRequestorEnforcement and Kerberos Authentication.pdf" https://blog.netwrix.com/2022/01/10/pacrequestorenforcement-and-kerberos-authentication/
+"blog.netwrix.com-jd-03-How to Back Up and Restore Group Policy Objects GPOs.pdf" https://blog.netwrix.com/2022/10/18/how-to-backup-and-restore-group-policy-objects/
+"blog.netwrix.com-jd-04-Group Scope in Active Directory.pdf" https://blog.netwrix.com/2022/10/19/group-scope-in-active-directory/
+"blog.netwrix.com-jd-05-How To Secure Default IIS Site amp Enable Windows Authentication.pdf" https://blog.netwrix.com/2022/10/21/enable-windows-authentication-iis/
+"blog.netwrix.com-jd-06-4 Active Directory Attacks and How to Protect Against Them.pdf" https://blog.netwrix.com/2022/10/25/active-directory-attacks/
+"blog.netwrix.com-jd-07-Attacking Local Account Passwords.pdf" https://blog.netwrix.com/2022/10/27/attacking-local-account-passwords/
+"blog.netwrix.com-jd-08-Cracking Active Directory Passwords with AS-REP Roasting.pdf" https://blog.netwrix.com/2022/11/03/cracking_ad_password_with_as_rep_roasting/
+"blog.netwrix.com-jd-09-Active Directory Attributes Last Logon.pdf" https://blog.netwrix.com/2022/11/03/active-directory-logon-attributes/
+"blog.netwrix.com-jd-10-NIST Password Guidelines.pdf" https://blog.netwrix.com/2022/11/03/active-directory-logon-attributes/
+"blog.netwrix.com-jd-11-How to Set Up an Azure Point-to-Site VPN Tunnel.pdf" https://blog.netwrix.com/2022/11/14/how-to-set-up-azure-point-to-site-vpn/
+"blog.netwrix.com-jd-12-How To Hide API Keys Credentials and Authentication Tokens on Github.pdf" https://blog.netwrix.com/2022/11/14/how-to-hide-api-keys-github/
+"blog.netwrix.com-jd-13-Public Role in SQL Server.pdf" https://blog.netwrix.com/2022/11/18/public-role-sql-server/
+"blog.netwrix.com-jd-14-Internal Reconnaissance Protection using NetCease and SAMRi10.pdf" https://blog.netwrix.com/2022/11/18/making-internal-reconnaissance-harder-using-netcease-and-samri1o/
+"blog.netwrix.com-jd-15-Mounting Unix Shares with a Windows NFS Client.pdf" https://blog.netwrix.com/2022/11/18/mounting-nfs-client-windows/
+"blog.netwrix.com-jd-16-Unconstrained Delegation.pdf" https://blog.netwrix.com/2022/12/02/unconstrained-delegation/
+"blog.netwrix.com-jd-17-Locating Service Accounts to Facilitate Management and Cleanup.pdf" https://blog.netwrix.com/2022/12/09/locating-service-accounts-to-facilitate-management-and-cleanup/
+"blog.netwrix.com-jd-18-Windows File Access Monitoring.pdf" https://blog.netwrix.com/2022/12/09/file-access-monitoring/
+"blog.netwrix.com-jd-19-Finding Abusable Active Directory Permissions with BloodHound.pdf" https://blog.netwrix.com/2022/12/09/bloodhound-active-directory/
+"blog.netwrix.com-jd-20-The Modern Data Repository Understanding Your Options.pdf" https://blog.netwrix.com/2022/12/09/the-modern-data-repository-understanding-your-options/
+"blog.netwrix.com-jd-21-Using LDAP Ping to Enumerate Active Directory Users.pdf" https://blog.netwrix.com/2022/12/13/using-ldap-ping-to-enumerate-active-directory-users/
+"blog.netwrix.com-jd-22-How NTFS Alternate Data Streams Introduce Security Vulnerability.pdf" https://blog.netwrix.com/2022/12/16/alternate_data_stream/
+"blog.netwrix.com-jd-23-Covenant C2 Framework The Complete Tutorial.pdf" https://blog.netwrix.com/2022/12/16/covenant-c2-tutorial/
+"blog.netwrix.com-jd-24-What Is the Kerberos PAC.pdf" https://blog.netwrix.com/2023/01/10/what-is-the-kerberos-pac/
+"blog.netwrix.com-jd-25-Four Challenges with Monitoring Active Directory Security.pdf" https://blog.netwrix.com/2023/01/20/active-directory-security-event-logs-html/
+"blog.netwrix.com-jd-26-Tips for Better Password Management.pdf" https://blog.netwrix.com/2023/01/27/tips-for-better-password-management/
+"blog.netwrix.com-jd-27-Covenant C2 Fills the Void Left by Empire PowerShell.pdf" https://blog.netwrix.com/2023/01/27/powershell-empire-covenant/
+"blog.netwrix.com-jd-28-Using Windows Defender Credential Guard to ProtectnbspPrivilegednbspCredentials.pdf" https://blog.netwrix.com/2023/02/06/using-windows-defender-credential-guard-to-protect-privileged-credentials/
+"blog.netwrix.com-jd-29-Cutting Down the AD Red Forest.pdf" https://blog.netwrix.com/2023/02/06/active-directory-red-forest/
+"blog.netwrix.com-jd-30-PowerShell Tips and Tricks for Scripting in Active Directory Test Environments.pdf" https://blog.netwrix.com/2023/02/10/powershell-tips-and-tricks/
+"blog.netwrix.com-jd-31-A Guide to Active Directory Linked Attributes.pdf" https://blog.netwrix.com/2023/02/17/active-directory-linked-attributes/
+"blog.netwrix.com-jd-32-Compromising SQL Server with PowerUpSQL.pdf" https://blog.netwrix.com/2023/02/17/powerupsql-sql-attacks/
+"blog.netwrix.com-jd-33-How to Restore Active Directory Object Attributes.pdf" https://blog.netwrix.com/2023/04/07/restoring-active-directory/
+"blog.netwrix.com-jd-34-Attacking Constrained Delegation to Elevate Access.pdf" https://blog.netwrix.com/2023/04/21/attacking-constrained-delegation-to-elevate-access/
+"blog.netwrix.com-jd-35-Securing Account Credentials to Protect Your Organization.pdf" https://blog.netwrix.com/2023/04/21/secure-credentials-and-protection/
+"blog.netwrix.com-jd-36-Top Strategies to Harden Your Active Directory Infrastructure.pdf" https://blog.netwrix.com/2023/04/28/harden-active-directory/
+"blog.netwrix.com-jd-37-How to Clean Up Your Active Directory.pdf" https://blog.netwrix.com/2023/05/05/cleanup-active-directory/
+"blog.netwrix.com-jd-38-Detecting Advanced Process Tampering Tactics with Sysmon v13.pdf" https://blog.netwrix.com/2023/07/06/sysmon-13-process-tampering-detection/
+"blog.netwrix.com-jd-39-Common Hacker Tools that Complement Mimikatz.pdf" https://blog.netwrix.com/2023/08/14/mimikatz-and-hacker-tools/
+"blog.netwrix.com-jd-40-Windows Remote WMI Security Primer for the Faint-Hearted.pdf" https://blog.netwrix.com/2023/08/14/windows-remote-wmi-security/
+"blog.netwrix.com-jd-41-10 Methods for Identifying and Protecting Privileged AD Users.pdf" https://blog.netwrix.com/2023/10/03/privileged-user/
