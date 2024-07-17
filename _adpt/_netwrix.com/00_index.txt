@@ -39,3 +39,29 @@
 "blog.netwrix.com-jd-39-Common Hacker Tools that Complement Mimikatz.pdf" https://blog.netwrix.com/2023/08/14/mimikatz-and-hacker-tools/
 "blog.netwrix.com-jd-40-Windows Remote WMI Security Primer for the Faint-Hearted.pdf" https://blog.netwrix.com/2023/08/14/windows-remote-wmi-security/
 "blog.netwrix.com-jd-41-10 Methods for Identifying and Protecting Privileged AD Users.pdf" https://blog.netwrix.com/2023/10/03/privileged-user/
+"blog.netwrix.com-jw-26-Why Is PowerShell So Popular for Attackers.pdf" https://blog.netwrix.com/2023/07/26/powershell-attacks/
+"blog.netwrix.com-jw-25-Honeypots and Their Role in Detecting Pass-the-Hash Attacks.pdf" https://blog.netwrix.com/2023/07/06/honeypots/
+"blog.netwrix.com-jw-24-How Adversaries Achieve Persistence using AdminSDHolder and SDProp.pdf" https://blog.netwrix.com/2023/06/16/adminsdholder/
+"blog.netwrix.com-jw-23-Lateral Movement to the Cloud with Pass-the-PRT.pdf" https://blog.netwrix.com/2023/05/13/pass-the-prt-overview/
+"blog.netwrix.com-jw-22-Exploiting Weak Active Directory Permissions with PowerSploit.pdf" https://blog.netwrix.com/2023/04/14/exploiting-weak-active-directory-permissions/
+"blog.netwrix.com-jw-21-Stealing Credentials with a Security Support Provider SSP.pdf" https://blog.netwrix.com/2023/02/24/security-support-provider-attacks/
+"blog.netwrix.com-jw-20-4 Service Account Attacks and How to Protect Against Them.pdf" https://blog.netwrix.com/2023/02/24/protecting-service-accounts/
+"blog.netwrix.com-jw-19-Attack Path Mapping with BloodHound AD.pdf" https://blog.netwrix.com/2023/01/20/bloodhound-active-directory-html/
+"blog.netwrix.com-jw-18-Bypassing MFA with the Pass-the-Cookie Attack.pdf" https://blog.netwrix.com/2022/11/29/bypassing-mfa-with-pass-the-cookie-attack/
+"blog.netwrix.com-jw-17-Unlocking Active Directory with the Skeleton Key Attack.pdf" https://blog.netwrix.com/2022/11/29/skeleton-key-attack-active-directory/
+"blog.netwrix.com-jw-16-Compromising Plaintext Passwords in Active Directory.pdf" https://blog.netwrix.com/2022/10/06/compromising-plain-text-passwords-active-directory/
+"blog.netwrix.com-jw-15-Overpass-the-Hash Attack Principles and Detection.pdf" https://blog.netwrix.com/2022/10/04/overpass-the-hash-attacks/
+"blog.netwrix.com-jw-14-Privilege Escalation with DCShadow.pdf" https://blog.netwrix.com/2022/10/04/privilege-escalation-with-dcshadow/
+"blog.netwrix.com-jw-13-Manipulating User Passwords with Mimikatz.pdf" https://blog.netwrix.com/2022/09/28/manipulating-user-passwords-with-mimikatz/
+"blog.netwrix.com-jw-12-How to Detect Pass-the-Ticket Attacks.pdf" https://blog.netwrix.com/2022/09/28/how-to-detect-pass-the-ticket-attacks/
+"blog.netwrix.com-jw-11-What a DCShadow Attack Is and How to Defend Against It.pdf" https://blog.netwrix.com/2022/09/28/dcshadow_attack/
+"blog.netwrix.com-jw-10-Passwordless Authentication with Windows Hello for Business.pdf" https://blog.netwrix.com/2022/09/08/passwordless-authentication-with-windows-hello-for-business/
+"blog.netwrix.com-jw-09-Finding Weak Passwords in Active Directory.pdf" https://blog.netwrix.com/2022/09/06/finding-weak-passwords-in-active-directory/
+"blog.netwrix.com-jw-08-Exploiting Service Accounts Silver Ticket Attack.pdf" https://blog.netwrix.com/2022/08/31/impersonating-service-accounts-with-silver-tickets/
+"blog.netwrix.com-jw-07-Service Account Attack LDAP Reconnaissance with PowerShell.pdf" https://blog.netwrix.com/2022/08/31/discovering-service-accounts-without-using-privileges/
+"blog.netwrix.com-jw-06-Extracting Service Account Passwords with Kerberoasting.pdf" https://blog.netwrix.com/2022/08/31/extracting-service-account-passwords-with-kerberoasting/
+"blog.netwrix.com-jw-05-Complete Domain Compromise with a Golden Ticket Attack.pdf" https://blog.netwrix.com/2022/08/31/complete-domain-compromise-with-golden-tickets/
+"blog.netwrix.com-jw-04-Kerberos Explained.pdf" https://blog.netwrix.com/what-is-kerberos/
+"blog.netwrix.com-jw-03-How to Detect Pass-the-Hash Attacks.pdf" https://blog.netwrix.com/2021/11/30/how-to-detect-pass-the-hash-attacks/
+"blog.netwrix.com-jw-02-Performing Pass-the-Hash Attacks with Mimikatz.pdf" https://blog.netwrix.com/2021/11/30/passing-the-hash-with-mimikatz/
+"blog.netwrix.com-jw-01-Extracting Password Hashes from the Ntdsdit File.pdf" https://blog.netwrix.com/2021/11/30/extracting-password-hashes-from-the-ntds-dit-file/
