@@ -1,11 +1,11 @@
-https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-netinst-amd64.iso  
+https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-installer-netinst-amd64.iso
 
 https://www.kali.org/tools/
 
 https://www.kali.org/docs/general-use/metapackages/
 
 > sudo apt update  
-> sudo apt full-upgrade    
+> sudo apt full-upgrade  
 
 > sudo apt install kali-desktop-xfce  
 > sudo apt install xrdp pipewire-module-xrdp  
@@ -18,7 +18,7 @@ https://www.kali.org/docs/general-use/metapackages/
 > sudo updatedb  
 
 
-> sudo apt install mc htop  vim
+> sudo apt install mc htop  vim  
 
 > #sudo apt install openssh-server  
 
@@ -104,7 +104,7 @@ win/ad
 
 proxy
 ---
-> sudo apt install chisel
+> sudo apt install chisel  
 
 ---
 
@@ -117,4 +117,5 @@ https://github.com/login-securite/DonPAPI
 > `pipx install git+https://github.com/login-securite/DonPAPI.git`
 
 https://github.com/Pennyw0rth/NetExec  
-> `pipx install git+https://github.com/Pennyw0rth/NetExec`
+> `pipx install git+https://github.com/Pennyw0rth/NetExec`  
+
