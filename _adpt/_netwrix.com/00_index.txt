@@ -65,3 +65,26 @@
 "blog.netwrix.com-jw-03-How to Detect Pass-the-Hash Attacks.pdf" https://blog.netwrix.com/2021/11/30/how-to-detect-pass-the-hash-attacks/
 "blog.netwrix.com-jw-02-Performing Pass-the-Hash Attacks with Mimikatz.pdf" https://blog.netwrix.com/2021/11/30/passing-the-hash-with-mimikatz/
 "blog.netwrix.com-jw-01-Extracting Password Hashes from the Ntdsdit File.pdf" https://blog.netwrix.com/2021/11/30/extracting-password-hashes-from-the-ntds-dit-file/
+"blog.netwrix.com-kj-23-How to Backup Active Directory A Step-by-Step Guide.pdf" https://blog.netwrix.com/how-to-backup-active-directory
+"blog.netwrix.com-kj-22-SMBv3 Vulnerabilities Explained.pdf" https://blog.netwrix.com/smbv3-vulnerability
+"blog.netwrix.com-kj-21-RID Hijacking How Guests Become Admins.pdf" https://blog.netwrix.com/2023/05/20/rid-hijacking/
+"blog.netwrix.com-kj-20-Active Directory Security Groups vs Distribution Groups.pdf" https://blog.netwrix.com/2023/04/28/active-directory-security-groups-vs-distribution-groups/
+"blog.netwrix.com-kj-19-What Is Zerologon and How Do You Mitigate It.pdf" https://blog.netwrix.com/2023/04/14/zerologon/
+"blog.netwrix.com-kj-18-PUBLIC Role in Oracle.pdf" https://blog.netwrix.com/2022/12/02/public-roles-in-oracle/
+"blog.netwrix.com-kj-17-Commando VM An Introduction.pdf" https://blog.netwrix.com/2022/11/29/commando-vm/
+"blog.netwrix.com-kj-16-Active Directory Delegation Overview.pdf" https://blog.netwrix.com/2022/11/14/active_directory_delegation/
+"blog.netwrix.com-kj-15-Securing Your Group Managed Service Accounts.pdf" https://blog.netwrix.com/2022/10/13/group-managed-service-accounts-gmsa/
+"blog.netwrix.com-kj-14-WDigest Clear-Text Passwords Stealing More than a Hash.pdf" https://blog.netwrix.com/2022/10/11/wdigest-clear-text-passwords-stealing-more-than-a-hash/
+"blog.netwrix.com-kj-13-Using Active Directorys AdminCount Attribute to Find Privileged Accounts.pdf" https://blog.netwrix.com/2022/09/30/admincount_attribute/
+"blog.netwrix.com-kj-12-Stealing User Passwords with Mimikatz DCSync.pdf" https://blog.netwrix.com/2022/09/30/extracting-user-password-data-with-mimikatz-dcsync/
+"blog.netwrix.com-kj-11-Resource-Based Constrained Delegation Abuse.pdf" https://blog.netwrix.com/2022/09/29/resource-based-constrained-delegation-abuse/
+"blog.netwrix.com-kj-10-DoD Cybersecurity Requirements Tips for Compliance.pdf" https://blog.netwrix.com/2022/09/28/dod_cyber_security_requirements/
+"blog.netwrix.com-kj-09-What Are Azure AD Custom Security Attributes.pdf" https://blog.netwrix.com/2022/02/10/what-are-azure-ad-custom-security-attributes/
+"blog.netwrix.com-kj-08-Understanding LSA Protection.pdf" https://blog.netwrix.com/2022/01/11/understanding-lsa-protection/
+"blog.netwrix.com-kj-07-Get a Quick Win in the Battle Against Ransomware by Disabling SMBv1.pdf" https://blog.netwrix.com/2021/11/30/what-is-smbv1-and-why-you-should-disable-it/
+"blog.netwrix.com-kj-06-What Is Kerberos Delegation An Overview of Kerberos Delegation.pdf" https://blog.netwrix.com/2021/11/30/what-is-kerberos-delegation-an-overview-of-kerberos-delegation/
+"blog.netwrix.com-kj-05-What Is a Global Catalog Server.pdf" https://blog.netwrix.com/2021/11/30/what-is-a-global-catalog-server/
+"blog.netwrix.com-kj-04-What Is DCSync Attack.pdf" https://blog.netwrix.com/2021/11/30/what-is-dcsync-an-introduction/
+"blog.netwrix.com-kj-03-Active Directory Object Recovery Using the Recycle Bin.pdf" https://blog.netwrix.com/2021/11/30/active-directory-object-recovery-recycle-bin/
+"blog.netwrix.com-kj-02-Running LAPS in the Race to Security.pdf" https://blog.netwrix.com/2021/08/25/running-laps-in-the-race-to-security/
+"blog.netwrix.com-kj-01-What Is a Distributed Denial of Service DDoS Attack.pdf" https://blog.netwrix.com/2021/08/18/ddos-atttack/
