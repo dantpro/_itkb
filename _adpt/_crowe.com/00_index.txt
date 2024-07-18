@@ -1,0 +1,5 @@
+"crowe.com-Authentication protocols and avoiding downgrade attacks.pdf" https://www.crowe.com/cybersecurity-watch/authentication-protocols-avoiding-downgrade-attacks
+"crowe.com-Exploiting AD CS A quick look at ESC1 and ESC8.pdf" https://www.crowe.com/cybersecurity-watch/exploiting-ad-cs-a-quick-look-at-esc1-esc8
+"crowe.com-Constrained delegation and resource-based delegation.pdf" https://www.crowe.com/cybersecurity-watch/constrained-delegation-resource-based-delegation-outsmart-attacks
+"crowe.com-Too trusting for its own good.pdf" https://www.crowe.com/cybersecurity-watch/unconstrained-delegation-too-trusting-for-its-own-good
+"crowe.com-A dangerous game of hot potato.pdf" https://www.crowe.com/cybersecurity-watch/ntlm-relay-attacks
