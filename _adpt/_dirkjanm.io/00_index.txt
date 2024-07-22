@@ -1,0 +1,7 @@
+"dirkjanm.io-Getting in the Zone dumping Active Directory DNS using adidnsdump.pdf" https://dirkjanm.io/getting-in-the-zone-dumping-active-directory-dns-with-adidnsdump/
+"dirkjanm.io-The worst of both worlds Combining NTLM Relaying and Kerberos delegation.pdf" https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/
+"dirkjanm.io-Abusing forgotten permissions on computer objects in Active Directory.pdf" https://dirkjanm.io/abusing-forgotten-permissions-on-precreated-computer-objects-in-active-directory/
+"dirkjanm.io-Relaying Kerberos over DNS using krbrelayx and mitm6.pdf" https://dirkjanm.io/krbrelayx-unconstrained-delegation-abuse-toolkit/
+"dirkjanm.io-NTLM relaying to AD CS - On certificates printers and a little hippo.pdf" https://dirkjanm.io/ntlm-relaying-to-ad-certificate-services/
+"dirkjanm.io-02-Active Directory forest trusts part 2 - Trust transitivity and finding a trust bypass.pdf" https://dirkjanm.io/active-directory-forest-trusts-part-two-trust-transitivity/
+"dirkjanm.io-01-Active Directory forest trusts part 1 - How does SID filtering work.pdf" https://dirkjanm.io/active-directory-forest-trusts-part-one-how-does-sid-filtering-work/
