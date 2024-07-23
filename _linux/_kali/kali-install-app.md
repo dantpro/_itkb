@@ -17,8 +17,9 @@ https://www.kali.org/docs/general-use/metapackages/
 > #sudo apt install locate  
 > sudo updatedb  
 
+> sudo apt install mc htop vim  
 
-> sudo apt install mc htop  vim  
+> sudo apt install plank  
 
 > #sudo apt install openssh-server  
 
