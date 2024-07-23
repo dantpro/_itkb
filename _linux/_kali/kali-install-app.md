@@ -51,7 +51,7 @@ net
 
 > sudo apt install nmap ncat ndiff   
 > sudo apt install mtr-tiny  
-> sudo apt hping3  
+> sudo apt install hping3  
 > sudo apt install dnsutils  
 > sudo apt install masscan  
 > #sudo apt install netcat-traditional  
