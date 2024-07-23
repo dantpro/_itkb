@@ -106,6 +106,10 @@ proxy
 ---
 > sudo apt install chisel  
 
+net
+---
+> sudo apt install openvpn
+
 ---
 
 https://pipx.pypa.io/stable/  
