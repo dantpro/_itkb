@@ -9,3 +9,4 @@
 "habr.com-secm3n-03-инструменты методологии и разведка  Хабр.pdf" https://habr.com/ru/companies/bastion/articles/767704/
 "habr.com-secm3n-02-о пользе своевременных патчей Microsoft AD  Хабр.pdf" https://habr.com/ru/companies/bastion/articles/767704/
 "habr.com-secm3n-01-Побег из песочницы и захват леса  реальный сценарий взлома корпоративной сети  Хабр.pdf" https://habr.com/ru/companies/bastion/articles/713600/
+"habr.com-secm3n-06-почему матерые пентестеры лажают в Red Team  Хабр.pdf" https://habr.com/ru/companies/bastion/articles/829402/
