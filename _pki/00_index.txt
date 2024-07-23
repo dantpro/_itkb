@@ -1,0 +1,2 @@
+"terenceluk.blogspot.com-Adding SAN Subject Alternative Name into Additional Attributes field on a Microsoft Certificate Autho.pdf" https://terenceluk.blogspot.com/2017/09/adding-san-subject-alternative-name.html
+"pkisolutions.com-Web server certificate enrollment with SAN extension.pdf" https://www.pkisolutions.com/web-server-certificate-enrollment-with-san-extension/
