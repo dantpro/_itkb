@@ -1,2 +1,3 @@
 "sobanmalikk.medium.com-How to Configure Firewall With UFW In Kali Linux.pdf" https://sobanmalikk.medium.com/how-to-configure-firewall-with-ufw-in-kali-linux-14ebbf498de2
 "thenewstack.io-Penetration Testing with Kali Linux as a Docker Container.pdf" https://thenewstack.io/penetration-testing-with-kali-linux-as-a-docker-container/
+"benheater.com-Configuring Unattended Upgrades on Debian.pdf" https://benheater.com/configuring-unattended-upgrades-on-debian/
