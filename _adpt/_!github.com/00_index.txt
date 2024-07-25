@@ -1,0 +1,2 @@
+github.com-drak3hft7Active-Directory-Exploitation-Cheat-Sheet.pdf https://github.com/drak3hft7/Active-Directory-Exploitation-Cheat-Sheet
+github.com-drak3hft7Cheat-Sheet---Active-Directory.pdf https://github.com/drak3hft7/Cheat-Sheet---Active-Directory
