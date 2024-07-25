@@ -114,6 +114,8 @@ net
 
 ---
 
+> sudo apt install remmina  
+
 https://pipx.pypa.io/stable/  
 > sudo apt install pipx git  
 > pipx ensurepath  
