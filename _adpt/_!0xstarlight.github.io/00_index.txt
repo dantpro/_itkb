@@ -1,0 +1,8 @@
+"0xstarlight.github.io-adpt-08-Bypassing Windows Defender.pdf" https://0xstarlight.github.io/posts/Bypassing-Windows-Defender/
+"0xstarlight.github.io-adpt-07-Active Directory - Forest Trust Abuse.pdf" https://0xstarlight.github.io/posts/Active-Diretory-Forest-Trust-Abuse/
+"0xstarlight.github.io-adpt-06-Active Directory - Domain Privilege Escalation.pdf" https://0xstarlight.github.io/posts/Active-Directory-Domain-Priv-Esc/
+"0xstarlight.github.io-adpt-05-Active Directory - Domain Persistence.pdf" https://0xstarlight.github.io/posts/Active-Directory-Domain-Persistence/
+"0xstarlight.github.io-adpt-04-Active Directory - Lateral Movement.pdf" https://0xstarlight.github.io/posts/Active-Directory-Lateral-Movement/
+"0xstarlight.github.io-adpt-03-Active Directory - Local Privilege Escalation.pdf" https://0xstarlight.github.io/posts/Active-Directory-Windows-Local-Priv-Esc/
+"0xstarlight.github.io-adpt-02-Active Directory - Offensive PowerShell.pdf" https://0xstarlight.github.io/posts/Offensive-powershell/
+"0xstarlight.github.io-adpt-01-Active Directory - Introduction.pdf" https://0xstarlight.github.io/posts/Active-Directory-Introduction/

@@ -1,0 +1,7 @@
+"hacklido.com-Pentesting Active Directory - Part 1  Trees Forest and Trust Relations.pdf" https://hacklido.com/blog/862-pentesting-active-directory-part-1-trees-forest-and-trust-relations
+"hacklido.com-Pentesting Active Directory - Part 2  Access Control Users KRGBT Golden ticket attack.pdf" https://hacklido.com/blog/863-pentesting-active-directory-part-2-access-control-users-krgbt-golden-ticket-attack
+"hacklido.com-Pentesting Active Directory - Part 3  Recon with AD Module Bloodhound PowerView amp Adalanche.pdf" https://hacklido.com/blog/864-pentesting-active-directory-part-3-recon-with-ad-module-bloodhound-powerview-adalanche
+"hacklido.com-Pentesting Active Directory - Part 4  LLMNR Poisoning.pdf" https://hacklido.com/blog/865-pentesting-active-directory-part-4-llmnr-poisoning
+"hacklido.com-Pentesting Active Directory - Part 5  Lateral Movement Privilege Escalation amp Tools.pdf" https://hacklido.com/blog/866-pentesting-active-directory-part-5-lateral-movement-privilege-escalation-tools
+"hacklido.com-Pentesting Active Directory - Part 6  domain persistence and cross forest attacks.pdf" https://hacklido.com/blog/867-pentesting-active-directory-part-6-domain-persistence-and-cross-forest-attacks
+"hacklido.com-Pentesting Active Directory - Part 7  Abusing Misconfigured Templates ESC1.pdf" https://hacklido.com/blog/882-pentesting-active-directory-part-7-abusing-misconfigured-templates-esc1
