@@ -116,6 +116,7 @@ net
 
 > sudo apt install remmina  
 > sudo apt install dos2unix  
+> sudo apt install mitmproxy  
 
 https://pipx.pypa.io/stable/  
 > sudo apt install pipx git  
