@@ -115,6 +115,7 @@ net
 ---
 
 > sudo apt install remmina  
+> sudo apt install dos2unix  
 
 https://pipx.pypa.io/stable/  
 > sudo apt install pipx git  
