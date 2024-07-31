@@ -112,6 +112,11 @@ net
 ---
 > sudo apt install openvpn
 
+www
+---
+
+> sudo apt install links lynx
+
 ---
 
 > sudo apt install remmina  
