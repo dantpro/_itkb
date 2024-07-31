@@ -118,6 +118,9 @@ net
 > sudo apt install dos2unix  
 > sudo apt install mitmproxy  
 
+https://github.com/OWASP/joomscan
+> sudo apt install joomscan
+
 https://pipx.pypa.io/stable/  
 > sudo apt install pipx git  
 > pipx ensurepath  
