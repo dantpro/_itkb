@@ -2,7 +2,6 @@
 "habr.com-OSINT или разведка по открытым источникам  Хабр.pdf" https://habr.com/ru/companies/deiteriylab/articles/595801/
 "habr.com-Дампы LSASS для всех даром и пусть никто не уйдет обиженный  Хабр.pdf" https://habr.com/ru/companies/angarasecurity/articles/661341/
 "habr.com-Делегируй меня полностью или Новый взгляд на RBCD-атаки в AD  Хабр.pdf" https://habr.com/ru/companies/angarasecurity/articles/680138/
-"habr.com-Секретики DPAPI или DPAPI для пентестеров  Хабр.pdf" https://habr.com/ru/articles/434514/
 "habr.com-secm3n-06-боковое перемещение и повышение привилегий в сети  Хабр.pdf" https://habr.com/ru/companies/bastion/articles/809655/
 "habr.com-secm3n-05-сканирование и получение доступа  Хабр.pdf" https://habr.com/ru/companies/bastion/articles/799529/
 "habr.com-secm3n-04-прорываемся к домен контроллеру через розетку  Хабр.pdf" https://habr.com/ru/companies/bastion/articles/767706/

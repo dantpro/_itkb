@@ -1,1 +1,3 @@
 univershell_2017_dpapi.pdf https://www.synacktiv.com/ressources/univershell_2017_dpapi.pdf
+"habr.com-Секретики DPAPI Взгляд на осла  Хабр.pdf" https://habr.com/ru/articles/437390/\
+"habr.com-Секретики DPAPI или DPAPI для пентестеров  Хабр.pdf" https://habr.com/ru/articles/434514/
