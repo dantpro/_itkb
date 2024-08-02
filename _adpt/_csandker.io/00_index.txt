@@ -1,0 +1,7 @@
+_csandker.github.io-master.zip https://github.com/csandker/csandker.github.io
+"csandker.io-NTLM Authentication A Wrap Up.pdf" https://csandker.io/2017/09/10/NTLMAuthenticationAWrapUp.html
+"csandker.io-Kerberos Authentication A Wrap Up.pdf" https://csandker.io/2017/09/12/KerberosAuthenticationAWrapUp.html
+"csandker.io-A Windows Authorization Guide.pdf" https://csandker.io/2018/06/14/AWindowsAuthorizationGuide.html
+"csandker.io-A Beginners Guide to Windows Shellcode Execution Techniques.pdf" https://csandker.io/2019/07/24/ABeginnersGuideToWindowsShellcodeExecutionTechniques.html
+"csandker.io-Kerberos Delegation A Wrap Up.pdf" https://csandker.io/2020/02/10/KerberosDelegationAWrapUp.html
+"csandker.io-Kerberos Delegation A Reference Overview.pdf" https://csandker.io/2020/02/15/KerberosDelegationAReferenceOverview.html
