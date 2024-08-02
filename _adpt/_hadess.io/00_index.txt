@@ -1,0 +1,1 @@
+Adaptive-DLL-Hijacking.pdf https://hadess.io/adaptive-dll-hijacking/
