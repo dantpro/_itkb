@@ -1,0 +1,1 @@
+"redsiege.com-Adventures in Shellcode Obfuscation Part 7 Flipping the Script.pdf" https://redsiege.com/blog/2024/08/adventures-in-shellcode-obfuscation-part-7-flipping-the-script/
