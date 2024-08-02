@@ -98,7 +98,9 @@ win/ad
 > sudo apt install impacket-scripts  
 > sudo apt install evil-winrm  
 
-> sudo apt install bloodhound  
+> sudo apt install bloodhound
+> sudo apt install bloodhound.py
+  
 > #sudo neo4j console  
 
 > sudo apt install nbtscan  
