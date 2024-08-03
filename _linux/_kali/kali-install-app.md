@@ -125,6 +125,10 @@ www
 > sudo apt install dos2unix  
 > sudo apt install mitmproxy  
 
+> sudo apt install whatweb  
+> # sudo apt install wapiti  
+
+
 https://github.com/OWASP/joomscan
 > sudo apt install joomscan
 
