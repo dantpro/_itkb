@@ -3,3 +3,4 @@
 "redteamrecipe.com-NTLM Abuse Methods.pdf" https://redteamrecipe.com/ntlm-abuse-methodsrtc0028
 "redteamrecipe.com-64 Methods For Execute Mimikatz.pdf" https://redteamrecipe.com/64-methods-for-execute-mimikatzrtc0003
 "redteamrecipe.com-40 Methods For Privilege Escalation.pdf" https://redteamrecipe.com/40-method-for-privilege-escalation
+"redteamrecipe.com-Windows Privileges for Fun and Profit.pdf" https://redteamrecipe.com/windows-privileges-for-fun-and-profit
