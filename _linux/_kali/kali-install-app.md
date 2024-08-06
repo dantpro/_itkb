@@ -143,3 +143,5 @@ https://github.com/login-securite/DonPAPI
 https://github.com/Pennyw0rth/NetExec  
 > `pipx install git+https://github.com/Pennyw0rth/NetExec`  
 
+
+> `pipx install pypykatz`  
