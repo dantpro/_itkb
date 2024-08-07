@@ -125,6 +125,8 @@ office
 
 > sudo apt install libreoffice libreoffice-gtk4  
 
+> sudo apt install libimage-exiftool-perl  
+
 ---
 
 > sudo apt install remmina  
