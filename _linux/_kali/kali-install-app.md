@@ -119,6 +119,12 @@ www
 
 > sudo apt install links lynx
 
+
+office
+---
+
+> sudo apt install libreoffice libreoffice-gtk4  
+
 ---
 
 > sudo apt install remmina  
