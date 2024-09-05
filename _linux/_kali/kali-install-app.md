@@ -133,6 +133,8 @@ office
 > sudo apt install dos2unix  
 > sudo apt install mitmproxy  
 
+> sudo apt install proxychains4
+
 > sudo apt install whatweb  
 > # sudo apt install wapiti  
 
