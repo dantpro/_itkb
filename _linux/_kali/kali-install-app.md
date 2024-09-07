@@ -138,6 +138,7 @@ office
 > sudo apt install whatweb  
 > # sudo apt install wapiti  
 
+> sudo apt install xclip
 
 https://github.com/OWASP/joomscan
 > sudo apt install joomscan
