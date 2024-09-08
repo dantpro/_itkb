@@ -109,6 +109,8 @@ win/ad
 proxy
 ---
 > sudo apt install chisel  
+> sudo apt install proxychains4
+> sudo apt install ligolo-ng
 
 net
 ---
@@ -132,8 +134,6 @@ office
 > sudo apt install remmina  
 > sudo apt install dos2unix  
 > sudo apt install mitmproxy  
-
-> sudo apt install proxychains4
 
 > sudo apt install whatweb  
 > # sudo apt install wapiti  
