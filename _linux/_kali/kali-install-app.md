@@ -140,6 +140,8 @@ office
 
 > sudo apt install xclip
 
+> sudo apt install openjdk-17-jdk
+
 https://github.com/OWASP/joomscan
 > sudo apt install joomscan
 
