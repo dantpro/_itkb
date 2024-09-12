@@ -142,6 +142,8 @@ office
 
 > sudo apt install openjdk-17-jdk
 
+> sudo apt install systemd-resolved
+
 https://github.com/OWASP/joomscan
 > sudo apt install joomscan
 
