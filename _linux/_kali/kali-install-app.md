@@ -82,7 +82,9 @@ pwd
 > sudo apt install hashcat  
 > sudo apt install wordlists  
 
-> #sudo apt install hydra-gtk hydra  
+> sudo apt install hydra
+
+> #sudo apt install hydra-gtk  
 > #sudo apt install john  
 
 win/ad
