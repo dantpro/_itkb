@@ -153,6 +153,16 @@ office
 > sudo apt install systemd-resolved
 
 
+https://www.kali.org/tools/netexec/
+> sudo apt install netexec
+
+https://www.kali.org/tools/hekatomb/
+> sudo apt install hekatomb
+
+https://www.kali.org/tools/netscanner/
+> sudo apt install netscanner
+
+> sudo apt install zmap
 
 https://github.com/OWASP/joomscan
 > sudo apt install joomscan
