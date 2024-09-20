@@ -167,6 +167,8 @@ https://www.kali.org/tools/netscanner/
 https://github.com/OWASP/joomscan
 > sudo apt install joomscan
 
+> sudo apt install enum4linux-ng
+
 https://pipx.pypa.io/stable/  
 > sudo apt install pipx git  
 > pipx ensurepath  
