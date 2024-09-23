@@ -152,6 +152,7 @@ office
 
 > sudo apt install systemd-resolved
 
+> sudo apt install jq
 
 https://www.kali.org/tools/netexec/
 > sudo apt install netexec
