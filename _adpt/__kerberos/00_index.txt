@@ -2,3 +2,6 @@
 "roguelynn.com-Explain like Im 5 Kerberos.pdf" https://www.roguelynn.com/words/explain-like-im-5-kerberos/
 "learn.microsoft.com-Understanding Kerberos Double Hop.pdf" https://learn.microsoft.com/en-us/archive/blogs/askds/understanding-kerberos-double-hop
 "osp.ru-Kerberos â Active Directory.pdf" https://www.osp.ru/winitpro/2010/11/13006806
+"learn.microsoft.com-Network security Configure encryption types allowed for Kerberos.pdf" https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/security-policy-settings/network-security-configure-encryption-types-allowed-for-kerberos
+"techcommunity.microsoft.com-Decrypting the Selection of Supported Kerberos Encryption Types.pdf" https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/decrypting-the-selection-of-supported-kerberos-encryption-types/ba-p/1628797
+"4sysops.com-Find Active Directory accounts configured for DES and RC4 Kerberos encryption.pdf" https://4sysops.com/archives/find-active-directory-accounts-configured-for-des-and-rc4-kerberos-encryption/
