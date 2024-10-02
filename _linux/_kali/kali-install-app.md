@@ -154,6 +154,8 @@ office
 
 > sudo apt install jq
 
+> sudo apt install keepassxc  
+
 https://www.kali.org/tools/netexec/
 > sudo apt install netexec
 
