@@ -156,6 +156,8 @@ office
 
 > sudo apt install keepassxc  
 
+> sudo apt install coercer  
+
 https://www.kali.org/tools/netexec/
 > sudo apt install netexec
 
