@@ -143,9 +143,6 @@ office
 > sudo apt install dos2unix  
 > sudo apt install mitmproxy  
 
-> sudo apt install whatweb  
-> # sudo apt install wapiti  
-
 > sudo apt install xclip
 
 > sudo apt install openjdk-17-jdk
@@ -187,3 +184,16 @@ https://github.com/Pennyw0rth/NetExec
 
 
 > `pipx install pypykatz`  
+
+
+> sudo apt install whatweb  
+> # sudo apt install wapiti  
+
+https://book.hacktricks.xyz/network-services-pentesting/pentesting-web
+https://github.com/ShielderSec/webtech
+> `pip install webtech`  
+
+
+
+
+
