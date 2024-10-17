@@ -193,6 +193,10 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-web
 https://github.com/ShielderSec/webtech
 > `pip install webtech`  
 
+https://github.com/ly4k/Certipy
+> `pip3 install certipy-ad`
+
+  
 
 
 
