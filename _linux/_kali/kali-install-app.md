@@ -155,6 +155,8 @@ office
 
 > sudo apt install coercer  
 
+> sudo apt install freerdp2-x11  
+
 https://www.kali.org/tools/netexec/
 > sudo apt install netexec
 
