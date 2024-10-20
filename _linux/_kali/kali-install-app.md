@@ -198,6 +198,9 @@ https://github.com/ShielderSec/webtech
 https://github.com/ly4k/Certipy
 > `pip3 install certipy-ad`
 
+https://github.com/aniqfakhrul/powerview.py
+> sudo apt install libkrb5-dev  
+> pip3 install powerview
   
 
 
