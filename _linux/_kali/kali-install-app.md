@@ -139,7 +139,6 @@ office
 
 ---
 
-> sudo apt install remmina  
 > sudo apt install dos2unix  
 > sudo apt install mitmproxy  
 
@@ -155,7 +154,11 @@ office
 
 > sudo apt install coercer  
 
+> sudo apt install remmina  
 > sudo apt install freerdp2-x11  
+> sudo apt install rdesktop  
+
+---
 
 https://www.kali.org/tools/netexec/
 > sudo apt install netexec
@@ -186,7 +189,6 @@ https://github.com/Pennyw0rth/NetExec
 
 
 > `pipx install pypykatz`  
-
 
 > sudo apt install whatweb  
 > # sudo apt install wapiti  
