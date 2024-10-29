@@ -1,2 +1,3 @@
 hash_crack_en.pdf https://github.com/imrk51/hacking-books/
 troubleshooting_kerberos.pdf https://conf.inttrust.ru:8443/download/attachments/13240212/TroubleshootingKerberos.pdf
+blackhatpython2ed.pdf "Black Hat Python, 2nd Edition by Justin Seitz  Tim Arnold [Justin Seitz].pdf" https://github.com/bhavyagoel/BlackArch/tree/main
