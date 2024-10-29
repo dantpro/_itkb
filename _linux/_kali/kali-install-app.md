@@ -159,11 +159,13 @@ office
 > sudo apt install rdesktop  
 
 > sudo apt install goshs  
+> sudo apt install gsocket  
 
 > sudo apt install mxcheck
 
 > sudo apt install sprayhound
 
+> sudo apt install sqlmc
   
 ---
 
