@@ -3,3 +3,4 @@
 "medium.com-Havoc C2 with AVEDR Bypass Methods in 2024 Part 2.pdf" https://medium.com/@sam.rothlisberger/havoc-c2-with-av-edr-bypass-methods-in-2024-part-2-d3ac83589e3a
 "medium.com-Havoc C2 Framework Part 2 Client User Interface 2024.pdf" https://medium.com/@r1ckyr3c0n/havoc-c2-framework-part-2-client-user-interface-2024-c029322527f1
 "medium.com-Havoc C2 Framework Part 1 Installation 2024.pdf" https://medium.com/@r1ckyr3c0n/havoc-c2-framework-part-1-installation-2024-2fbb8a1fe31c
+"git.culbertreport.com-Sliver vs Havoc Culbert Report.pdf" https://git.culbertreport.com/posts/Sliver-vs-Havoc/
