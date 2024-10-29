@@ -2,3 +2,4 @@
 "innostage-group.ru-Commando VM  атакующий дистрибутив Windows.pdf" https://innostage-group.ru/press/blog/technical/commandovm/
 "cloud.google.com-Commando VM The First of Its Kind Windows Offensive Distribution.pdf" https://cloud.google.com/blog/topics/threat-intelligence/commando-vm-windows-offensive-distribution
 "DEF CON 22 - Anton-Sapozhnikov-Acquire-Current-User-Hashes-Without-Admin-Privileges.pdf" https://media.defcon.org/DEF%20CON%2022/DEF%20CON%2022%20presentations/DEF%20CON%2022%20-%20Anton-Sapozhnikov-Acquire-Current-User-Hashes-Without-Admin-Privileges.pdf
+"gatari.dev-The Art of Exploiting Active Directory from Linux.pdf" https://gatari.dev/posts/the-art-of-exploiting-ad-from-linux/

@@ -1,3 +1,2 @@
 hash_crack_en.pdf https://github.com/imrk51/hacking-books/
 rtfm__red_team_field_manual_v3.pdf https://github.com/imrk51/hacking-books/
-"gatari.dev-The Art of Exploiting Active Directory from Linux.pdf" https://gatari.dev/posts/the-art-of-exploiting-ad-from-linux/
