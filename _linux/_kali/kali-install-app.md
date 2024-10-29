@@ -158,6 +158,13 @@ office
 > sudo apt install freerdp2-x11  
 > sudo apt install rdesktop  
 
+> sudo apt install goshs  
+
+> sudo apt install mxcheck
+
+> sudo apt install sprayhound
+
+  
 ---
 
 https://www.kali.org/tools/netexec/
