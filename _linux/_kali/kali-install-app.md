@@ -199,6 +199,9 @@ https://github.com/Pennyw0rth/NetExec
 
 > `pipx install pypykatz`  
 
+> sudo apt install wpscan  
+> sudo apt install joomscan  
+
 > sudo apt install whatweb  
 > # sudo apt install wapiti  
 
