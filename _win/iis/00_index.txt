@@ -1,2 +1,3 @@
 "techcommunity.microsoft.com-SPN configurations for Kerberos Authentication  A quick reference.pdf" https://techcommunity.microsoft.com/t5/iis-support-blog/spn-configurations-for-kerberos-authentication-a-quick-reference/ba-p/330547
 "blog.it-kb.ru-Базовая настройка Kerberos в IIS для пулов исполняемых в контексте ApplicationPoolIdentity или gMSA а.pdf" https://blog.it-kb.ru/2022/12/17/configuring-kerberos-authentication-for-iis-pools-running-as-applicationpoolidentity-or-gmsa-and-unconstrained-constrained-resource-based-constrained-delegation-to-cifs-file-server/
+"windowsnotes.ru-Application Pool Identities в IIS.pdf" https://windowsnotes.ru/iis/application-pool-identities-v-iis/
