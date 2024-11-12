@@ -1,0 +1,2 @@
+"gatari.dev-The Art of Exploiting Active Directory from Linux.pdf" https://gatari.dev/posts/the-art-of-exploiting-ad-from-linux/
+"git.culbertreport.com-Sliver vs Havoc Culbert Report.pdf" https://git.culbertreport.com/posts/Sliver-vs-Havoc/
