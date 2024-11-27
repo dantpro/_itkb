@@ -1,0 +1,52 @@
+https://www.reddit.com/r/HyperV/comments/pewr26/how_can_i_run_proxmox_on_hyper_v/?rdt=49848
+
+Sorry to post on an old thread but today I had to stand up a virtual instance of my physical Proxmox VE 7.3-4 host in an emergency to get it back up and running while I fix the host's hardware (homelab with no host clustering), and this was one of the first threads I found. I'm posting what I did to get it working in the interest of posting a complete solution here for others to use.
+
+Hyper-V machine is Windows 11 Pro version 23H2
+
+Step 1
+Attach the physical disk from the Proxmox host to the Hyper-V system. I did this with a known-reliable USB 3.x dock/enclosure and have had no issues so far as of this writing (going about 2-1/2 hours now).
+
+Step 2
+Open Disk Manager and take the physical Proxmox disk offline. This will allow you to attach it as a SCSI device to the new (temporary for me) host VM.
+
+Step 3
+Create a new VM with appropriate configurations for cores/RAM/etc. My physical deployment used UEFI so I set my VM to use Generation 2.
+
+Give it a simple name with no spaces - this will be used in PowerShell in Step 6, though strictly speaking I'm not sure it's fully necessary but I took no chances.
+
+If you're like me and setting up a temporary VM from a physical Proxmox drive, skip creating a virtual disk during the setup process. If you're standing it up fresh and intend on running Proxmox off a new virtual disk, configure the sizing accordingly.
+
+Step 4
+With the VM created, we need to make some additional changes before starting. Open the Virtual Switch Manager (in the Actions pane on the right-hand side of the Hyper-V Manager), and create a new External virtual switch. Connect the switch to the NIC you intend on using for your VM traffic.
+
+Step 5
+Next, open the settings for your VM. Set:
+
+Firmware: Boot from Hard Drive
+
+Security: Secure Boot Disabled
+
+SCSI Controller: Make sure your drive, physical or virtual, is attached here. If physical and you did step 2 correctly, your drive will be available to select.
+
+Network Adapter: Set to use your new External virtual switch, AND, expand the menu for your network adapter, then in the Advanced Features section make sure Enable MAC address spoofing is checked.
+
+Integration Services: Check everything off here
+
+Checkpoints: I had to disable this to get the VM to boot - YMMV.
+
+Step 6
+Open a PowerShell console as Administrator and run:
+
+Set-VMProcessor -VMName [vm-name-here] -ExposeVirtualizationExtensions $true
+
+Step 7
+Start the Proxmox VM (and install Proxmox VE if that's what you're after; if you're doing what I did, your existing deployment should fire up). Once it is running, install the Hyper-V daemons inside Proxmox and reboot:
+
+apt-get update && apt-get install hyperv-daemons
+systemctl reboot
+
+Step 8
+Enjoy Proxmox VE nested inside Hyper-V. At this point in my project, all my original VMs and containers spun right up without hesitation, getting me back up and running for the time being.
+
+Hope this is helpful for anyone stumbling on this down the road like I did.
