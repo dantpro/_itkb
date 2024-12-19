@@ -50,7 +50,8 @@ root
 net
 ---
 
-> sudo apt install nmap ncat ndiff   
+> sudo apt install ncat ndiff 
+> sudo  apt install nmap zenmap  
 > sudo apt install mtr-tiny  
 > sudo apt install hping3  
 > sudo apt install dnsutils  
@@ -215,8 +216,8 @@ https://github.com/ly4k/Certipy
 https://github.com/aniqfakhrul/powerview.py
 > sudo apt install libkrb5-dev  
 > pip3 install powerview
-  
 
-
+> sudo apt install bloodyad  
+> sudo apt install certi  
 
 
