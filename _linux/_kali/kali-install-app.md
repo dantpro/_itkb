@@ -170,6 +170,9 @@ office
   
 ---
 
+https://github.com/Pennyw0rth/NetExec  
+> `pipx install git+https://github.com/Pennyw0rth/NetExec`  
+
 https://www.kali.org/tools/netexec/
 > sudo apt install netexec
 
@@ -194,10 +197,6 @@ https://pipx.pypa.io/stable/
 https://github.com/login-securite/DonPAPI  
 > `pipx install git+https://github.com/login-securite/DonPAPI.git`
 
-https://github.com/Pennyw0rth/NetExec  
-> `pipx install git+https://github.com/Pennyw0rth/NetExec`  
-
-
 > `pipx install pypykatz`  
 
 > sudo apt install wpscan  
@@ -219,5 +218,4 @@ https://github.com/aniqfakhrul/powerview.py
 
 > sudo apt install bloodyad  
 > sudo apt install certi  
-
 
