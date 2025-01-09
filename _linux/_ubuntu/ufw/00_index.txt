@@ -1,1 +1,0 @@
-"cyberciti.biz-How to Set Up UFW Firewall on Ubuntu 2404 LTS in 5 Minutes.pdf" https://www.cyberciti.biz/faq/ubuntu-22-04-lts-set-up-ufw-firewall-in-5-minutes/
