@@ -1,1 +1,1 @@
-"cyberciti.biz-How to Restart Network Interface in Linux.pdf" https://www.cyberciti.biz/faq/linux-restart-network-interface/
+cyberciti.biz-how_to_restart_network_interface_in_linux.pdf https://www.cyberciti.biz/faq/linux-restart-network-interface/
