@@ -23,6 +23,10 @@ https://www.kali.org/docs/general-use/metapackages/
 
 > #sudo apt install openssh-server  
 
+> sudo apt install unattended-upgrades  
+> sudo apt install apt-listchanges  
+> sudo apt install bsd-mailx  
+
 ufw
 ---
 
