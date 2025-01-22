@@ -1,6 +1,6 @@
 ﻿https://www.kali.org/docs/virtualization/install-hyper-v-guest-enhanced-session-mode/
 
-> Get-VM -Name _vm_kali -fl *  
+> Get-VM -Name _vm_kali | fl *  
 > Set-VM -Name _vm_kali -EnhancedSessionTransportType HVSocket  
 > #Set-VM -Name _vm_kali -EnhancedSessionTransportType VMBus  
 
