@@ -1,1 +1,2 @@
 enhanced_security_admin_environment_solution_datasheet_en.pdf http://download.microsoft.com/download/A/C/5/AC5D21A6-E04B-4DC4-B1F2-AE060319A4D7/Premier_Support_for_Security/Popis/Enhanced-Security-Admin-Environment-Solution-Datasheet-%5BEN%5D.pdf
+_service-overview-ad-tiering-implementation.pdf https://files.truesec.com/hubfs/PDF/Service-Descriptions/Service-Overview-AD-Tiering-Implementation.pdf
