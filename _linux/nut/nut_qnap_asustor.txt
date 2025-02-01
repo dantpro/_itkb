@@ -1,0 +1,28 @@
+https://www.reddit.com/r/asustor/comments/rulq9b/the_network_ups_support_in_adm_sucks/
+
+QNAS UPS name: qnapups, username/passwd =admin/123456
+ASUSTOR asustor, admin/1111
+
+OK, I got this working with just NUT server and not homeassistant.
+
+In /etc/nut directory, edit upsd.users and add:
+
+[admin]
+password = 1111
+upsmon primary
+
+then make the name of the UPS in ups.conf to be asustor
+
+[asustor]
+driver = usbhid-ups
+port = auto
+desc = "Asustor"
+vendorid=nnnn
+productid=nnnn
+
+Your vendorid and productid will vary.
+
+Then sudo service nut-server restart or just reboot the RPi
+
+Now go to adm and set ADM to point to the RPi IP address and test. This works for me.
+
