@@ -1,0 +1,34 @@
+vma extract /mnt/tmp/vzdump-qemu-100-2016_10_21-15_30_49.vma/vzdump-qemu-100-2016_10_21-15_30_49.vma -v /root/raw
+qemu-img convert -pO vmdk disk-drive-virtio0.raw vm.vmdk
+
+---
+
+zstd -d vzdump-qemu-$VMID....vma.zst
+vma extract vzdump-qemu-$VMID....vma ./$DESTINATION
+qemu-img convert -p -f raw $SOURCE.raw $DESTINATION.vmdk
+
+
+I know it is a long time ago, but I had the same question and this post has been kinda left
+without an answer, so here how I managed this.
+
+1. On your Proxmox do a backup of your VM
+2. Decompress the backup to have the .vma
+
+2.1. I did with zstd -d vzdump-qemu-$VMID....vma.zst
+
+3. Extract the vma 
+
+vma extract vzdump-qemu-$VMID....vma ./$DESTINATION
+
+it will give you a .raw file (disk image ) and a .conf file (VM Config)
+
+4. Fire Up your Virtual Machine Manager than import this disk image (.raw) in a new VM.
+It worked well for me from Proxmox 6 to QEMU-KVM on Ubuntu 20.04 LTS
+Now I wasn't able to manage to make the vma tool run on Ubuntu (issue with libraries
+version), to avoid that trouble, it is easier to run simply it on a Debian 10 (if you use
+Promox 6).
+For those people who want to convert the raw file into another format
+such as QCOW2, VDi or VMDK
+it could be accomplish with qemu-img and have nothing to do with Proxmox nor VMA;
+a simple qemu-img convert -p -f raw $SOURCE.raw $DESTINATION.vmdk will probably
+do the job.
