@@ -3,9 +3,18 @@ qemu-img convert -pO vmdk disk-drive-virtio0.raw vm.vmdk
 
 ---
 
+
 zstd -d vzdump-qemu-$VMID....vma.zst
 vma extract vzdump-qemu-$VMID....vma ./$DESTINATION
 qemu-img convert -p -f raw $SOURCE.raw $DESTINATION.vmdk
+
+---
+zstd -d ./vzdump-qemu-100-2025_02_10-17_11_26.vma.zst
+vma extract ./vzdump-qemu-100-2025_02_10-17_11_26.vma ./raw
+cd ./raw
+qemu-img convert -p -f raw ./disk-drive-scsi0.raw ./disk-drive-scsi0.vhdx
+
+---
 
 
 I know it is a long time ago, but I had the same question and this post has been kinda left
