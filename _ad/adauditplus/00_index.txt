@@ -9,3 +9,4 @@ adauditplus-quick-start-guide.pdf https://download.manageengine.com/products/act
 adauditplus-active-directory-auditing-solution.pptx https://www.manageengine.com/products/active-directory-audit/active-directory-auditing-solution.pptx
 adauditplus-service-account-configuration.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-service-account-configuration.pdf
 adauditplus-active-directory-auditing-configuration-guide.pdf https://download.manageengine.com/products/active-directory-audit/adaudit-plus-service-account-configuration.pdf
+adauditplus-privileged-access-security-ebook.pdf https://download.manageengine.com/products/active-directory-audit/ebook/privileged-access-security-ebook.pdf

@@ -1,0 +1,7 @@
+smbclient -L //server -U contoso/user
+smbclient //server/share -U contoso//user
+
+mount -t cifs -o username=user@contoso.lab \\\\SERVER\\SHARE  /mnt/smb/
+mount -t cifs -o username=user,domain=contoso.lab \\\\SERVER\\SHARE  /mnt/smb/
+mount -t cifs -o username=user,domain=contoso.lab //SERVER/SHARE  /mnt/smb/
+umount /mnt/smb/
