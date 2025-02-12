@@ -10,9 +10,9 @@ qemu-img convert -p -f raw $SOURCE.raw $DESTINATION.vmdk
 
 ---
 zstd -d ./vzdump-qemu-100-2025_02_10-17_11_26.vma.zst
-vma extract ./vzdump-qemu-100-2025_02_10-17_11_26.vma ./raw
+vma extract ./vzdump-qemu-100-2025_02_10-17_11_26.vma ./vmadata
 cd ./raw
-qemu-img convert -p -f raw -O vhdx disk-drive-scsi0.raw  disk-drive-scsi0.vhdx
+qemu-img convert -p -f raw -O vhdx ./vmadata/disk-drive-scsi0.raw  ./vmadata/disk-drive-scsi0.vhdx
 
 ---
 
