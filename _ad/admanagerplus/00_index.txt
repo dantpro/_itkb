@@ -9,3 +9,4 @@ admanagerplus-automated-user-account-provisioning-in-ad-and-cloud-environments.p
 admanagerplus-solution-document.pdf https://download.manageengine.com/products/ad-manager/admanager-plus-solution-document.pdf
 admanagerplus-solution-architecture.pdf https://download.manageengine.com/products/ad-manager/solution-architecture.pdf
 admanagerplus-mitigating-cybersecurity-risk-in-healthcare.pdf https://download.manageengine.com/products/ad-manager/ebook/mitigating-cybersecurity-risk-in-healthcare.pdf
+_admanagerplus_help.pdf https://download.manageengine.com/products/ad-manager/ADManagerplus_help.pdf
