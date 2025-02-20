@@ -10,3 +10,4 @@ admanagerplus-solution-document.pdf https://download.manageengine.com/products/a
 admanagerplus-solution-architecture.pdf https://download.manageengine.com/products/ad-manager/solution-architecture.pdf
 admanagerplus-mitigating-cybersecurity-risk-in-healthcare.pdf https://download.manageengine.com/products/ad-manager/ebook/mitigating-cybersecurity-risk-in-healthcare.pdf
 _admanagerplus_help.pdf https://download.manageengine.com/products/ad-manager/ADManagerplus_help.pdf
+_admanagerplus_workbook.pdf https://download.manageengine.com/products/ad-manager/admanagerplus-workbook.pdf
