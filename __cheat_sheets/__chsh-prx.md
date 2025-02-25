@@ -1,8 +1,7 @@
 **Import Hyper-V VM**  
 
-> moount -t cifs -o username=user,domain=domain.dom //srv-dom-hvt-1/hvm  /mnt/smb/  
-> qm disk import 100 /mnt/smb/vhd/srv-dom-adc-1_hdd00.vhdx vmd-storage-name    
-
+`moount -t cifs -o username=user,domain=domain.dom //srv-dom-hvt-1/hvm  /mnt/smb/`
+`qm disk import 100 /mnt/smb/vhd/srv-dom-adc-1_hdd00.vhdx vmd-storage-name`
 
 ---
 
