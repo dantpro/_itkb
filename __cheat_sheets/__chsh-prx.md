@@ -1,6 +1,6 @@
 **Import Hyper-V VM to Proxmox**  
 
-> `moount -t cifs -o username=<user>,domain=<domain.dom> //srv-dom-hvt-1/hvm  /mnt/smb/`  
+> `moount -t cifs -o username=<user>,domain=<domain.dom> //dom-srv-hvt-1/hvm  /mnt/smb/`  
 > `qm disk import 100 /mnt/smb/vhd/<file-name>.vhdx <vmd-storage-name>`  
                                                              
 ---
