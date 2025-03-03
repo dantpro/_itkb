@@ -1,4 +1,4 @@
-**Create/Delete lvm thin pool**  
+**Proxmox - LVM Thin**  
 
 https://pve.proxmox.com/wiki/Storage:_LVM_Thin  
 
