@@ -7,8 +7,8 @@ https://pve.proxmox.com/wiki/ZFS_on_Linux
 > `zpool status`   
 
 > `zfs list`  
-> `zfs get used,referenced,volsize,compressratio pool-vmd/vm-1-disk-1`    
-> `zfs get all pool-vmd/vm-1-disk-1`  
+> `zfs get used,referenced,volsize,compressratio vmd/vm-1-disk-1`    
+> `zfs get all vmd/vm-1-disk-1`  
 
 > `zpool create -f -o ashift=12 vmd mirror /dev/sda /dev/sdc mirror /dev/sdb /dev/sdd`  
 > `zpool status`  
@@ -22,6 +22,4 @@ https://pve.proxmox.com/wiki/ZFS_on_Linux
 ![image](https://github.com/user-attachments/assets/7ddd8dec-840e-405b-a965-e04b99531880)
 
 ---
-
-
 
