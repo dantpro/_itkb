@@ -211,7 +211,7 @@ https://github.com/login-securite/DonPAPI
 > sudo apt install joomscan  
 
 > sudo apt install whatweb  
-> # sudo apt install wapiti  
+> #sudo apt install wapiti  
 
 https://book.hacktricks.xyz/network-services-pentesting/pentesting-web
 https://github.com/ShielderSec/webtech
