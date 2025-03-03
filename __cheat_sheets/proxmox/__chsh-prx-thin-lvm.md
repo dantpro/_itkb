@@ -16,7 +16,10 @@ https://pve.proxmox.com/wiki/Logical_Volume_Manager_(LVM)
 > `pvesm lvmthinscan vg-vmd`  
 
 > `lvremove /dev/vg-vmd/lv-vmd`  
-> `vgremove vg-vmd`    
+> `vgremove vg-vmd`  
+
+> `wipefs --all /dev/sda`  
+> `parted /dev/sda mklabel gpt`  
 
 ---
 
