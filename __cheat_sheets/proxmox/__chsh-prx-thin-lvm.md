@@ -25,5 +25,9 @@ https://pve.proxmox.com/wiki/Logical_Volume_Manager_(LVM)
 ![image](https://github.com/user-attachments/assets/31f28b5b-0844-41a2-abd0-d61efb532ed1)  
 ---
 
+**Get info**  
 
-
+> `pvs`  
+> `lvs`  
+> `lvdisplay`  
+> `lvdisplay vg-vmd/vm-1-disk-1`  
