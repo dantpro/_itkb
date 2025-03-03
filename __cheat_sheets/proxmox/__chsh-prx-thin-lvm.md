@@ -10,7 +10,7 @@ https://pve.proxmox.com/wiki/Logical_Volume_Manager_(LVM)
 > `pvs`
 
 > `vgcreate vg-vmd /dev/sda1`  
-> `lvcreate -n lv-vmd -l 99%FREE vg-vmd		
+> `lvcreate -n lv-vmd -l 99%FREE vg-vmd`  
 > `lvconvert --type thin-pool vg-vmd/lv-vmd`  
 > `lvs`  
 > `pvesm lvmthinscan vg-vmd`  
