@@ -22,4 +22,6 @@ https://pve.proxmox.com/wiki/Logical_Volume_Manager_(LVM)
 > `parted /dev/sda mklabel gpt`  
 
 ---
+![image](https://github.com/user-attachments/assets/31f28b5b-0844-41a2-abd0-d61efb532ed1)  
+
 
