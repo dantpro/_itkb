@@ -19,6 +19,9 @@ https://pve.proxmox.com/wiki/ZFS_on_Linux
 > `zfs get compression vmd`
 
 
+![image](https://github.com/user-attachments/assets/7ddd8dec-840e-405b-a965-e04b99531880)
+
+---
 
 
 
