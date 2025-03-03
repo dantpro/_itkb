@@ -15,7 +15,7 @@ https://pve.proxmox.com/wiki/ZFS_on_Linux
 > `zfs list`  
 
 > `zfs get compression vmd`  
-> `zfs set compression=lz4 vmd`
+> `zfs set compression=lz4 vmd`  
 > `zfs get compression vmd`
 
 
