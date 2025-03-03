@@ -6,8 +6,8 @@ https://pve.proxmox.com/wiki/Logical_Volume_Manager_(LVM)
 
 
 > `sgdisk -N 1 /dev/sda`  
-> `pvcreate --metadatasize 250k -y -ff /dev/sda1`
-> `pvs`
+> `pvcreate --metadatasize 250k -y -ff /dev/sda1`  
+> `pvs`  
 
 > `vgcreate vg-vmd /dev/sda1`  
 > `lvcreate -n lv-vmd -l 99%FREE vg-vmd`  
