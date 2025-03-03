@@ -7,7 +7,7 @@ https://www.kali.org/docs/general-use/metapackages/
 > sudo apt update  
 > sudo apt full-upgrade  
 
-> sudo apt install kali-desktop-xfce
+> sudo apt install kali-desktop-xfce  
 > #sudo apt install xfce4-goodies  
 > #sudo apt install xorg lightdm xfce4 xfce4-places-plugin xfce4-goodies  
 > sudo apt install xrdp pipewire-module-xrdp  
