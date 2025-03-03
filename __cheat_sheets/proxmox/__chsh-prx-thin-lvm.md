@@ -9,15 +9,15 @@ https://pve.proxmox.com/wiki/Logical_Volume_Manager_(LVM)
 > `pvcreate --metadatasize 250k -y -ff /dev/sda1`
 > `pvs`
 
-> `vgcreate vg-vmd /dev/sda1`
-> `lvcreate -n lv-vmd -l 99%FREE vg-vmd
+> `vgcreate vg-vmd /dev/sda1`  
+> `lvcreate -n lv-vmd -l 99%FREE vg-vmd  
 > `lvconvert --type thin-pool vg-vmd/lv-vmd`  
-> `lvs`  
+> `lvs`    
 > `pvesm lvmthinscan vg-vmd`  
 
-> `lvremove /dev/vg-vmd/lv-vmd`
+> `lvremove /dev/vg-vmd/lv-vmd`  
 
-> `vgremove vg-vmd`  
+> `vgremove vg-vmd`    
 
 ---
 

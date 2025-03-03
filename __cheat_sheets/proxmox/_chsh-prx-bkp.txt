@@ -1,0 +1,14 @@
+# https://forum.proxmox.com/threads/vma-archive-restore-outside-of-proxmox.14226/page-2#post-104054
+
+vma extract /mnt/tmp/vzdump-qemu-100-2016_10_21-15_30_49.vma/vzdump-qemu-100-2016_10_21-15_30_49.vma -v /root/raw
+qemu-img convert -pO vmdk disk-drive-virtio0.raw vm.vmdk
+
+---
+
+zstd -d ./vzdump-qemu-100-2025_02_10-17_11_26.vma.zst
+vma extract ./vzdump-qemu-100-2025_02_10-17_11_26.vma ./vmadata
+cd ./raw
+qemu-img convert -p -f raw -O vhdx ./vmadata/disk-drive-scsi0.raw  ./vmadata/disk-drive-scsi0.vhdx
+
+---
+
