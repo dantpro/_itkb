@@ -64,7 +64,11 @@ net
 > sudo apt install masscan  
 > #sudo apt install netcat-traditional  
 > sudo apt install wireshark tshark   
-> sudo apt install kerbrute  
+
+> #sudo apt install kerbrute  
+> https://github.com/ropnop/kerbrute/releases/latest  
+> wget https://github.com/ropnop/kerbrute/releases/download/v1.0.3/kerbrute_linux_amd64  
+
 > sudo apt install responder  
 
 > sudo apt install python3  
