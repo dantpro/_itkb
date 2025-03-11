@@ -231,3 +231,6 @@ https://github.com/aniqfakhrul/powerview.py
 > sudo apt install bloodyad  
 > sudo apt install certi  
 
+> sudo apt install yersinia  
+
+
