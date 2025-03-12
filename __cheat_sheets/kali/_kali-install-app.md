@@ -29,6 +29,8 @@ https://www.kali.org/docs/general-use/metapackages/
 > sudo apt install apt-listchanges  
 > sudo apt install bsd-mailx  
 
+> sudo apt install rcs  
+
 ufw
 ---
 
