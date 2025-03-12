@@ -234,5 +234,9 @@ https://github.com/aniqfakhrul/powerview.py
 > sudo apt install yersinia  
 > sudo apt install crunch
 
+> sudo apt install dhcpig  
+
+
+
   
 
