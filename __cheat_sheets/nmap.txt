@@ -31,3 +31,30 @@ nmap -sS 192.168.0.1
 
 nmap -v -sT -Pn --spoof-mac 0 192.168.0.1
 
+## init scan
+#
+# -sn: Ping Scan - disable port scan
+# --open: Only show open (or possibly open) ports
+#
+nmap -sn 192.168.0.0/24
+nmap -p22,80,135,443,445,3389 -Pn --open  192.168.0.0/24
+
+
+# -Pn: Treat all hosts as online -- skip host discovery
+# -sS/sT/sA/sW/sM: TCP SYN/Connect()/ACK/Window/Maimon scans
+# -sV: Probe open ports to determine service/version info
+# -A: Enable OS detection, version detection, script scanning, and traceroute
+
+nmap -Pn -sV 192.168.0.1
+nmap -Pn -A 192.168.0.1
+
+# scan all ports
+nmap -p- 192.168.0.1 
+nmap -sS -Pn -T5 -p- -sV 192.168.0.1 
+
+nmap -p22,80,443,445,3389 -A 192.168.0.1
+
+nmap -p22,80,135,443,445,3389 -Pn --open  192.168.0.0/24
+
+
+
