@@ -1,0 +1,33 @@
+nmap -p 80 192.168.0.1
+nmap -p 80,443 192.168.0.1
+
+nmap -p T:80 192.168.0.1
+nmap -p U:53 192.168.0.1
+
+nmap -p 50-500 192.168.0.1
+
+nmap -p U:53,137,T:21-25,138,139 192.168.0.1
+
+nmap -v -sU -sT U:53,137,T:21-25,138,139 192.168.0.1
+
+nmap -top-ports 5 192.168.0.1
+nmap -top-ports 10 192.168.0.1
+
+nmap -O 192.168.0.1
+nmap -O --osscan-guess 192.168.0.1
+nmap -v -O --osscan-guess 192.168.0.1
+
+# tcp null scan
+nmap -sN 192.168.0.1
+
+# tcp fin scan
+nmap -sF 192.168.0.1
+
+# tcp xmas scan
+nmap -sX 192.168.0.1
+
+# tcp syn scan
+nmap -sS 192.168.0.1
+
+nmap -v -sT -Pn --spoof-mac 0 192.168.0.1
+
