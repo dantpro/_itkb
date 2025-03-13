@@ -78,6 +78,8 @@ net
 > sudo apt install python3-pip  
 > sudo apt install pipx  
 
+> sudo apt install pypy3-venv  
+
 > sudo apt install tmux  
 > sudo apt install ufw  
 > sudo apt install ncdu  
