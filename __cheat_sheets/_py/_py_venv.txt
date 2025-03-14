@@ -1,3 +1,4 @@
+sudo apt install pipx
 sudo apt install python3-venv
 # sudo apt install pypy3-venv
 
@@ -5,16 +6,15 @@ cd ./py-some-app
 
 python3 -m venv .venv
 
-source .venv/bin/activate
+source ./.venv/bin/activate
 
 pip --version 
 
 python3 -m pip install -r requirements.txt
 
+pip install py-some-app
+
 .venv/bin/pip install py-some-app
 .venv/bin/python
 
-
-
-
-
+deactivate
