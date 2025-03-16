@@ -1,0 +1,3 @@
+san:ipaddress=10.0.0.5&dns=cnt-srv-mail-1&dns=cnt-srv-mail-1.contoso.lab&dns=mail&dns=mail.contoso.lab&dns=localhost
+
+
