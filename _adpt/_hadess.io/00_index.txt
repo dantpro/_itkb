@@ -1,1 +1,2 @@
-Adaptive-DLL-Hijacking.pdf https://hadess.io/adaptive-dll-hijacking/
+_hadess.io_active-directory-privilege-escalation-hardening.pdf https://hadess.io/wp-content/uploads/2022/06/active-directory-privilege-escalation-hardening.pdf
+_hadess.io_adaptive-dll-hijacking.pdf https://hadess.io/adaptive-dll-hijacking/
