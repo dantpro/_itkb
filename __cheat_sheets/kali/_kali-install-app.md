@@ -242,6 +242,9 @@ https://github.com/aniqfakhrul/powerview.py
 
 > sudo apt install dhcpig  
 
+> sudo apt install hoaxshell  
+
+
 
 
   
