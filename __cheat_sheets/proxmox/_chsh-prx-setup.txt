@@ -3,6 +3,8 @@ apt --reinstall install proxmox-widget-toolkit
 
 ---
 
+https://forum.proxmox.com/threads/no-pubkey.144908/
+
 wget http://download.proxmox.com/debian/proxmox-ve-release-6.x.gpg
 sha256sum proxmox-ve-release-6.x.gpg
 # confirm the last command had the expected output!
