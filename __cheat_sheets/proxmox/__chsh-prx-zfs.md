@@ -12,7 +12,11 @@ https://pve.proxmox.com/wiki/ZFS_on_Linux
 
 > `zpool create -f -o ashift=12 vmd mirror /dev/sda /dev/sdc mirror /dev/sdb /dev/sdd`  
 > `zpool status`  
-> `zfs list`  
+> `zfs list`
+
+> `zpool clear vmd`  
+> `zpool export vmd`  
+> `zpool import vmd -d /dev/disk/by-id`  
 
 > `zfs get compression vmd`  
 > `zfs set compression=lz4 vmd`  
