@@ -1,2 +1,1 @@
 __proxmox-home-lab-guide-2024.pdf https://www.virtualizationhowto.com/ebook/proxmox-home-lab-guide-2024.pdf
-__pve-admin-guide.pdf https://pve.proxmox.com/pve-docs/
