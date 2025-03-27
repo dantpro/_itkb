@@ -1,0 +1,42 @@
+http://www.howtoforge.com/replacing_hard_disks_in_a_raid1_array
+http://www.techrepublic.com/blog/opensource/replace-a-failed-drive-in-linux-raid/1368
+http://www.anchor.com.au/hosting/support/Linux_Software_RAID_Repair
+http://consultancy.edvoncken.net/index.php/HOWTO_Replace_a_failing_disk_on_Linux_Software_RAID-5
+
+Замена диска в зеркале md-raid1
+---
+
+Удаление неисправнеого диска sdb из mdraid
+>  
+> mdadm --fail /dev/md0 /dev/sdb1
+> mdadm --manage /dev/md0 --remove /dev/sdb1
+> halt
+
+Устранавливаем новый исправный диск
+
+Копирование таблицы разделов sda -> sdb
+> 
+> sfdisk -d /dev/sda | sfdisk --force /dev/sdb
+
+Проверяем идентичность разметки и sda и sdb
+> 
+> file -s /dev/sda; file -s /dev/sdb
+> file -s /dev/sda1; file -s /dev/sdb1
+> fdisk -l /dev/sda; fdisk -l /dev/sdb
+
+Добавляем диск в массив
+>  
+> mdadm --manage /dev/md0 --add /dev/sdb1
+
+Мониторим процесс восстановления массива:
+>
+> watch cat /proc/mdstat
+
+Результат
+>
+> mdadm --query /dev/md0; mdadm --detail /dev/md0 |less
+
+Установка загрузчика
+>
+> grub-install /dev/sdb
+
