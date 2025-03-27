@@ -1,0 +1,1 @@
+root_ca_certificate_renewal.pdf https://www.sysadmins.lv/blog-en/root-ca-certificate-renewal.aspx
