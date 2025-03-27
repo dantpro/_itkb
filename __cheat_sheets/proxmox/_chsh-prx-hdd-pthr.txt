@@ -1,0 +1,53 @@
+https://pve.proxmox.com/wiki/Passthrough_Physical_Disk_to_Virtual_Machine_(VM)
+
+Passthrough Physical Disk to Virtual Machine (VM)
+---
+
+> lshw -class disk -class storage  
+...
+           *-disk
+                description: ATA Disk
+                product: ST3000DM001-1CH1
+                vendor: Seagate
+                physical id: 0.0.0
+                bus info: scsi@3:0.0.0
+                logical name: /dev/sda
+                version: CC27
+                serial: Z1F41BLC
+                size: 2794GiB (3TB)
+                configuration: ansiversion=5 sectorsize=4096
+...
+
+> ls -l /dev/disk/by-id/ata-ST3000DM001-1CH166_Z1F41BLC
+...
+lrwxrwxrwx 1 root root 9 Jan 21 10:10 /dev/disk/by-id/ata-ST3000DM001-1CH166_Z1F41BLC -> ../../sda
+...
+
+
+> ls -l /dev/disk/by-id | grep Z1F41BLC  
+> lsblk -o +MODEL,SERIAL,WWN  
+> ls -l /dev/disk/by-id/
+
+> lsblk |awk 'NR==1{print $0" DEVICE-ID(S)"}NR>1{dev=$1;printf $0" ";system("find /dev/disk/by-id -lname \"*"dev"\" -printf \" %p\"");print "";}'|grep -v -E 'part|lvm'
+...
+NAME                         MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT DEVICE-ID(S)
+sda                            8:0    0   7.3T  0 disk   /dev/disk/by-id/wwn-0x5000c500c35cd719 /dev/disk/by-id/ata-ST8000DM004-2CX188_ZCT1DNY1
+sdb                            8:16   1    29G  0 disk   /dev/disk/by-id/usb-Generic_STORAGE_DEVICE-0:0
+sdc                            8:32   0 931.5G  0 disk   /dev/disk/by-id/usb-JMicron_Generic_0123456789ABCDEF-0:0
+sdd                            8:48   0   1.8T  0 disk   /dev/disk/by-id/wwn-0x5000c500661eeebd /dev/disk/by-id/ata-ST2000DX001-1CM164_Z1E783H2
+...
+
+> find /dev/disk/by-id/ -type l|xargs -I{} ls -l {}|grep -v -E '[0-9]$' |sort -k11|cut -d' ' -f9,10,11,12  
+...
+/dev/disk/by-id/ata-ST8000DM004-2CX188_ZCT1DNY1 -> ../../sda
+/dev/disk/by-id/wwn-0x5000c500c35cd719 -> ../../sda
+/dev/disk/by-id/usb-Generic_STORAGE_DEVICE-0:0 -> ../../sdb
+/dev/disk/by-id/usb-JMicron_Generic_0123456789ABCDEF-0:0 -> ../../sdc
+/dev/disk/by-id/ata-ST2000DX001-1CM164_Z1E783H2 -> ../../sdd
+/dev/disk/by-id/wwn-0x5000c500661eeebd -> ../../sdd
+...
+
+> qm set 592 -scsi2 /dev/disk/by-id/ata-ST3000DM001-1CH166_Z1F41BLC
+
+
+
