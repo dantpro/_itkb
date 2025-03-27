@@ -1,1 +1,2 @@
 "netspi.com-Beyond LLMNRNBNS Spoofing  Exploiting Active Directory-Integrated DNS.pdf" https://www.netspi.com/blog/technical-blog/network-penetration-testing/exploiting-adidns/
+f20.be-mdns_the_informal_informer.pdf https://f20.be/blog/mdns
