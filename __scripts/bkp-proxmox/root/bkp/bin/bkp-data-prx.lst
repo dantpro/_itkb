@@ -16,9 +16,9 @@
 
 /etc/corosync/
 
-/etc/ssh
+/etc/ssh/
 
 /etc/hostname
 /etc/hosts
 
-/var/spool/cron/crontabs
+/var/spool/cron/crontabs/
