@@ -12,3 +12,15 @@ qemu-img convert -p -f raw -O vhdx ./vmadata/disk-drive-scsi0.raw  ./vmadata/dis
 
 ---
 
+# https://forum.proxmox.com/threads/backup-cluster-config-pmxcfs-etc-pve.154569/
+#
+# backup cludb 
+sqlite3 /var/lib/pve-cluster/config.db .dump > ~/config.dump.$(date --utc +%Z%Y%m%d%H%M%S).sql
+
+# restore cludb 
+#
+systemctl stop pve-cluster
+killall pmxcfs
+mv /var/lib/pve-cluster/config.db{,.corrupt}
+sqlite3 /var/lib/pve-cluster/config.db < ~/config.dump.<timestamp>.sql
+systemctl start pve-cluster
