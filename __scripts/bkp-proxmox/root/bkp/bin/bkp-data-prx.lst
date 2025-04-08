@@ -1,20 +1,20 @@
 /root/.bash_history
 /root/.profile
-/root/___/
+#/root/___/
 
 /root/bkp/bin/
 
 /etc/apt/sources.list.d/
 /etc/apt/sources.list
 
-/etc/apt/apt.conf.d/no-nag-script
+#/etc/apt/apt.conf.d/no-nag-script
 
 /etc/fstab
 /etc/network/interfaces
 
 /etc/pve/
 
-/etc/corosync/
+#/etc/corosync/
 
 /etc/ssh/
 
@@ -22,6 +22,21 @@
 /etc/hosts
 /etc/resolv.conf
 
-/etc/modprobe.d/zfs.conf
+/etc/modprobe.d/
+#/etc/modprobe.d/zfs.conf
 
 /var/spool/cron/crontabs/
+
+#/etc/lvm/
+#/etc/vzdump.conf
+#/etc/sysctl.conf
+#/etc/ksmtuned.conf
+
+#/etc/cron.d/
+#/cron.daily/
+#/cron.hourly/
+#/cron.monthly/
+#/cron.weekly/
+#/cron.yearly/
+
+
