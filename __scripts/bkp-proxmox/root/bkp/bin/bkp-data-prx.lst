@@ -20,5 +20,8 @@
 
 /etc/hostname
 /etc/hosts
+/etc/resolv.conf
+
+/etc/modprobe.d/zfs.conf
 
 /var/spool/cron/crontabs/
