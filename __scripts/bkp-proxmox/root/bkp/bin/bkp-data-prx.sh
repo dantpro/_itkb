@@ -17,7 +17,10 @@ mount /mnt/bkpn
 #tar -cvhzp -T $BKP_LST -f $BKP_DST_DIR/$BKP_TIME\_$HOST\_data.tgz
 
 # no symlinks
-tar -cvzp -T $BKP_LST -f $BKP_DST_DIR/$BKP_TIME\_$HOST\_data.tgz
+#tar -cvzp -T $BKP_LST -f $BKP_DST_DIR/$BKP_TIME\_$HOST\_data.tgz
+
+grep -Ev '(#.*$)|(^$)' $BKP_LST |
+    xargs tar -cvzp -f $BKP_DST_DIR/$BKP_TIME\_$HOST\_data.tgz
 
 # DB Backup
 sqlite3 /var/lib/pve-cluster/config.db .dump |gzip -c > $BKP_DB_DST_DIR/config\_db\_dump\_$BKP_TIME.sql.gz
