@@ -73,7 +73,7 @@ foreach ($GPO in $AllGPOs) {
     if (-Not (Test-Path $GPOBkpPath)) {
         New-Item -Path $GPOBkpPath -ItemType directory | Out-Null
 
-        Start-Sleep -Seconds 2
+        Start-Sleep -Seconds 5
         
         Backup-GPO -Name $GPO.DisplayName -domain $domain -server $server -Path $GPOBkpPath
       
