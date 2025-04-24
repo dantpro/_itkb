@@ -6,17 +6,31 @@
 
 ### Param
 #
-$domain = "contoso.lab"
-$server = "cnt-adc-1.contoso.lab"
-#
-#-$bkp_dst = "."
-#-$bkp_dst = "C:\_home\_tmp\"
-#-$bkp_dst = "\\contoso.lab\sysdfs\backup\gpo_bkp"
-#
-$bkp_dst = $MyInvocation.MyCommand.Path | Split-Path -Parent
-#
-$bkp_history = 3
-#
+[CmdletBinding()]
+Param (
+    [Parameter()]
+    [string]
+    $domain = (Get-ADDomainController).Domain,
+
+    [Parameter()]
+    [string]
+    [Alias("domainController","dc")]
+    [ArgumentCompleter( {
+        param ( $commandName, $parameterName, $wordToComplete, $commandAst, $fakeBoundParameters )
+            $possibleValues = @{ Server = (Get-ADDomainController -Filter *).Hostname }
+                if ($fakeBoundParameters.ContainsKey('Type')) { $possibleValues[$fakeBoundParameters.Type] | Where-Object { $_ -like "$wordToComplete*" } }
+                else { $possibleValues.Values | ForEach-Object {$_} }
+    } )]
+    $server = (Get-ADDomain | Select-Object PDCEmulator).PDCEmulator,
+
+    [Parameter()]
+    [string] 
+    $path = ($MyInvocation.MyCommand.Path | Split-Path -Parent),
+    
+    [Parameter()]
+    [int] 
+    $history = 5
+)
 ###
 
 $BkpId = $(Get-Date -Format "yyMMdd_HHmmss")
@@ -24,7 +38,14 @@ $BkpId = $(Get-Date -Format "yyMMdd_HHmmss")
 $AllGPOs = Get-GPO -All -Domain $domain -Server $server
 
 Write-Host "---"
-Write-Host "--- All GPOs will be backed up to $bkp_dst\gpo_bkp_$($BkpId)" -foregroundColor yellow
+Write-Host "--- All GPOs will be backed up to $path\gpo_bkp_$($BkpId)" -foregroundColor yellow
+Write-Host "---"
+
+Write-Host "--- domain: $domain"
+Write-Host "--- server: $server"
+Write-Host "---"
+Write-Host "--- backup history: $history"
+Write-Host "--- backup path: $path"
 Write-Host "---"
 
 foreach ($GPO in $AllGPOs) {
@@ -40,10 +61,10 @@ foreach ($GPO in $AllGPOs) {
     #
     $TargetGPOName = $GPODisplayName -replace '>|<|:|"|\|/|\?|\*|\|'
 
-    #-$GPOBkpPath = $bkp_dst + '\gpo_bkp\' +$domain + '\' + $BkpId + '\' + $TargetGPOName + '\'
-    #-$GPOBkpPath = $bkp_dst + '\gpo_bkp_' +$domain + '_' + $BkpId + '\' + $TargetGPOName + '\'
+    #-$GPOBkpPath = $path + '\gpo_bkp\' +$domain + '\' + $BkpId + '\' + $TargetGPOName + '\'
+    #-$GPOBkpPath = $path + '\gpo_bkp_' +$domain + '_' + $BkpId + '\' + $TargetGPOName + '\'
     #
-    $GPOBkpPath = $bkp_dst + '\gpo_bkp_' + $BkpId + '\' + $TargetGPOName + '\' 
+    $GPOBkpPath = $path + '\gpo_bkp_' + $BkpId + '\' + $TargetGPOName + '\' 
 
     $HTMLReportFile = $GPOBkpPath + $TargetGPOName +'.html'
     $XMLReportFile = $GPOBkpPath + $TargetGPOName +'.xml'
@@ -62,11 +83,11 @@ foreach ($GPO in $AllGPOs) {
 }
 
 Try {
-    Write-Host "--- Purging backups, keep last $bkp_history...`n" -foregroundColor yellow
-    Get-ChildItem -Path $bkp_dst |
+    Write-Host "--- Purging backups, keep last $history...`n" -foregroundColor yellow
+    Get-ChildItem -Path $path |
         Where-Object { $_.PsIsContainer -and $_.name -like "gpo_bkp_*" } |
         Sort-Object -Descending -Property LastTimeWrite |
-        Select-Object -Skip $bkp_history |
+        Select-Object -Skip $history |
         Remove-Item -Recurse -Force #-whatif
     
 } Catch {
@@ -74,5 +95,5 @@ Try {
 }
 
 Write-Host "---"
-Write-Host "--- GPO backup to $bkp_dst\gpo_bkp_$($BkpId) completed." -foregroundColor yellow
+Write-Host "--- GPO backup to $path\gpo_bkp_$($BkpId) completed." -foregroundColor yellow
 Write-Host "---"
