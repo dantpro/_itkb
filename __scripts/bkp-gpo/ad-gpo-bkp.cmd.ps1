@@ -73,8 +73,8 @@ foreach ($GPO in $AllGPOs) {
     if (-Not (Test-Path $GPOBkpPath)) {
         New-Item -Path $GPOBkpPath -ItemType directory | Out-Null
 
-        #-Write-Output   $GPO.DisplayName $GPOGuid  $((get-date).datetime) "`n"
-
+        Start-Sleep -Seconds 2
+        
         Backup-GPO -Name $GPO.DisplayName -domain $domain -server $server -Path $GPOBkpPath
       
         Get-GPOReport -Guid $GPOGuid -ReportType HTML -domain $domain -server $server -Path $HTMLReportFile
