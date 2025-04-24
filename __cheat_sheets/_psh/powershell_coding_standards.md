@@ -378,4 +378,9 @@ The purpose of this section is to include third party tools or frameworks that s
 ### 5.1. [Windows PowerShell Core About Topics](https://technet.microsoft.com/en-us/library/hh847856.aspx) - This page is essentially the PowerShell manual and explains all of the inner workings
 ### 5.2. [Windows PowerShell Cmdlet Concepts](https://msdn.microsoft.com/en-us/library/dd878268(v=vs.85).aspx) - This page is written for when developing PowerShell cmdlets in .NET, although the same rules  apply as it is best practice to develop scripts and functions which behave the same as built in cmdlets.
 ### 5.3. [Windows PowerShell Approved Verbs](https://msdn.microsoft.com/en-us/library/ms714428(v=vs.85).aspx)
+### 5.4. [PowerShell Practice and Style](https://poshcode.gitbook.io/powershell-practice-and-style)
+### 5.5. [PowerShell Practice and Style Github](https://github.com/PoshCode/PowerShellPracticeAndStyle)
+
+
+
 
