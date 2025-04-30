@@ -1,0 +1,17 @@
+#!/bin/bash
+
+sudo apt update
+sudo apt install -y locales locales-all
+
+sudo sed -i '/^# *ru_RU.UTF-8 UTF-8/s/^# //' /etc/locale.gen
+sudo sed -i '/^# *en_US.UTF-8 UTF-8/s/^# //' /etc/locale.gen
+
+sudo locale-gen
+sudo update-locale LANG=en_US.UTF-8
+
+# --- RH
+#
+# sudo yum update -y
+# sudo yum install -y glibc-locale-source glibc-langpack-ru
+# localedef -c -f UTF-8 -i ru_RU ru_RU.UTF-8
+# localectl set-locale LANG=ru_RU.UTF-8
