@@ -24,6 +24,10 @@ https://miloserdov.org/?p=5878
 > locale -a  
 
 > vi /etc/locale.gen  
+
+> sudo sed -i '/^# *ru_RU.UTF-8 UTF-8/s/^# //' /etc/locale.gen  
+> sudo sed -i '/^# *en_US.UTF-8 UTF-8/s/^# //' /etc/locale.gen  
+
 > sudo locale-gen  
 
 ```
@@ -38,6 +42,8 @@ export LANG=en_US.UTF-8
 
 > sudo localectl set-locale LANG=en_US.UTF-8  
 > sudo localectl set-locale LANG=ru_RU.UTF-8  
+
+> sudo update-locale LANG=en_US.UTF-8  
 
 > echo 'en_US' > ~/.config/user-dirs.locale  
 > xdg-user-dirs-gtk-update  
