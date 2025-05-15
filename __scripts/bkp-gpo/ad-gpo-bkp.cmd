@@ -2,7 +2,7 @@
 
 ::cd %~dp0
 
-:: Parameters ::::::::::::::::::::::::::::::::::::::::::::::::
+:: Param :::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::
 Set domain='contoso.lab'
 Set server='cnt-adc-1.contoso.lab'
