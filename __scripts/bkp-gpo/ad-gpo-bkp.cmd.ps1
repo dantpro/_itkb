@@ -72,46 +72,45 @@ Write-Message "---"
 Write-Message "--- logfile: $LogFile"
 Write-Message "---"
 
-Try {
-    $AllGPOs = Get-GPO -All -Domain $domain -Server $server
+$AllGPOs = Get-GPO -All -Domain $domain -Server $server
 
-    foreach ($GPO in $AllGPOs) {
+foreach ($GPO in $AllGPOs) {
 
-        $GPODisplayName = $GPO.DisplayName
-        $GPOGuid = $GPO.Id
+    $GPODisplayName = $GPO.DisplayName
+    $GPOGuid = $GPO.Id
 
-        Write-Message "Backing up GPO:" -Color Green
-        Write-Message $GPODisplayName -Color White
-        Write-Message "{$GPOGuid}"
-        Write-Message "---"
+    Write-Message "Backing up GPO:" -Color Green
+    Write-Message $GPODisplayName -Color White
+    Write-Message "{$GPOGuid}"
+    Write-Message "---"
 
-        # https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file
-        #
-        $TargetGPOName = $GPODisplayName -replace '>|<|:|"|\|/|\?|\*|\|'
+    # https://learn.microsoft.com/en-us/windows/win32/fileio/naming-a-file
+    #
+    $TargetGPOName = $GPODisplayName -replace '>|<|:|"|\|/|\?|\*|\|'
 
-        #-$GPOBkpPath = $path + '\gpo_bkp\' +$domain + '\' + $BkpId + '\' + $TargetGPOName + '\'
-        #-$GPOBkpPath = $path + '\gpo_bkp_' +$domain + '_' + $BkpId + '\' + $TargetGPOName + '\'
-        #
-        $GPOBkpPath = $path + '\gpo_bkp_' + $BkpId + '\' + $TargetGPOName + '\' 
+    #-$GPOBkpPath = $path + '\gpo_bkp\' +$domain + '\' + $BkpId + '\' + $TargetGPOName + '\'
+    #-$GPOBkpPath = $path + '\gpo_bkp_' +$domain + '_' + $BkpId + '\' + $TargetGPOName + '\'
+    #
+    $GPOBkpPath = $path + '\gpo_bkp_' + $BkpId + '\' + $TargetGPOName + '\' 
 
-        $HTMLReportFile = $GPOBkpPath + $TargetGPOName +'.html'
-        $XMLReportFile = $GPOBkpPath + $TargetGPOName +'.xml'
+    $HTMLReportFile = $GPOBkpPath + $TargetGPOName +'.html'
+    $XMLReportFile = $GPOBkpPath + $TargetGPOName +'.xml'
 
-    
+    Try {
         if (-Not (Test-Path $GPOBkpPath)) {
             New-Item -Path $GPOBkpPath -ItemType directory | Out-Null
 
             Start-Sleep -Seconds 5
-        
+    
             $BackupDetail = Backup-GPO -Name $GPO.DisplayName -domain $domain -server $server -Path $GPOBkpPath
             Write-Message ($BackupDetail | Out-String)
 
             Get-GPOReport -Guid $GPOGuid -ReportType HTML -domain $domain -server $server -Path $HTMLReportFile
             Get-GPOReport -Guid $GPOGuid -ReportType XML -domain $domain -server $server -Path $XMLReportFile
         }
+    } Catch {
+        Write-Message $_.Exception.Message -Color Red
     }
-} Catch {
-    Write-Message $_.Exception.Message -Color Red
 }
 
 Try {
