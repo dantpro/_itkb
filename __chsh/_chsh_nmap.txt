@@ -1,3 +1,22 @@
+nmap -sn 10.0.0.0/24    # scan network (-sn Ping Scan - disable port scan)
+
+nmap -Pn -sV 10.0.0.1   # (-sV Probe open ports to determine service/version info)
+nmap -Pn -A  10.0.0.1   # (-A Enable OS detection, version detection, script scanning, and traceroute)
+
+nmap -Pn -p- 10.0.0.1   # scan all ports
+
+nmap -p22,80,443,445,3389 -A 10.0.0.1               # port list
+nmap -p22,80,135,443,445,3389 -Pn --open  10.0.0.1  #  (--open Only show open (or possibly open) ports)
+
+nmap -sS -Pn -T5 -p- -sV 10.0.0.1               # stealth full host scan
+
+nmap -Pn -sV --top-ports 50 --open 10.0.0.1     # quick scan
+nmap -Pn -sC -sV 10.0.0.1                       # classic scan
+nmap -Pn -sC -sV -p- 10.0.0.1                   # full scan
+nmap -sU -sC -sV 10.0.0.1                       # udp scan
+
+---
+
 nmap -p 80 192.168.0.1
 nmap -p 80,443 192.168.0.1
 
@@ -17,17 +36,13 @@ nmap -O 192.168.0.1
 nmap -O --osscan-guess 192.168.0.1
 nmap -v -O --osscan-guess 192.168.0.1
 
-# tcp null scan
-nmap -sN 192.168.0.1
+nmap -sN 192.168.0.1 # tcp null scan
 
-# tcp fin scan
-nmap -sF 192.168.0.1
+nmap -sF 192.168.0.1 # tcp fin scan
 
-# tcp xmas scan
-nmap -sX 192.168.0.1
+nmap -sX 192.168.0.1 # tcp xmas scan
 
-# tcp syn scan
-nmap -sS 192.168.0.1
+nmap -sS 192.168.0.1 # tcp syn scan
 
 nmap -v -sT -Pn --spoof-mac 0 192.168.0.1
 
@@ -55,6 +70,3 @@ nmap -sS -Pn -T5 -p- -sV 192.168.0.1
 nmap -p22,80,443,445,3389 -A 192.168.0.1
 
 nmap -p22,80,135,443,445,3389 -Pn --open  192.168.0.0/24
-
-
-
