@@ -109,6 +109,7 @@ c2
 exploit  
 ---
 
+https://www.exploit-db.com/searchsploit  
 > sudo apt install exploitdb  
 > sudo apt install searchsploit  
 
