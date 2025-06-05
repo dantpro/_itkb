@@ -31,6 +31,12 @@ https://www.kali.org/docs/general-use/metapackages/
 
 > sudo apt install rcs  
 
+> sudo apt install tmux  
+> sudo apt install ncdu  
+
+> sudo apt install neofetch screenfetch  
+
+
 ufw
 ---
 
@@ -59,19 +65,30 @@ net
 ---
 
 > sudo apt install ncat ndiff 
-> sudo  apt install nmap zenmap  
 > sudo apt install mtr-tiny  
 > sudo apt install hping3  
 > sudo apt install dnsutils  
-> sudo apt install masscan  
 > #sudo apt install netcat-traditional  
 > sudo apt install wireshark tshark   
+
+> sudo apt install responder  
 
 > #sudo apt install kerbrute  
 > https://github.com/ropnop/kerbrute/releases/latest  
 > wget https://github.com/ropnop/kerbrute/releases/download/v1.0.3/kerbrute_linux_amd64  
 
-> sudo apt install responder  
+
+net-scan  
+---  
+
+> sudo apt install nmap zenmap  
+> sudo apt install masscan  
+> sudo apt install netdiscover
+> sudo apt install arp-scan
+  
+
+python  
+---
 
 > sudo apt install python3  
 > sudo apt install python-is-python3  
@@ -82,17 +99,18 @@ net
 > sudo apt install pypy3-venv
 > sudo apt install python3-poetry
 
-> sudo apt install tmux  
-> sudo apt install ufw  
-> sudo apt install ncdu  
-
-> sudo apt install neofetch screenfetch  
 
 c2
 ---
 
 > sudo apt install metasploit-framework   
 > sudo apt install havoc  
+
+exploit  
+---
+
+> sudo apt install exploitdb  
+> sudo apt install searchsploit  
 
 
 pwd
