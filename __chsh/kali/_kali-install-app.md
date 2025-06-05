@@ -110,7 +110,8 @@ exploit
 ---
 
 https://www.exploit-db.com/searchsploit  
-> sudo apt install exploitdb  
+> sudo apt install exploitdb
+> sudo apt install exploitdb-papers  
 > sudo apt install searchsploit  
 
 
