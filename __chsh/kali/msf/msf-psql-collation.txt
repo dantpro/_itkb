@@ -1,0 +1,13 @@
+> sudo -u postgres psql  
+#
+# \l
+# \c msf
+# REINDEX DATABASE msf;
+# ALTER DATABASE msf REFRESH COLLATION VERSION;
+# \q
+
+
+
+
+
+
