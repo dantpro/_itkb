@@ -15,6 +15,10 @@ https://hacker4u.medium.com/bloodhound-community-edition-bhce-e35bf49fcfe6
 > `wget -q -O ./docker-compose.yml https://ghst.ly/getbhce`  
 > `echo 'BLOODHOUND_HOST=0.0.0.0' > ./bhce.env`   
 
+>  `echo '#!/bin/sh' > ./bhce.sh`   
+>  `echo 'sudo docker-compose --env-file ~/___/app/bhce/bhce.env -f ~/___/app/bhce/docker-compose.yml up' >> ./bhce.sh`
+>  `chmod +x ./bhce.sh`  
+
 > `sudo docker-compose --env-file ./bhce.env -f ./docker-compose.yml up`  
 > Container bhce-bloodhound-1  Created      
 > `sudo docker logs bhce-bloodhound-1 2>&1 | grep "Initial Password Set To:"`  
