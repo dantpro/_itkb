@@ -208,7 +208,7 @@ office
 ---
 
 https://github.com/Pennyw0rth/NetExec  
-> `pipx install git+https://github.com/Pennyw0rth/NetExec`  
+> pipx install git+https://github.com/Pennyw0rth/NetExec  
 
 https://www.kali.org/tools/netexec/
 > sudo apt install netexec
@@ -232,9 +232,9 @@ https://pipx.pypa.io/stable/
 > sudo pipx ensurepath --global # optional to allow pipx actions with --global argument  
 
 https://github.com/login-securite/DonPAPI  
-> `pipx install git+https://github.com/login-securite/DonPAPI.git`
+> pipx install git+https://github.com/login-securite/DonPAPI.git  
 
-> `pipx install pypykatz`  
+> pipx install pypykatz    
 
 > sudo apt install wpscan  
 > sudo apt install joomscan  
@@ -247,7 +247,7 @@ https://github.com/ShielderSec/webtech
 > `pip install webtech`  
 
 https://github.com/ly4k/Certipy
-> `pip3 install certipy-ad`
+> pip3 install certipy-ad  
 
 https://github.com/aniqfakhrul/powerview.py
 > sudo apt install libkrb5-dev  
