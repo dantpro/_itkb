@@ -1,4 +1,0 @@
-https://www.centralinfosec.com/blog/bloodhound-kali-install  
-https://breachar.medium.com/install-bloodhound-ce-under-kali-linux-2024-4-2a68feebdb62  
-https://hacker4u.medium.com/bloodhound-community-edition-bhce-e35bf49fcfe6  
-
