@@ -12,7 +12,7 @@ https://hacker4u.medium.com/bloodhound-community-edition-bhce-e35bf49fcfe6
 > `mkdir ~/___/app/bhce`    
 > `cd ~/___/app/bhce`  
 
-> `wget -q -O ./docker-compose.yml https://ghst.ly/getbhce`
+> `wget -q -O ./docker-compose.yml https://ghst.ly/getbhce`  
 > `echo 'BLOODHOUND_HOST=0.0.0.0' > ./bhce.env`   
 
 > `sudo docker-compose --env-file ./bhce.env -f ./docker-compose.yml up`  
