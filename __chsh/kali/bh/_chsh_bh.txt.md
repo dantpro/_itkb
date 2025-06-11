@@ -33,10 +33,10 @@ http://localhost:8080/ui/login
 
 > `mkdir bhdata && cd bhdata`    
 
-> `sudo bloodhound-python -d <domain> -u <user> -p <password> -ns <dc_ip> -c all`  
-> `sudo bloodhound-ce-python -d <domain> -u <user> -p <password> -ns <dc_ip> -c all`  
-> `sudo bloodhound-ce-python -d <domain> -u <user> -p <password> -ns <dc_ip> -c dconly`  
-> `sudo bloodhound-ce-python -d <domain> -u <user> -p <password> -ns <dc_ip> -c dconly -dc <dc_full_hostname> -gc <dc_full_hostname> -disable-autogc --zip -v`  
+`sudo bloodhound-python -d <domain> -u <user> -p <password> -ns <dc_ip> -c all`  
+`sudo bloodhound-ce-python -d <domain> -u <user> -p <password> -ns <dc_ip> -c all`  
+`sudo bloodhound-ce-python -d <domain> -u <user> -p <password> -ns <dc_ip> -c dconly`  
+`sudo bloodhound-ce-python -d <domain> -u <user> -p <password> -ns <dc_ip> -c dconly -dc <dc_full_hostname> -gc <dc_full_hostname> -disable-autogc --zip -v`  
 
 > `deactivate`  
 
