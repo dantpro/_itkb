@@ -64,7 +64,7 @@ root
 net
 ---
 
-> sudo apt install ncat ndiff 
+> sudo apt install ncat ndiff   
 > sudo apt install mtr-tiny  
 > sudo apt install hping3  
 > sudo apt install dnsutils  
@@ -83,7 +83,7 @@ net-scan
 
 > sudo apt install nmap zenmap  
 > sudo apt install masscan  
-> sudo apt install netdiscover
+> sudo apt install netdiscover  
 > sudo apt install arp-scan
   
 
@@ -96,8 +96,8 @@ python
 > sudo apt install python3-setuptools  
 
 > sudo apt install pipx  
-> sudo apt install pypy3-venv
-> sudo apt install python3-poetry
+> sudo apt install pypy3-venv  
+> #sudo apt install python3-poetry
 
 
 c2
@@ -110,9 +110,9 @@ exploit
 ---
 
 https://www.exploit-db.com/searchsploit  
-> sudo apt install exploitdb
-> #sudo apt install exploitdb-papers
-> #sudo apt install exploitdb-bin-sploits  
+> sudo apt install exploitdb  
+> #sudo apt install exploitdb-papers  
+> #sudo apt install exploitdb-bin-sploits    
 
 
 pwd
@@ -139,9 +139,9 @@ win/ad
 > sudo apt install impacket-scripts  
 > sudo apt install evil-winrm  
 
-> sudo apt install bloodhound
-> sudo apt install bloodhound.py
-  
+> sudo apt install bloodhound  
+> sudo apt install bloodhound.py  
+> #    
 > #sudo neo4j console  
 
 https://github.com/CravateRouge/autobloody
@@ -149,14 +149,13 @@ https://github.com/CravateRouge/autobloody
 
 > pip install autobloody
 
-
 > sudo apt install nbtscan  
 > #sudo apt install smbmap  
 
 proxy
 ---
 > sudo apt install chisel  
-> sudo apt install proxychains4
+> sudo apt install proxychains4  
 > sudo apt install ligolo-ng
 
 net
@@ -262,10 +261,6 @@ https://github.com/aniqfakhrul/powerview.py
 
 > sudo apt install dhcpig  
 
-> sudo apt install hoaxshell  
-
-
-
-
+> sudo apt install hoaxshell
   
 
