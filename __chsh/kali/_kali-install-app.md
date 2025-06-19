@@ -105,6 +105,7 @@ c2
 
 > sudo apt install metasploit-framework   
 > sudo apt install havoc  
+> sudo apt install sliver  
 
 exploit  
 ---
