@@ -94,6 +94,7 @@ python
 > sudo apt install python-is-python3  
 > sudo apt install python3-pip  
 > sudo apt install python3-setuptools  
+> sudo apt install python3-dev
 
 > sudo apt install pipx  
 > sudo apt install pypy3-venv  
@@ -147,6 +148,8 @@ win/ad
 
 https://github.com/CravateRouge/autobloody
 > sudo apt install libkrb5-dev
+
+> sudo apt install krb5-config
 
 > pip install autobloody
 
@@ -264,4 +267,10 @@ https://github.com/aniqfakhrul/powerview.py
 
 > sudo apt install hoaxshell
   
+> sudo apt install libkrb5-dev krb5-config  
+
+> sudo apt install gcc g++ build-essential make cmake   
+
+> #adaptix
+> sudo apt install gcc g++ build-essential make cmake libssl-dev qt6-base-dev qt6-websockets-dev qt6-declarative-dev  
 
