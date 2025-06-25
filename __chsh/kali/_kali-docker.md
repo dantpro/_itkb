@@ -26,17 +26,17 @@ https://www.kali.org/docs/containers/official-kalilinux-docker-images
 > $apt install kali-linux-core  
 > $apt install iproute2  mtr-tiny mc htop inetutils-ping net-tools  
 > 
-> docker ps
-> docker ps -a    
+> docker ps  
+> docker ps -a      
 > docker container list  
 > docker container list --all  
-> docker commit <id> kalicore  
-> docker rm <id>  
+> docker commit id kalicore  
+> docker rm id  
 > docker images  
 > docker image ls  
-> docker image rm <id>  
+> docker image rm id    
 > docker run -it kalicore  
-> docker start -ai <id>
-> docker start <id>  
-> docker attach <id>  
+> docker start -ai id
+> docker start id  
+> docker attach id  
 
