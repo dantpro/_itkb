@@ -286,4 +286,8 @@ https://github.com/aniqfakhrul/powerview.py
 > sudo apt install -y docker.io 
 > sudo apt install -y docker-compose   
 
+> #docker-compose  
+> version=$(wget -qO- https://api.github.com/repos/docker/compose/releases/latest | grep -v "central-infosec" | grep ".tag_name" | cut -d'"' -f4)    
+> sudo wget -q -O /usr/local/bin/docker-compose "https://github.com/docker/compose/releases/download/$version/docker-compose-$(uname -s)-$(uname -m)#cis"  
+> sudo chmod +x /usr/local/bin/docker-compose  
 
