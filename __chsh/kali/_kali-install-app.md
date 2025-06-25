@@ -274,3 +274,10 @@ https://github.com/aniqfakhrul/powerview.py
 > #adaptix
 > sudo apt install gcc g++ build-essential make cmake libssl-dev qt6-base-dev qt6-websockets-dev qt6-declarative-dev  
 
+> #docker-ce  
+> https://www.kali.org/docs/containers/installing-docker-on-kali  
+>
+> echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian bookworm stable" | sudo tee /etc/apt/sources.list.d/docker.list  
+> curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg  
+> sudo apt update  
+> sudo apt install docker-ce docker-ce-cli containerd.io  
