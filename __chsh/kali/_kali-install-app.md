@@ -284,7 +284,25 @@ https://github.com/aniqfakhrul/powerview.py
 
 > #docker.io
 > sudo apt install -y docker.io 
-> sudo apt install -y docker-compose   
+> sudo apt install -y docker-compose
+  
+> docker pull kalilinux/kali-rolling  
+> docker run -it kalilinux/kali-rolling
+> # apt install kali-linux-core
+> # apt install iproute2  mtr-tiny mc htop inetutils-ping net-tools
+> docker ps
+> docker ps -a    
+> docker container list  
+> docker container list --all  
+> docker commit <id> kalicore  
+> docker rm <id>  
+> docker images  
+> docker image ls  
+> docker image rm <id>  
+> docker run -it kalicore  
+> docker start -ai <id>
+> docker start <id>  
+> docker attach <id>  
 
 > #docker-compose  
 > version=$(wget -qO- https://api.github.com/repos/docker/compose/releases/latest | grep -v "central-infosec" | grep ".tag_name" | cut -d'"' -f4)    
