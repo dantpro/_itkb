@@ -6,7 +6,9 @@ https://www.kali.org/docs/containers/official-kalilinux-docker-images
 > #docker-ce  
 > https://www.kali.org/docs/containers/installing-docker-on-kali  
 >
-> `echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian bookworm stable" | sudo tee /etc/apt/sources.list.d/docker.list`    
+> `echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian bookworm stable" \   
+>| sudo tee /etc/apt/sources.list.d/docker.list`    
+>
 > `curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg`    
 > sudo apt update  
 > sudo apt install docker-ce docker-ce-cli containerd.io  
