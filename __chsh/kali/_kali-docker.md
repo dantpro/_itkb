@@ -30,14 +30,14 @@ https://www.kali.org/docs/containers/official-kalilinux-docker-images
 > docker ps -a      
 > docker container list  
 > docker container list --all  
-> docker commit id kalicore  
-> docker rm id  
+> docker commit _id_ kalicore  
+> docker rm _id_  
 > docker images  
 > docker image ls  
-> docker image rm id    
+> docker image rm _id_    
 > docker run -it kalicore  
-> docker start -ai id
-> docker start id  
+> docker start -ai _id_
+> docker start _id_  
 > docker attach _id_  
   
 
