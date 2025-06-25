@@ -281,3 +281,9 @@ https://github.com/aniqfakhrul/powerview.py
 > curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg  
 > sudo apt update  
 > sudo apt install docker-ce docker-ce-cli containerd.io  
+
+> #docker.io
+> sudo apt install -y docker.io 
+> sudo apt install -y docker-compose   
+
+
