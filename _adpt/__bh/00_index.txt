@@ -1,1 +1,2 @@
 gaya3-r.medium.com-setup_bloodhound_tool_on_windows_and_enumerate_active_directory_objects.pdf https://gaya3-r.medium.com/setup-bloodhound-tool-on-windows-and-enumerate-active-directory-objects-117a8d6c9f4c
+triplesec2-bloodhound_101.pdf https://www.intrinsec.com/wp-content/uploads/2019/05/TripleSec2-BloodHound_101.pdf
