@@ -100,6 +100,10 @@ python
 > sudo apt install pypy3-venv  
 > #sudo apt install python3-poetry
 
+> #uv  
+> https://docs.astral.sh/uv/getting-started/installation/  
+> curl -LsSf https://astral.sh/uv/install.sh | sh  
+> uv self update  
 
 c2
 ---
