@@ -314,3 +314,12 @@ https://github.com/aniqfakhrul/powerview.py
 > docker attach <id>  
 
 
+# --- root kits
+#
+> sudo apt install chkrootkit  
+> sudo chkrootkit   
+#
+> sudo apt install rkhunter  
+> sudo rkhunter -c  
+# ---
+  
