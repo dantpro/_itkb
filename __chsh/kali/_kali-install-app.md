@@ -297,8 +297,9 @@ https://github.com/aniqfakhrul/powerview.py
   
 > docker pull kalilinux/kali-rolling  
 > docker run -it kalilinux/kali-rolling
-> # apt install kali-linux-core
-> # apt install iproute2  mtr-tiny mc htop inetutils-ping net-tools
+> `apt install kali-linux-core`  
+> `apt install iproute2  mtr-tiny mc htop inetutils-ping net-tools`  
+
 > docker ps
 > docker ps -a    
 > docker container list  
