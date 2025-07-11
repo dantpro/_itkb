@@ -151,11 +151,9 @@ win/ad
 > #sudo neo4j console  
 
 https://github.com/CravateRouge/autobloody
-> sudo apt install libkrb5-dev
-
-> sudo apt install krb5-config
-
-> pip install autobloody
+> sudo apt install libkrb5-dev  
+> sudo apt install krb5-config  
+> pip install autobloody  
 
 > sudo apt install nbtscan  
 > #sudo apt install smbmap  
