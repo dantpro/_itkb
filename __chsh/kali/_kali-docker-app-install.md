@@ -8,6 +8,8 @@ https://computingforgeeks.com/managing-docker-containers-with-docker-compose/
 > sudo apt install curl gnupg2 apt-transport-https software-properties-common ca-certificates  
 > [ -f /var/run/reboot-required ] && sudo reboot -f  
 
+#docker-ce    
+
 > `curl -fsSL https://download.docker.com/linux/debian/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg`  
 > `echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/debian bookworm stable" | sudo tee /etc/apt/sources.list.d/docker.list`
 
