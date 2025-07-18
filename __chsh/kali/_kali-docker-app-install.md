@@ -43,7 +43,7 @@ services:
 ```
 
 > docker-compose up -d  
-> docker-compose ps
+> docker-compose ps  
 > docker-compose ps -a  
 > docker-compose stop  
 > docker-compose rm -f  
