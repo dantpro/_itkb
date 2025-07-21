@@ -326,3 +326,17 @@ root kits
 
 ---
   
+java
+---
+
+> sudo apt-cache search openjdk  
+> sudo apt install default-jdk    
+
+> java --version  
+> sudo update-alternatives --config java  
+> sudo update-alternatives --config javac  
+
+
+
+  
+
