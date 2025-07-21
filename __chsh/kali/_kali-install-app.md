@@ -328,6 +328,7 @@ root kits
   
 java
 ---
+https://shouts.dev/articles/install-java-on-kali-linux  
 
 > sudo apt-cache search openjdk  
 > sudo apt install default-jdk    
