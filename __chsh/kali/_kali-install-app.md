@@ -335,8 +335,3 @@ java
 > java --version  
 > sudo update-alternatives --config java  
 > sudo update-alternatives --config javac  
-
-
-
-  
-
