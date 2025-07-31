@@ -1,1 +1,0 @@
-"winitpro.ru-Извлекаем пароли пользователей из памяти Windows с помощью Mimikatz.pdf" https://winitpro.ru/index.php/2013/12/24/poluchenie-v-otkrytom-vide-parolej-polzovatelej-avtorizovannyx-v-windows/
