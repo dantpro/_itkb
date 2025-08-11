@@ -1,2 +1,2 @@
-root_ca_certificate_renewal.pdf https://www.sysadmins.lv/blog-en/root-ca-certificate-renewal.aspx
 renew_certificate_authority_certificates_on_windows_server_core_no_problem.pdf https://techcommunity.microsoft.com/blog/askds/renew-certificate-authority-certificates-on-windows-server-core-no-problem/4006988
+root_ca_certificate_renewal.pdf https://www.sysadmins.lv/blog-en/root-ca-certificate-renewal.aspx
