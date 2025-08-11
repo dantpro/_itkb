@@ -257,7 +257,8 @@ https://github.com/ShielderSec/webtech
 
 > sudo apt install xsser  
 
-`XSStrike`  
+`XSStrike`
+https://github.com/s0md3v/XSStrike/wiki/Usage    
 > `git clone https://github.com/s0md3v/XSStrike`  
 >  
 > cd XSStrike  
