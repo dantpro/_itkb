@@ -253,6 +253,22 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-web
 https://github.com/ShielderSec/webtech
 > pip install webtech    
 
+`xss`  
+
+> sudo apt install xsser  
+
+`XSStrike`  
+> `git clone https://github.com/s0md3v/XSStrike`  
+
+> cd XSStrike  
+>
+> python3 -m venv .venv  
+> source ./.venv/bin/activate  
+> python3 -m pip install -r requirements.txt  
+> #pip install -r requirements.txt  
+> python3 ./xsstrike.py
+
+
 https://github.com/ly4k/Certipy
 > pip3 install certipy-ad  
 
