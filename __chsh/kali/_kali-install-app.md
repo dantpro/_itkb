@@ -259,9 +259,9 @@ https://github.com/ShielderSec/webtech
 
 `XSStrike`  
 > `git clone https://github.com/s0md3v/XSStrike`  
-
+>  
 > cd XSStrike  
->
+>  
 > python3 -m venv .venv  
 > source ./.venv/bin/activate  
 > python3 -m pip install -r requirements.txt  
