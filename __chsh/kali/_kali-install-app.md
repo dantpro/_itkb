@@ -278,7 +278,8 @@ https://github.com/ly4k/Certipy
 > mkdir ~/___/app/certipy    
 > python3 -m venv .venv    
 > source ./.venv/bin/activate    
-> pip3 install certipy-ad  
+> pip install certipy-ad    
+> pip install -U certipy-ad  #--- upgrade ---#  
 > certipy --version  
 > certipy-ad --version  
 > deactivate  
