@@ -272,7 +272,16 @@ https://github.com/s0md3v/XSStrike/wiki/Usage
 
 
 https://github.com/ly4k/Certipy
+> sudo apt install certipy-ad    
+>  
+> #--- latest pip venv  ---     
+> mkdir ~/___/app/certipy    
+> python3 -m venv .venv    
+> source ./.venv/bin/activate    
 > pip3 install certipy-ad  
+> certipy --version  
+> certipy-ad --version  
+> deactivate  
 
 https://github.com/aniqfakhrul/powerview.py
 > sudo apt install libkrb5-dev  
