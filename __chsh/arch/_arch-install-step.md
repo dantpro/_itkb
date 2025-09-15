@@ -156,7 +156,7 @@ Packages
 
 > sudo pacman -S tldr man man-pages  
 
-> sudo pacman -S wget openssh openvpn openssl networkmanager network-manager-applet curl git bash-completion tmux htop inetutils netcat nmap mtr  
+> sudo pacman -S wget openssh openvpn openssl networkmanager network-manager-applet curl git bash-completion tmux htop inetutils netcat nmap mtr screenfetch    
 
 > sudo pacman -S firefox zip unzip unrar ntfs-3g viewnior evince mpv  
 
