@@ -160,6 +160,9 @@ Packages
 
 > sudo pacman -S firefox zip unzip unrar ntfs-3g viewnior evince mpv  
 
+`lib`  
+> sudo pacman -S libxcrypt-compat  
+
 `# >sudo pacman -S wget openssh openvpn openssl wpa_supplicant iw wireless_tools networkmanager network-manager-applet curl git bash-completion tmux htop pkgstats gst-plugins-good ttf-liberation ttf-bitstream-vera adobe-source-sans-pro-fonts ttf-droid ttf-dejavu ttf-anonymous-pro inetutils netcat nmap `  
 
 `# >sudo pacman -S  xorg xfce4 xfce4-goodies gvfs gvfs-mtp lightdm lightdm-gtk-greeter-settings light-locker gnome-keyring thunar-archive-plugin thunar-media-tags-plugin thunar-volman ffmpegthumbnailer pavucontrol firefox zip unzip unrar ntfs-3g pulseaudio viewnior evince mpv xdg-user-dirs `  
