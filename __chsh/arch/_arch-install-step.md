@@ -8,21 +8,21 @@ https://r0ttenbeef.github.io/Custom-Secure-Penetration-Testing-Arch-Linux-Instal
 KB
 ---
 >
->#`ls /usr/share/kbd/keymaps/**/*.map.gz`  
->#`ls /usr/share/kbd/keymaps/**/*.map.gz | grep "ru"`  
->#`loadkeys ru`  
+># `ls /usr/share/kbd/keymaps/**/*.map.gz`  
+># `ls /usr/share/kbd/keymaps/**/*.map.gz | grep "ru"`  
+># `loadkeys ru`  
 
 NET
 ---
-> rfkill  
-> rfkill unblock wifi  
+> # rfkill  
+> # rfkill unblock wifi  
 
-> iwctl  
-`[iwd]# device list`  
-`[iwd]# station wlan0 scan`  
-`[iwd]# station wlan0 get-networks`  
-`[iwd]# station wlan0 connect AP`  
-`[iwd]# station wlan0 show`  
+> # iwctl  
+#`[iwd]# device list`  
+#`[iwd]# station wlan0 scan`  
+#`[iwd]# station wlan0 get-networks`  
+#`[iwd]# station wlan0 connect AP`  
+#`[iwd]# station wlan0 show`  
 
 > ip l  
 > ip link  
