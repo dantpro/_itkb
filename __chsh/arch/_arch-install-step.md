@@ -7,15 +7,10 @@ https://r0ttenbeef.github.io/Custom-Secure-Penetration-Testing-Arch-Linux-Instal
 
 KB
 ---
-
-List all available layout:
-
->ls /usr/share/kbd/keymaps/**/*.map.gz 
-
-
->ls /usr/share/kbd/keymaps/**/*.map.gz | grep "ru"  
-
->loadkeys ru
+>
+>- ls /usr/share/kbd/keymaps/**/*.map.gz 
+>- ls /usr/share/kbd/keymaps/**/*.map.gz | grep "ru"  
+>- loadkeys ru  
 
 NET
 ---
