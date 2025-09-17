@@ -24,9 +24,10 @@ NET
 `[iwd]# station wlan0 connect AP`  
 `[iwd]# station wlan0 show`  
 
-> ip link / ip l  
-> ip address / ip a    
-
+> ip l  
+> ip link  
+> ip a  
+> ip address  
 
 HDD
 ---
