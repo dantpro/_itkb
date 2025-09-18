@@ -64,10 +64,12 @@ HDD
 
 `efi`    
 > mkfs.fat -F32 /dev/sda1 --- IF EFI     
-`swap`
+
+`swap`  
 > mkswap /dev/sda2  
 > swapon /dev/sda2  
-`root`
+
+`root`  
 > mkfs.ext4 /dev/sda3  
 
 > mount /dev/sda3 /mnt  
