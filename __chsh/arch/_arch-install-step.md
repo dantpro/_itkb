@@ -138,9 +138,9 @@ Setup Boot Manager
 
 > --- pacman -S grub efibootmgr os-prober 
 
-> --- pacman -S grub efibootmgr --- IF EFI
-> --- pacman -S grub            --- IF BIOS
-  
+> --- pacman -S grub efibootmgr --- IF EFI  
+> --- pacman -S grub            --- IF BIOS  
+
 > --- grub-install --target=x86_64-efi --bootloader-id=GRUB --efi-directory=/boot/efi --- IF EFI  
 > --- grub-install /dev/sda --- IF BIOS  
 
