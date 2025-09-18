@@ -195,8 +195,6 @@ Install system pkgs
 > sudo pacman -S man man-pages tldr --noconfirm   
 > sudo pacman -S bash-completion nano vim mc zip unzip unrar tmux screen htop screenfetch ncdu ntfs-3g pkgstats --noconfirm  
 
-> --- sudo pacman -S networkmanager network-manager-applet ppp --noconfirm   
-
 `wifi`
 > --- sudo pacman -S wpa_supplicant iw wireless_tools  
 
@@ -204,13 +202,10 @@ Install system libs
 ---
 > sudo pacman -S libxcrypt-compat --noconfirm    
 
-Install TUI console pkgs
----
-
 Install networking tools
 ---
 
-> sudo pacman -S openssh openvpn openssl curl wget git inetutils netcat nmap mtr fping hping --noconfirm  
+> sudo pacman -S openssh openvpn openssl ppp curl wget git inetutils netcat nmap mtr fping hping --noconfirm  
 
 Xwin
 ---
