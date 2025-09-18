@@ -89,7 +89,8 @@ Install System Base
 > --- `pacstrap /mnt base base-devel linux-lts linux-lts-headers`  
 > --- IF VM; Base + LTS Kernel + Headers    
 >
-> pacstrap /mnt base base-devel linux linux-lts --- IF VM; Base + Latest Kernel + LTS Kernel
+> pacstrap /mnt base base-devel linux linux-lts  
+> --- IF VM; Base + Latest Kernel + LTS Kernel  
 
 > genfstab -U /mnt >> /mnt/etc/fstab  
 > cat /mnt/etc/fstab  
