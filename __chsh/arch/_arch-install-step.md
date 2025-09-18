@@ -44,7 +44,7 @@ UEFI
 HDD
 ---
 >
-> lsblk
+> lsblk  
 > --- lsblk --scsi  
 > --- lsblk --nvme  
 
