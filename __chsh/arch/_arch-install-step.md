@@ -1,4 +1,4 @@
-# ArchLinux PT Setup
+# Arch Linux Install Steps  
 ---
 
 https://habr.com/ru/articles/819729/  
