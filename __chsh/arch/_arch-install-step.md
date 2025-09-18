@@ -225,11 +225,10 @@ Xwin
 
 `xfce`  
 > sudo pacman -S xfce4 xfce4-goodies --noconfirm
-> 
-> sudo pacman -S thunar-volman thunar-archive-plugin thunar-media-tags-plugin  
+> --- sudo pacman -S thunar-volman thunar-archive-plugin thunar-media-tags-plugin  
 
 `xdm`  
-> sudo pacman -S lightdm lightdm-gtk-greeter-settings  --noconfirm
+> sudo pacman -S lightdm lightdm-gtk-greeter-settings  --noconfirm  
 > sudo systemctl enable lightdm     
 
 > --- sudo pacman -S lxdm --noconfirm  
