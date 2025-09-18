@@ -182,7 +182,7 @@ Setup Remote Management
 
 > useradd -m -g users -G wheel -s /bin/bash username
 
-> passwd pt  
+> passwd username
 
 `sudo`  
 > echo "%wheel ALL=(ALL:ALL) NOPASSWD: ALL" >/etc/sudoers.d/sudoers  
