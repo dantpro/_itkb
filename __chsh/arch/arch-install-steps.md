@@ -1,6 +1,8 @@
 # Arch Linux Install Steps  
 ---
 
+https://dev.to/rshalford/series/14047  
+
 https://habr.com/ru/articles/819729/  
 https://itsfoss.com/install-arch-linux/  
 https://itsfoss.com/things-to-do-after-installing-arch-linux/  
