@@ -53,8 +53,8 @@ HDD
   
 
 > fdisk /dev/sda  
-`p`
-`g`
+`p`  
+`g`  
 `n ; +512M ; t 1 -> 1  ; EFI /dev/sda1` --- IF EFI  
 `n ; +512M ; t 1 -> 4  ; BIOS /dev/sda1` --- IF BIOS      
 `n ; +8G ;   t 2 -> 19 ; SWAP /dev/sda2`    
