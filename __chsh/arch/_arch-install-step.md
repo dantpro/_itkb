@@ -80,13 +80,13 @@ HDD
 Install System Base
 ---
 
-> --- `pacstrap /mnt base base-devel linux linux-headers linux-firmware intel-ucode amd-ucode`  
+> --- pacstrap /mnt base base-devel linux linux-headers linux-firmware intel-ucode amd-ucode  
 > --- IF HW; Base + Latest Kernel + Headers + Firmware   
 
-> --- `pacstrap /mnt base base-devel linux linux-headers`  
+> --- pacstrap /mnt base base-devel linux linux-headers    
 > --- IF VM; Base + Latest Kernel + Headers    
 
-> --- `pacstrap /mnt base base-devel linux-lts linux-lts-headers`  
+> --- pacstrap /mnt base base-devel linux-lts linux-lts-headers    
 > --- IF VM; Base + LTS Kernel + Headers    
 >
 > pacstrap /mnt base base-devel linux linux-lts  
