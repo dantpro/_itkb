@@ -224,7 +224,7 @@ Xwin
 > --- echo "exec i3" >> ~/.xinitrc  
 
 `xfce`  
-> sudo pacman -S xfce4 xfce4-goodies --noconfirm
+> sudo pacman -S xfce4 xfce4-goodies --noconfirm  
 > --- sudo pacman -S thunar-volman thunar-archive-plugin thunar-media-tags-plugin  
 
 `xdm`  
