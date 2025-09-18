@@ -180,8 +180,9 @@ Setup Remote Management
 > systemctl enable sshd.service  
 > systemctl start sshd.service  
 
-> --- useradd -m -g users -G wheel -s /bin/bash <username>  
+> --- useradd -m -g users -G wheel -s /bin/bash username
 > useradd -m -g users -G wheel -s /bin/bash pt   
+
 > passwd pt  
 
 `sudo`  
