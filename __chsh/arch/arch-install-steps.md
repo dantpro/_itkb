@@ -222,7 +222,7 @@ Xwin
 > --- sudo pacman -S ttf-anonymous-pro ttf-bitstream-vera adobe-source-sans-pro-fonts --noconfirm    
 
 `i3`  
-> --- sudo pacman -S i3-wm  
+> --- sudo pacman -S i3-wm i3status dmenu --noconfirm  
 > --- echo "exec i3" >> ~/.xinitrc  
 
 `xfce`  
