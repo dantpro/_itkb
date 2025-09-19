@@ -154,8 +154,13 @@ Setup Boot Manager
 Setup Networking
 ---
 
+`networkmanager`  
 > pacman -S networkmanager --noconfirm    
 > systemctl enable NetworkManager.service  
+
+`ntp`  
+> timedatectl  
+> timedatectl set-ntp true  
 
 Set root password
 ---
