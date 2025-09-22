@@ -5,7 +5,21 @@ DB
 > sudo systemctl start postgresql  
 > sudo msfdb init  
 > msfconsole -q  
-> msf > db_status  
+> `msf > db_status`
+
+`pg collation`  
+>
+> sudo -u postgres psql  
+>
+> `# \l`  
+> `# \c msf`  
+> `# REINDEX DATABASE msf;`  
+> `# ALTER DATABASE msf REFRESH COLLATION VERSION;`  
+> `# \q`  
+
+
+
+  
 
 
 
