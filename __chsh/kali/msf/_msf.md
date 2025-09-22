@@ -7,8 +7,7 @@ DB
 > msfconsole -q  
 > `msf > db_status`
 
-`pg collation`  
->
+`upd msf pg collation:`  
 > sudo -u postgres psql  
 >
 > `# \l`  
