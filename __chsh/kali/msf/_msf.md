@@ -1,7 +1,7 @@
 DB
 --- 
 
-`msf db init:`  
+*msf db init:*  
 >
 > sudo systemctl enable postgresql  
 > sudo systemctl start postgresql  
