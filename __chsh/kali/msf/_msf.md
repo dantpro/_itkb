@@ -1,7 +1,7 @@
 DB
 --- 
 
-_msf db init:_  
+__msf db init__  
 >
 > sudo systemctl enable postgresql  
 > sudo systemctl start postgresql  
@@ -9,7 +9,7 @@ _msf db init:_
 > msfconsole -q  
 > `msf > db_status`
 
-_upd msf pg collation:_  
+__upd msf pg collation__  
 >
 > sudo -u postgres psql  
 >
