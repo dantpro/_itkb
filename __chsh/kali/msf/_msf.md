@@ -13,7 +13,6 @@ __msf db init:__
 __upd msf pg collation:__  
 >
 > sudo -u postgres psql  
->
 > `# \l`  
 > `# \c msf`  
 > `# REINDEX DATABASE msf;`  
