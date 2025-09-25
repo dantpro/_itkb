@@ -163,7 +163,8 @@ proxy
 ---
 > sudo apt install chisel  
 > sudo apt install proxychains4  
-> sudo apt install ligolo-ng
+> sudo apt install ligolo-ng  
+> sudo apt install ligolo-mp  
 
 net
 ---
