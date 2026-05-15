@@ -1,0 +1,2 @@
+bi.zone_research_ad_cs_infrastructure_and_attack_detection_methods.pdf https://bi.zone/expertise/active-directory-certificate-services/
+bi.zone-как_лишить_mimikatz_эффективности_практический_харденинг_windows.pdf https://bi.zone/expertise/blog/kak-lishit-mimikatz-effektivnosti-prakticheskiy-khardening-windows/
