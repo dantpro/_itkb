@@ -1,0 +1,1 @@
+_FunWithLDAPandKerberos_Flathers_Troopers2019.pdf https://blog.ropnop.com/talk/2019/funwithldapkerb/ https://speakerdeck.com/ropnop/fun-with-ldap-and-kerberos-troopers-19
