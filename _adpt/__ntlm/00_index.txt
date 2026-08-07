@@ -8,3 +8,4 @@
 "xakep.ru-BloodHound Натаскиваем ищейку на поиск NTLM Relay.pdf" https://xakep.ru/2023/09/26/bloodhound-ntlm-relay/
 "xakep.ru-Гид по NTLM Relay Захватываем NTLM-аутентификацию для Relay-атаки.pdf" https://xakep.ru/2023/04/07/ntlm-relay-guide/
 "xakep.ru-Гид по NTLM Relay часть 2 Проводим Relay-атаки.pdf" https://xakep.ru/2023/04/11/ntlm-relay-guide-2/
+_cqureacademy.com-ntlm_phase_out_guide_in_active_directory_environments_v1.1.pdf https://cqureacademy.com/wp-content/uploads/2025/09/NTLM-Phase-out-Guide-in-Active-Directory-Environments-v1.1.pdf
