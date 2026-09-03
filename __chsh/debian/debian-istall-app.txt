@@ -1,0 +1,28 @@
+#  https://unix.stackexchange.com/questions/803746/install-minimal-gnome-in-debian-13
+#  https://zihad.com.bd/posts/debian-13-trixie-post-install/
+
+# gnome  
+
+> sudo apt install task-gnome-desktop
+
+sudo apt install \
+    gnome-shell \
+    mutter \
+    gnome-control-center \
+    gnome-terminal \
+    gdm3 \
+    nautilus \
+    network-manager \
+    gnome-settings-daemon \
+    xdg-desktop-portal \
+    xdg-desktop-portal-gnome \
+    pipewire wireplumber \
+    firefox-esr \
+    gedit
+
+
+> gnome-tweak-tool
+
+
+
+
