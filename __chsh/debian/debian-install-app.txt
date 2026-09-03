@@ -24,5 +24,12 @@ sudo apt install \
 > gnome-tweak-tool
 
 
+> apt install gnome-shell-extension-manager
+> apt install gnome-shell-extensions gnome-shell-extension-manager
+#
+# After that, you can install the "Dash to Panel" extension in the Extension Manager.
+#
+# gsettings set org.gnome.desktop.wm.preferences button-layout ':minimize,maximize,close'
+# gsettings set org.gnome.desktop.interface enable-hot-corners false
 
 
