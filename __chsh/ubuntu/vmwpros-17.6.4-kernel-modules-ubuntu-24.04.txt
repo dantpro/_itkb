@@ -1,0 +1,31 @@
+https://community.broadcom.com/vmware-cloud-foundation/question/vmware-workstation-breaks-after-kernel-upgrade
+---
+
+git clone https://github.com/Technogeezer50/vmware-host-modules.git
+cd vmware-host-modules
+
+# Check out the latest commit to the workstation-17.6.4 branch
+
+git checkout workstation-17.6.4
+
+# Now you can go ahead and make the modules
+
+make
+
+# If module compilation is successful, install the new modules
+
+sudo make install
+sudo systemctl stop vmware
+sudo systemctl start vmware
+
+# The modules should now be installed and working,.
+# It's up to you at this point if you want to tar up the updated module sources and copy them to
+# the /usr/lib/vmware/modules/source directory per the instructions in the INSTALL file so that Workstation can
+# recompile them for you the next time the kernel changes. If you don't do this, you will need to run the following each time
+# the kernel is updated:
+
+make clean
+make
+sudo make install
+sudo systemctl stop vmware
+sudo systemctl start vmware
