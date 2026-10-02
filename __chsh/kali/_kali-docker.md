@@ -38,7 +38,11 @@ https://www.kali.org/docs/containers/official-kalilinux-docker-images
 > docker run -it kalicore  
 > docker start -ai _id_  
 > docker start _id_    
-> docker attach _id_
+> docker attach _id_  
+> docker exec -it _id_ /bin/bash  
+> docker search kali  
+
+
 
   
   
